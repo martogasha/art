@@ -63,47 +63,19 @@
     </header>
     <div class="" data-aos="fade">
         <div class="container-fluid">
-            <div class="row justify-content-center">
-                <div class="col-md-7">
-                    <div class="row mb-5">
-                        <div class="col-md-7">
-                            <img src="asset/images/ximg_2.jpg.pagespeed.ic.emWhxXJw3s.jpg" alt="Images" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="row site-section">
-                        <div class="col-md-6 col-lg-6 col-xl-4 text-center mb-5">
-                            <img src="asset/images/xperson_1.jpg.pagespeed.ic.J19z8IzTYZ.jpg" alt="Image" class="img-fluid w-50 rounded-circle mb-4">
-                            <h2 class="text-black font-weight-light mb-4">Jean Smith</h2>
-                            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur ab quas facilis obcaecati non ea, est odit repellat distinctio incidunt, quia aliquam eveniet quod deleniti impedit sapiente atque tenetur porro?</p>
-                            <p>
-                                <a href="#" class="pl-0 pr-3"><span class="icon-twitter"></span></a>
-                                <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-                                <a href="#" class="pl-3 pr-3"><span class="icon-facebook"></span></a>
-                            </p>
-                        </div>
-                        <div class="col-md-6 col-lg-6 col-xl-4 text-center mb-5">
-                            <img src="asset/images/xperson_2.jpg.pagespeed.ic.yYek0ClmEN.jpg" alt="Image" class="img-fluid w-50 rounded-circle mb-4">
-                            <h2 class="text-black font-weight-light mb-4">Claire Smith</h2>
-                            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur ab quas facilis obcaecati non ea, est odit repellat distinctio incidunt, quia aliquam eveniet quod deleniti impedit sapiente atque tenetur porro?</p>
-                            <p>
-                                <a href="#" class="pl-0 pr-3"><span class="icon-twitter"></span></a>
-                                <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-                                <a href="#" class="pl-3 pr-3"><span class="icon-facebook"></span></a>
-                            </p>
-                        </div>
-                        <div class="col-md-6 col-lg-6 col-xl-4 text-center mb-5">
-                            <img src="asset/images/xperson_4.jpg.pagespeed.ic.NWdJNPr6_S.jpg" alt="Image" class="img-fluid w-50 rounded-circle mb-4">
-                            <h2 class="text-black font-weight-light mb-4">John Smith</h2>
-                            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur ab quas facilis obcaecati non ea, est odit repellat distinctio incidunt, quia aliquam eveniet quod deleniti impedit sapiente atque tenetur porro?</p>
-                            <p>
-                                <a href="#" class="pl-0 pr-3"><span class="icon-twitter"></span></a>
-                                <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-                                <a href="#" class="pl-3 pr-3"><span class="icon-facebook"></span></a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
+            <!--Now for the About section-->
+            <div class="about-div">
             </div>
+            <div class="about-div">
+                <h3 class="text-black h4"><b>WHO WE ARE</b></h3>
+                <p style="color: white">We are a creative hub inclined to provide professional solutions in creative design, printing, branding and digital<br> marketing that enhance your brand.<br>We ensure that we provide state-of-the art service to our clients by understanding their needs and creating ideas<br>and solutions that are channelled to meeting their needs.
+                </p>
+                <hr style="background-color: white">
+                <h3 class="text-black h4"><b>WHY US</b></h3>
+                <p style="color:white;">Understanding your brands is our priority. We strive to build lasting brands that will assist in establishing a platform<br>for continued growth. Choose us for the value we provide in being more of a business partner.<br>We believe ingredients of valuable relationship are quality, time management, cost efficiency, flexibility and<br>transparency.<br>Fire up your brand with the best.</p>
+            </div>
+
+        </div>
         </div>
     </div>
     <div class="footer py-4">
@@ -116,6 +88,104 @@
         </div>
     </div>
 </div>
+<style>
+    .about-div{
+        width:100%;
+        height: auto;
+        padding: 20px;
+        background-color:goldenrod;
+        justify-content: space-around;
+        align-items: flex-start;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .blog-line{
+        position: relative;
+        width:100px;
+        height: 8px;
+        background-image: linear-gradient(-45deg,aqua,pink,aquamarine);
+        border-radius: 20px;
+        left:0px;
+    }
+    .blog-txt a{
+        text-decoration: none;
+        color:#f15;
+        font-size:30px;
+        font-weight:bolder;
+        font-family:'Cookie', cursive;
+    }
+    .about-div img{
+        width:360px;
+        height: 360px;
+        border-radius: 8px;
+        border:8px solid #f18;
+        display: inline;
+        margin-top: 10px;
+        box-shadow: 0 3px 10px 0 rgba(100,100,100,.7);
+        transition-duration: .5s;
+    }
+
+    .about-div img:hover{
+        transform: scale(0.8);
+    }
+
+    .about-txt{
+        width:60%;
+        height: auto;
+        font-size: 22px;
+        color:#333;
+        font-family: cursive;
+        line-height: 30px;
+    }
+    .about-txt a{
+        text-decoration: none;
+        font-size: 25px;
+        color:#f18;
+        margin-right: 20px;
+    }
+    @media screen and (max-width:768px){
+
+        .about-div{
+            width:100%;
+            height: auto;
+            padding: 20px;
+            background-color: #d8b6fa;
+            display: flex;
+            justify-content: space-around;
+            align-items: flex-start;
+            flex-wrap: wrap;
+        }
+        .about-div img{
+            width:200px;
+            height: 200px;
+            border-radius: 50%;
+            border:8px solid #f18;
+            display: inline;
+            margin-top: 20px;
+            box-shadow: 0 3px 10px 0 rgba(100,100,100,.7);
+            transition-duration: .5s;
+        }
+
+        .about-div img:hover{
+            transform: scale(1.1);
+        }
+
+        .about-txt{
+            width:80%;
+            height: auto;
+            font-size: 22px;
+            color:#333;
+            font-family: cursive;
+            line-height: 30px;
+        }
+        .about-txt a{
+            text-decoration: none;
+            font-size: 25px;
+            color:#f18;
+            margin-right: 20px;
+        }
+    }
+</style>
 <script src="asset/js/jquery-3.3.1.min.js"></script>
 <script src="asset/js/jquery-migrate-3.0.1.min.js%2bjquery-ui.js%2bpopper.min.js.pagespeed.jc.WUDEEY8wBM.js"></script><script>eval(mod_pagespeed_$X$r3wIu6B);</script>
 <script>eval(mod_pagespeed_aFKX7lU_LN);</script>

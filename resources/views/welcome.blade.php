@@ -43,11 +43,11 @@
         <div class="header-nav__content"><h3 style="color: black">Navigation</h3>
             <ul class="header-nav__list">
                 <li class="current"><a class="smoothscroll" href="#home" title="home">Home</a></li>
-                <li><a class="smoothscroll" href="#about" title="about">About</a></li>
-                <li><a class="smoothscroll" href="#services" title="services">Services</a></li>
-                <li><a class="smoothscroll" href="#works" title="works">Works</a></li>
-                <li><a class="smoothscroll" href="#clients" title="clients">Clients</a></li>
-                <li><a class="smoothscroll" href="#contact" title="contact">Contact</a></li>
+                <li><a href="{{url('about')}}" title="about">About Us</a></li>
+                <li><a href="{{url('service')}}s" title="services">Services</a></li>
+                <li><a href="{{url('client')}}" title="works">Clientele</a></li>
+                <li><a href="#" title="clients">Blog</a></li>
+                <li><a href="{{url('client')}}" title="contact">Contact</a></li>
             </ul>
             <p STYLE="color: black">FOLLOW US</p>
             <ul class="header-nav__social">
@@ -62,7 +62,6 @@
             class="header-menu-icon"></span> </a></header>
 <section id="home" class="s-home target-section" data-parallax="scroll" data-image-src="images/hero-bg.jpg"
          data-natural-width=3000 data-natural-height=2000 data-position-y=center>
-    <div class="overlay"></div>
     <div class="shadow-overlay"></div>
     <div class="home-content">
             <div class="row home-content__main"><h3 style="color: goldenrod">Welcome to Masterpiece Graphics</h3>
@@ -73,7 +72,9 @@
             <a class="home-content__buttons">
                 <a href="{{url('gallery')}}"><button class="btn btn--primary" style="background-color: black;border-color: white;color: goldenrod">Explore</button></a>
                 <a href="{{url('about')}}"><button class="btn btn--primary" style="background-color: black;border-color: white;color: goldenrod">More About Us</button></a>
+            </a>
             </div>
+
         </div>
     </div>
     <ul class="home-social">
@@ -88,10 +89,7 @@
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="js/plugins.js"></script>
 <script src="js/main.js"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194"
-        integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw=="
-        data-cf-beacon='{"rayId":"702dced989c8cb7b","token":"cd0b4b3a733644fc843ef0b185f98241","version":"2021.12.0","si":100}'
-        crossorigin="anonymous"></script>
+
 </body>
 <!-- Mirrored from preview.colorlib.com/theme/glint/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Apr 2022 06:41:17 GMT -->
 </html>
