@@ -39,8 +39,8 @@
 <body id="top">
 <header class="s-header">
     <div class="header-logo"><a href="{{url('/')}}"><img src="asset/images/logo.png" alt="Header Logo"></a></div>
-    <nav class="header-nav"><a href="#0" class="header-nav__close" title="close"><span>Close</span></a>
-        <div class="header-nav__content"><h3>Navigation</h3>
+    <nav class="header-nav"  style="background-color: goldenrod"><a href="#0" class="header-nav__close" title="close"><span style="color:black">Close</span></a>
+        <div class="header-nav__content"><h3 style="color: black">Navigation</h3>
             <ul class="header-nav__list">
                 <li class="current"><a class="smoothscroll" href="#home" title="home">Home</a></li>
                 <li><a class="smoothscroll" href="#about" title="about">About</a></li>
@@ -49,18 +49,16 @@
                 <li><a class="smoothscroll" href="#clients" title="clients">Clients</a></li>
                 <li><a class="smoothscroll" href="#contact" title="contact">Contact</a></li>
             </ul>
-            <p>Perspiciatis hic praesentium nesciunt. Et neque a dolorum <a href='#0'>voluptatem</a> porro iusto sequi
-                veritatis libero enim. Iusto id suscipit veritatis neque reprehenderit.</p>
+            <p STYLE="color: black">FOLLOW US</p>
             <ul class="header-nav__social">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                <li><a href="#"><i class="fa fa-facebook" style="color: black;border-color: black"></i></a></li>
+                <li><a href="#"><i class="fa fa-instagram" style="color: black;border-color: black"></i></a></li>
+                <li><a href="#"><i class="fa fa-whatsapp" style="color: black;border-color: black"></i></a></li>
+                <li><a href="#"><i class="fa fa-twitter" style="color: black;border-color: black"></i></a></li>
             </ul>
         </div>
     </nav>
-    <a class="header-menu-toggle" href="#0"> <span class="header-menu-text">Menu</span> <span
+    <a class="header-menu-toggle" href="#0"> <span class="header-menu-text" style="color:goldenrod;">Menu</span> <span
             class="header-menu-icon"></span> </a></header>
 <section id="home" class="s-home target-section" data-parallax="scroll" data-image-src="images/hero-bg.jpg"
          data-natural-width=3000 data-natural-height=2000 data-position-y=center>
@@ -72,18 +70,18 @@
             </h1>
                 <h3 style="color: goldenrod;font-size: 20px"><span style="color: white">"</span>When love and skill work together expect a masterpiece<span style="color: white">"</span></h3>
                 <p style="color: white;font-size: 20px">-John Ruskin</p>
-            <div class="home-content__buttons">
-                <a href="{{url('gallery')}}" class="smoothscroll btn btn--stroke" style="color: goldenrod">Explore</a>
-                <a href="{{url('about')}}" class="smoothscroll btn btn--stroke" style="color: goldenrod"> More About Us </a>
+            <a class="home-content__buttons">
+                <a href="{{url('gallery')}}"><button class="btn btn--primary" style="background-color: black;border-color: white;color: goldenrod">Explore</button></a>
+                <a href="{{url('about')}}"><button class="btn btn--primary" style="background-color: black;border-color: white;color: goldenrod">More About Us</button></a>
             </div>
         </div>
     </div>
     <ul class="home-social">
         <li><a href="#0"><i class="fa fa-facebook" aria-hidden="true"></i><span>Facebook</span></a></li>
-        <li><a href="#0"><i class="fa fa-twitter" aria-hidden="true"></i><span>Twiiter</span></a></li>
         <li><a href="#0"><i class="fa fa-instagram" aria-hidden="true"></i><span>Instagram</span></a></li>
-        <li><a href="#0"><i class="fa fa-behance" aria-hidden="true"></i><span>Behance</span></a></li>
-        <li><a href="#0"><i class="fa fa-dribbble" aria-hidden="true"></i><span>Dribbble</span></a></li>
+        <li><a href="#0"><i class="fa fa-whatsapp" aria-hidden="true"></i><span>Whatsapp</span></a></li>
+        <li><a href="#0"><i class="fa fa-twitter" aria-hidden="true"></i><span>Twiiter</span></a></li>
+
     </ul>
 </section>
 
