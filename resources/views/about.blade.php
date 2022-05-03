@@ -67,11 +67,11 @@
             <div class="about-div">
             </div>
             <div class="about-div">
-                <h3 class="text-black h4"><b>WHO WE ARE</b></h3>
+                <h3 class="text-black h4"><b>WHO WE ARE&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</b></h3>
                 <p style="color: white">We are a creative hub inclined to provide professional solutions in creative design, printing, branding and digital<br> marketing that enhance your brand.<br>We ensure that we provide state-of-the art service to our clients by understanding their needs and creating ideas<br>and solutions that are channelled to meeting their needs.
                 </p>
                 <hr style="background-color: white">
-                <h3 class="text-black h4"><b>WHY US</b></h3>
+                <h3 class="text-black h4" style="margin-right: 100px"><b>WHY US&nbsp&nbsp&nbsp</b></h3>
                 <p style="color:white;">Understanding your brands is our priority. We strive to build lasting brands that will assist in establishing a platform<br>for continued growth. Choose us for the value we provide in being more of a business partner.<br>We believe ingredients of valuable relationship are quality, time management, cost efficiency, flexibility and<br>transparency.<br>Fire up your brand with the best.</p>
             </div>
 
@@ -149,7 +149,7 @@
             width:100%;
             height: auto;
             padding: 20px;
-            background-color: #d8b6fa;
+            background-color:goldenrod;
             display: flex;
             justify-content: space-around;
             align-items: flex-start;
