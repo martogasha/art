@@ -74,7 +74,6 @@
                 <a href="{{url('about')}}"><button class="btn btn--primary" style="background-color: black;border-color: white;color: goldenrod">More About Us</button></a>
             </a>
             </div>
-
         </div>
     </div>
     <ul class="home-social">
@@ -89,7 +88,30 @@
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="js/plugins.js"></script>
 <script src="js/main.js"></script>
+<script>
+        $('.fa-facebook').hover(function(){
+            $(this).css('backgroundColor', 'white');
+        }, function(){
+            $(this).css('backgroundColor', 'black');
+        });
+        $('.fa-instagram').hover(function(){
+            $(this).css('backgroundColor', 'white');
+        }, function(){
+            $(this).css('backgroundColor', 'black');
+        });
 
+        $('.fa-whatsapp').hover(function(){
+            $(this).css('backgroundColor', 'white');
+        }, function(){
+            $(this).css('backgroundColor', 'black');
+        });
+
+        $('.fa-twitter').hover(function(){
+            $(this).css('backgroundColor', 'white');
+        }, function(){
+            $(this).css('backgroundColor', 'black');
+        });
+</script>
 </body>
 <!-- Mirrored from preview.colorlib.com/theme/glint/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Apr 2022 06:41:17 GMT -->
 </html>
