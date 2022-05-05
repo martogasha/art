@@ -113,5 +113,10 @@
         });
 </script>
 </body>
+<style>
+    body {
+        background: url(images/home.png);
+    }
+</style>
 <!-- Mirrored from preview.colorlib.com/theme/glint/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Apr 2022 06:41:17 GMT -->
 </html>
