@@ -79,31 +79,31 @@
                                 <div class="box">
                                     <div class="container show-grid">
                                         <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: white"><img src="images/4.jpg" alt="icon"></div>
+                                            <div class="col-md-3"  style="background-color: white"><img src="images/EDU.png" alt="icon"></div>
                                             <div class="col-md-8" style="background-color: goldenrod">Education</div>
                                         </div>
                                     </div>
                                     <div class="container show-grid">
                                         <div class="row" style="width: 300px">
-                                            <div class="col-md-3" style="background-color: goldenrod"><img src="images/10.jpg" alt="icon"></div>
+                                            <div class="col-md-3" style="background-color: goldenrod"><img src="images/REAL.png" alt="icon"></div>
                                             <div class="col-md-8"  style="background-color: white">Real Estate</div>
                                         </div>
                                     </div>
                                     <div class="container show-grid">
                                         <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: white"><img src="images/4.jpg" alt="icon"></div>
+                                            <div class="col-md-3"  style="background-color: white"><img src="images/HEAL.png" alt="icon"></div>
                                             <div class="col-md-8" style="background-color: goldenrod">Health Care and Fitness</div>
                                         </div>
                                     </div>
                                     <div class="container show-grid">
                                         <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: goldenrod"><img src="images/10.jpg" alt="icon"></div>
+                                            <div class="col-md-3"  style="background-color: goldenrod"><img src="images/JUS.png" alt="icon"></div>
                                             <div class="col-md-8" style="background-color: white">Justice and Legal Firm</div>
                                         </div>
                                     </div>
                                     <div class="container show-grid">
                                         <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: white"><img src="images/4.jpg" alt="icon"></div>
+                                            <div class="col-md-3"  style="background-color: white"><img src="images/HOS.png" alt="icon"></div>
                                             <div class="col-md-8" style="background-color: goldenrod">Hospitality Industry</div>
                                         </div>
                                     </div>
@@ -113,31 +113,31 @@
                                 <div class="box">
                                     <div class="container show-grid">
                                         <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: white"><img src="images/4.jpg" alt="icon"></div>
+                                            <div class="col-md-3"  style="background-color: white"><img src="images/BANK.png" alt="icon"></div>
                                             <div class="col-md-8" style="background-color: goldenrod">Banking and Finance</div>
                                         </div>
                                     </div>
                                     <div class="container show-grid">
                                         <div class="row" style="width: 300px">
-                                            <div class="col-md-3" style="background-color: goldenrod"><img src="images/10.jpg" alt="icon"></div>
+                                            <div class="col-md-3" style="background-color: goldenrod"><img src="images/INS.png" alt="icon"></div>
                                             <div class="col-md-8"  style="background-color: white">Insurance</div>
                                         </div>
                                     </div>
                                     <div class="container show-grid">
                                         <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: white"><img src="images/4.jpg" alt="icon"></div>
+                                            <div class="col-md-3"  style="background-color: white"><img src="images/LOG.png" alt="icon"></div>
                                             <div class="col-md-8" style="background-color: goldenrod">Logistics</div>
                                         </div>
                                     </div>
                                     <div class="container show-grid">
                                         <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: goldenrod"><img src="images/10.jpg" alt="icon"></div>
+                                            <div class="col-md-3"  style="background-color: goldenrod"><img src="images/TE.png" alt="icon"></div>
                                             <div class="col-md-8" style="background-color: white">Tech Companies</div>
                                         </div>
                                     </div>
                                     <div class="container show-grid">
                                         <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: white"><img src="images/4.jpg" alt="icon"></div>
+                                            <div class="col-md-3"  style="background-color: white"><img src="images/CON.png" alt="icon"></div>
                                             <div class="col-md-8" style="background-color: goldenrod">Consultancy Firms</div>
                                         </div>
                                     </div>
@@ -147,31 +147,31 @@
                                 <div class="box">
                                     <div class="container show-grid">
                                         <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: white"><img src="images/9.jpg" alt="icon"></div>
+                                            <div class="col-md-3"  style="background-color: white"><img src="images/REL.png" alt="icon"></div>
                                             <div class="col-md-8" style="background-color: goldenrod">Religious Institutions</div>
                                         </div>
                                     </div>
                                     <div class="container show-grid">
                                         <div class="row" style="width: 300px">
-                                            <div class="col-md-3" style="background-color: goldenrod"><img src="images/10.jpg" alt="icon"></div>
+                                            <div class="col-md-3" style="background-color: goldenrod"><img src="images/NGO.png" alt="icon"></div>
                                             <div class="col-md-8"  style="background-color: white">NGOs</div>
                                         </div>
                                     </div>
                                     <div class="container show-grid">
                                         <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: white"><img src="images/6.jpg" alt="icon"></div>
+                                            <div class="col-md-3"  style="background-color: white"><img src="images/GO.png" alt="icon"></div>
                                             <div class="col-md-8" style="background-color: goldenrod">Government Bodies</div>
                                         </div>
                                     </div>
                                     <div class="container show-grid">
                                         <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: goldenrod"><img src="images/10.jpg" alt="icon"></div>
+                                            <div class="col-md-3"  style="background-color: goldenrod"><img src="images/IN.png" alt="icon"></div>
                                             <div class="col-md-8" style="background-color: white">Industrial</div>
                                         </div>
                                     </div>
                                     <div class="container show-grid">
                                         <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: white"><img src="images/6.jpg" alt="icon"></div>
+                                            <div class="col-md-3"  style="background-color: white"><img src="images/CL.png" alt="icon"></div>
                                             <div class="col-md-8" style="background-color: goldenrod">Cleaning Agencies</div>
                                         </div>
                                     </div>

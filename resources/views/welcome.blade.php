@@ -44,7 +44,7 @@
             <ul class="header-nav__list">
                 <li class="current"><a class="smoothscroll" href="#home" title="home">Home</a></li>
                 <li><a href="{{url('about')}}" title="about">About Us</a></li>
-                <li><a href="{{url('service')}}s" title="services">Services</a></li>
+                <li><a href="{{url('service')}}" title="services">Services</a></li>
                 <li><a href="{{url('client')}}" title="works">Clientele</a></li>
                 <li><a href="#" title="clients">Blog</a></li>
                 <li><a href="{{url('client')}}" title="contact">Contact</a></li>
