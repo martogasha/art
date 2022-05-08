@@ -29,10 +29,11 @@
                     <nav class="site-navigation position-relative text-right text-lg-center" role="navigation">
                         <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block">
                             <li><a href="{{url('/')}}">Home</a></li>
-                            <li class="active"><a href="{{url('about')}}">About Us</a></li>
                             <li>
-                                <a href="{{url('gallery')}}">Gallery</a>
+                                <a href="{{url('gallery')}}">Explore</a>
                             </li>
+                            <li class="active"><a href="{{url('about')}}">About Us</a></li>
+
                             <li><a href="{{url('service')}}">Services</a></li>
                             <li><a href="{{url('client')}}">Clientele</a></li>
                             <li><a href="{{url('contact')}}">Contact</a></li>
@@ -93,7 +94,7 @@
         width:100%;
         height: auto;
         padding: 20px;
-        background-color:goldenrod;
+        background-color:#DFB916;
         justify-content: space-around;
         align-items: flex-start;
         flex-wrap: wrap;
@@ -149,7 +150,7 @@
             width:100%;
             height: auto;
             padding: 20px;
-            background-color:goldenrod;
+            background-color:#DFB916;
             display: flex;
             justify-content: space-around;
             align-items: flex-start;

@@ -29,11 +29,10 @@
                     <nav class="site-navigation position-relative text-right text-lg-center" role="navigation">
                         <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block">
                             <li><a href="{{url('/')}}">Home</a></li>
-                            <li><a href="{{url('about')}}">About Us</a></li>
-
                             <li>
-                                <a href="{{url('gallery')}}">Gallery</a>
+                                <a href="{{url('gallery')}}">Explore</a>
                             </li>
+                            <li><a href="{{url('about')}}">About Us</a></li>
                             <li class="active"><a href="{{url('service')}}">Services</a></li>
                             <li><a href="{{url('client')}}">Clientele</a></li>
 
@@ -63,56 +62,51 @@
             </div>
         </div>
     </header>
-    <div class="site-section" data-aos="fade">
-        <div class="container-fluid">
-            <div class="row justify-content-center">
-                <div class="col-md-12">
-                    <div class="row mb-5">
+    <div style="background-color: #DFB916">
                         <div class="col-12 ">
-                            <h2 class="site-section-heading text-center" style="color: white;font-family: Arial, Sans-Serif"><b>Our Services</b></h2>
-                            <h3 style="font-family: Arial, sans-serif;text-align: center">We offer the following services</h3>
+                            <h2 class="site-section-heading text-center" style="color: white;font-family:montserrat-bold"><b>Our Services</b></h2>
+                            <h3 style="font-family: montserrat-bold;text-align: center;color:#000000">We offer the following services</h3>
                         </div>
-                    </div>
                         <div class="row" style="display: flex">
                             <div class="card col-xs-12 col-sm-6 col-md-4 col-lg-3">
                                 <div class="card-body" style="background-color: white;text-align: center;height: 700px">
                                     <img src="images/CREATIVE.png" alt="icon">
-                                    <h5 class="card-title" style="text-align: center;font-size:25px">Creative Design</h5>
-                                    <p class="card-text" style="text-align: center">Graphic design is the process of visual communication. When it comes to graphic design for brands, it's creating a visual representation that speaks to your audience. It influences everything about the way your brand is perceived visually, so you need it to be as well done as possible. We apply our creative skills to produce a comprehensive design that will deliver results that deliver success. Together, we can create design for your social media, advertising and marketing materials, publications, corporate stationery, packaging.</p>
+                                    <h5 class="card-title" style="text-align: center;font-family: montserrat-black;font-size: 30px;color: black">Creative Design</h5>
+                                    <p class="card-text" style="text-align: center;font-family: montserrat-black;color: black">Graphic design is the process of visual communication. When it comes to graphic design for brands, it's creating a visual representation that speaks to your audience. It influences everything about the way your brand is perceived visually, so you need it to be as well done as possible. We apply our creative skills to produce a comprehensive design that will deliver results that deliver success. Together, we can create design for your social media, advertising and marketing materials, publications, corporate stationery, packaging.</p>
                                 </div>
                             </div>
                             <div class="card col-xs-12 col-sm-6 col-md-4 col-lg-3">
                                 <div class="card-body" style="background-color: white;text-align: center;height: 700px">
                                     <img src="images/PRINT.png" alt="icon">
-                                    <h5 class="card-title" style="text-align: center;font-size:25px">Print</h5>
-                                    <p class="card-text" style="text-align: center"></p>
+                                    <h5 class="card-title" style="text-align: center;font-family: montserrat-black;font-size: 30px;color:#000000">Print</h5>
+                                    <p class="card-text" style="text-align: center;font-family: montserrat-black;color: black"></p>
                                 </div>
                             </div>
                             <div class="card col-xs-12 col-sm-6 col-md-4 col-lg-3">
                                 <div class="card-body" style="background-color: white;text-align: center;height: 700px">
                                     <img src="images/BRANDIN.png" alt="icon">
-                                    <h5 class="card-title" style="text-align: center;font-size:25px">BRANDING</h5>
-                                    <p class="card-text" style="text-align: center"></p>
+                                    <h5 class="card-title" style="text-align: center;font-family: montserrat-black;font-size: 30px;color: black">BRANDING</h5>
+                                    <p class="card-text" style="text-align: center;font-family: montserrat-black;color: black"></p>
 
                                 </div>
                             </div>
                             <div class="card col-xs-12 col-sm-6 col-md-4 col-lg-3">
                                 <div class="card-body" style="background-color: white;text-align: center;height: 700px">
                                     <img src="images/PROMO.png" alt="icon">
-                                    <h5 class="card-title" style="text-align: center;font-size:25px">Promo Items</h5>
-                                    <p class="card-text" style="text-align: center">Whether it's for marketing campaign, corporate event or corporate giveaway, they are perfect as giveaway to suppliers, staff and customers. They are a great opportunity to promote your business with branded items that serves as reminder to consumers every time they use the item. Our wide range of quality promotional products include</p>
-                                    <p style="text-align: left;margin-left: 10px"><b><b style="color:black">Apparel</b></b></p>
-                                    <p style="text-align: left;margin-left: 10px">T-shirts, Polo Shirts Overalls, Dust coats, Reflector jackets, Uniform, Caps, Bags</p>
-                                    <p style="text-align: left;margin-left: 10px"><b><b style="color:black">Merchandise</b></b></p>
-                                    <p style="text-align: left;margin-left: 10px">Executive gift set, Water bottle, computer Accessories such as flash disks, mouse,bluetooth speakers and mousepads,corporate gift items, Trophys, wall clocks, umbrellas, key rings, Pens, Mugs and much more</p>
+                                    <h5 class="card-title" style="text-align: center;font-family: montserrat-black;font-size: 30px;color: black">Promo Items</h5>
+                                    <p class="card-text" style="text-align: center;font-family: montserrat-black;color: black">Whether it's for marketing campaign, corporate event or corporate giveaway, they are perfect as giveaway to suppliers, staff and customers. They are a great opportunity to promote your business with branded items that serves as reminder to consumers every time they use the item. Our wide range of quality promotional products include</p>
+                                    <p style="text-align: left;margin-left: 10px;font-family: montserrat-black;color: black"><b><b style="color:black;font-family: montserrat-black;color: black">Apparel</b></b></p>
+                                    <p style="text-align: left;margin-left: 10px;font-family: montserrat-black;color: black">T-shirts, Polo Shirts Overalls, Dust coats, Reflector jackets, Uniform, Caps, Bags</p>
+                                    <p style="text-align: left;margin-left: 10px;font-family: montserrat-black;color: black"><b><b style="color:black;font-family: montserrat-black;color: black">Merchandise</b></b></p>
+                                    <p style="text-align: left;margin-left: 10px;font-family: montserrat-black;color: black">Executive gift set, Water bottle, computer Accessories such as flash disks, mouse,bluetooth speakers and mousepads,corporate gift items, Trophys, wall clocks, umbrellas, key rings, Pens, Mugs and much more</p>
                                 </div>
                             </div>
                             <div class="card col-xs-12 col-sm-6 col-md-4 col-lg-3">
                                 <div class="card-body" style="background-color: white;text-align: center;height: 700px">
                                     <img src="images/CORPORAT.png" alt="icon">
-                                    <h5 class="card-title" style="text-align: center;font-size:25px">Corporate Identity</h5>
-                                    <p class="card-text" style="text-align: center">Corporate Brand Identity is the name given to the elements of a brand that you can see. It exists to help customers recognise a business when they see it. Your company's brand identity is what sets you apart from your competitors. If done right, it can help you reach beyond your customer base and into the wider world. A company's Identity is made up of several different elements, including:</p>
-                                    <ul style="list-style-type:disc;text-align: left">
+                                    <h5 class="card-title" style="text-align: center;font-family: montserrat-black;font-size: 30px;color: black">Corporate Identity</h5>
+                                    <p class="card-text" style="text-align: center;font-family: montserrat-black;color: black">Corporate Brand Identity is the name given to the elements of a brand that you can see. It exists to help customers recognise a business when they see it. Your company's brand identity is what sets you apart from your competitors. If done right, it can help you reach beyond your customer base and into the wider world. A company's Identity is made up of several different elements, including:</p>
+                                    <ul style="list-style-type:disc;text-align: left;font-family: montserrat-black;color: black">
                                         <li>The Name</li>
                                         <li>Logo</li>
                                         <li>Colours used in advertising material and on retail premises</li>
@@ -124,29 +118,26 @@
                             <div class="card col-xs-12 col-sm-6 col-md-4 col-lg-3">
                                 <div class="card-body" style="background-color: white;text-align: center;height: 700px">
                                     <img src="images/PACKAGING.png" alt="icon">
-                                    <h5 class="card-title" style="text-align: center;font-size:25px">Packaging Design</h5>
-                                    <p class="card-text" style="text-align: center">This Involves the design and creation of the product's container and how it looks to consumers who might purchase it. Your packaging could be the difference between a new customer picking your product from the shop shelf, or picking up that of your competitor's. Great packaging appeals to the eye, the brain and the emotions. It stands out on the shelves. It states all the necessary features and benefits. It is also a reflection of the company brand. Not only does it promote a product, it also serves to help and prolog the contents as well. Product features may be printed on the box or a nutritional fact label may be available for the consumer to review. </p>
+                                    <h5 class="card-title" style="text-align: center;font-family: montserrat-black;font-size: 30px;color: black">Packaging Design</h5>
+                                    <p class="card-text" style="text-align: center;font-family: montserrat-black;color: black">This Involves the design and creation of the product's container and how it looks to consumers who might purchase it. Your packaging could be the difference between a new customer picking your product from the shop shelf, or picking up that of your competitor's. Great packaging appeals to the eye, the brain and the emotions. It stands out on the shelves. It states all the necessary features and benefits. It is also a reflection of the company brand. Not only does it promote a product, it also serves to help and prolog the contents as well. Product features may be printed on the box or a nutritional fact label may be available for the consumer to review. </p>
                                 </div>
                             </div>
                             <div class="card col-xs-12 col-sm-6 col-md-4 col-lg-3">
                                 <div class="card-body" style="background-color: white;text-align: center;height: 700px">
                                     <img src="images/SIGNAGE.png" alt="icon">
-                                    <h5 class="card-title" style="text-align: center;font-size:25px">Signage</h5>
-                                    <p class="card-text" style="text-align: center">Signage is any kind of visual display used to covey information. Business signs are often the first interaction that a potential customer has with a company, For example, external business signs or storefront signage usually represent the brand image.</p>
+                                    <h5 class="card-title" style="text-align: center;font-family: montserrat-black;font-size: 30px;color: black">Signage</h5>
+                                    <p class="card-text" style="text-align: center;font-family: montserrat-black;color: black">Signage is any kind of visual display used to covey information. Business signs are often the first interaction that a potential customer has with a company, For example, external business signs or storefront signage usually represent the brand image.</p>
                                 </div>
                             </div>
                             <div class="card col-xs-12 col-sm-6 col-md-4 col-lg-3">
                                 <div class="card-body" style="background-color: white;text-align: center;height: 700px">
                                     <img src="images/DIGITAL.png" alt="icon">
-                                    <h5 class="card-title" style="text-align: center;font-size:25px">Digital Marketing</h5>
-                                    <p class="card-text" style="text-align: center"></p>
+                                    <h5 class="card-title" style="text-align: center;font-family: montserrat-black;font-size: 30px;color: black">Digital Marketing</h5>
+                                    <p class="card-text" style="text-align: center;font-family: montserrat-black;color: black"></p>
                                 </div>
                             </div>
                         </div>
                     <style>
-                        body{
-                            background-color: goldenrod;
-                        }
                         .card-img {
                             padding-top: 100%;
                             position: relative;
@@ -165,9 +156,6 @@
                             top: 0;
                         }
                     </style>
-                </div>
-            </div>
-        </div>
     </div>
     <div class="footer py-4">
         <div class="container-fluid text-center">

@@ -12,7 +12,7 @@
     <div class="curtain-element"></div>
     <div class="curtain-element"></div>
 </div>
-<div class="container">
+<div class="container"  >
     <div class="center">
         <div>
             <h1 class="cssanimation sequence zoomInLeft"><a href="{{url('/')}}"><img src="images/logo.png" alt="Header Logo"></a></h1>
@@ -35,6 +35,7 @@
     <div class="curtain-element"></div>
 </div>
 <style>
+
 
     /* animation duration and fill mode */
     .cssanimation {
@@ -63,12 +64,11 @@
     }
     .curtain {
         width: 50%;
-        height: 90vh;
+        height: 99vh;
         float: left;
         animation-duration: 3s;
         animation-iteration-count: 1;
-        animation-timing-function: linear;
-        animation-fill-mode: forwards;
+        animation-timing-function:ease-out;
     }
 
     .curtain-left {
@@ -130,5 +130,5 @@ $('#test').on('click',function () {
 });
 setTimeout( function(){
     window.location = "{{url('home')}}";//here double curly bracket
-}  , 5000 );
+}  , 3000 );
 </script>

@@ -29,11 +29,11 @@
                     <nav class="site-navigation position-relative text-right text-lg-center" role="navigation">
                         <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block">
                             <li><a href="{{url('/')}}">Home</a></li>
+                            <li class="active">
+                                <a href="{{url('gallery')}}">Explore</a>
+                            </li>
                             <li><a href="{{url('about')}}">About Us</a></li>
 
-                            <li class="active">
-                                <a href="{{url('gallery')}}">Gallery</a>
-                            </li>
                             <li><a href="{{url('service')}}">Services</a></li>
                             <li><a href="{{url('client')}}">Clientele</a></li>
 
@@ -69,7 +69,7 @@
                 <div class="swiper-slide">
                     <div class="image-wrap">
                         <div class="image-info">
-                            <h2 class="mb-3">Digital Printing</h2>
+                            <h2 class="mb-3"><b>DIGITAL PRINTING</b></h2>
                             <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4">+</a>
                         </div>
                         <img src="asset/images/ddd.jpg" alt="Image">
