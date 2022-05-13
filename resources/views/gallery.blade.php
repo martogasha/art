@@ -27,7 +27,8 @@
                 </div>
                 <div class="col-10 col-md-8 d-none d-xl-block" data-aos="fade-down">
                     <nav class="site-navigation position-relative text-right text-lg-center" role="navigation">
-                        <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block">
+                        <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block" style="font-family: montserrat-bold;color: black"
+                        >
                             <li><a href="{{url('/')}}">Home</a></li>
                             <li class="active">
                                 <a href="{{url('gallery')}}">Explore</a>
@@ -69,12 +70,13 @@
                 <div class="swiper-slide">
                     <div class="image-wrap">
                         <div class="image-info">
-                            <h2 class="mb-3"><b>DIGITAL PRINTING</b></h2>
+                            <h2 class="mb-3">DIGITAL PRINTING</h2>
                             <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4">+</a>
                         </div>
-                        <img src="asset/images/ddd.jpg" alt="Image">
+                        <img src="asset/images/DIG.png" alt="Image">
                     </div>
                 </div>
+
                 <div class="swiper-slide">
                     <div class="image-wrap">
                         <div class="image-info">
@@ -87,16 +89,16 @@
                 <div class="swiper-slide">
                     <div class="image-wrap">
                         <div class="image-info">
-                            <h2 class="mb-3">People</h2>
+                            <h2 class="mb-3">OFFSET PRINTING</h2>
                             <a href="#" class="btn btn-outline-white py-2 px-4">+</a>
                         </div>
-                        <img src="asset/images/ximg_3.jpg.pagespeed.ic.Alqih_jm3c.jpg" alt="Image">
+                        <img src="asset/images/OFF.png" alt="Image">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="image-wrap">
                         <div class="image-info">
-                            <h2 class="mb-3">Architecture</h2>
+                            <h2 class="mb-3">DESIGN AND LAYOUT</h2>
                             <a href="#" class="btn btn-outline-white py-2 px-4">+</a>
                         </div>
                         <img src="asset/images/ximg_4.jpg.pagespeed.ic.C4VijvbM-5.jpg" alt="Image">
@@ -105,7 +107,7 @@
                 <div class="swiper-slide">
                     <div class="image-wrap">
                         <div class="image-info">
-                            <h2 class="mb-3">Animals</h2>
+                            <h2 class="mb-3">OUTDOOR ADVERTISING</h2>
                             <a href="#" class="btn btn-outline-white py-2 px-4">+</a>
                         </div>
                         <img src="asset/images/ximg_5.jpg.pagespeed.ic.0yjckZcSwo.jpg" alt="Image">
@@ -114,7 +116,7 @@
                 <div class="swiper-slide">
                     <div class="image-wrap">
                         <div class="image-info">
-                            <h2 class="mb-3">Sports</h2>
+                            <h2 class="mb-3">PUBLICATIONS</h2>
                             <a href="#" class="btn btn-outline-white py-2 px-4">More Photos</a>
                         </div>
                         <img src="asset/images/ximg_6.jpg.pagespeed.ic.nnno7Z3q2B.jpg" alt="Image">
@@ -123,10 +125,46 @@
                 <div class="swiper-slide">
                     <div class="image-wrap">
                         <div class="image-info">
-                            <h2 class="mb-3">Travel</h2>
+                            <h2 class="mb-3">BRANDING AND PROMOTION</h2>
+                            <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
+                        </div>
+                        <img src="asset/images/BR.png" alt="Image">
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="image-wrap">
+                        <div class="image-info">
+                            <h2 class="mb-3">PACKAGING DESIGN</h2>
+                            <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
+                        </div>
+                        <img src="asset/images/PAC.png" alt="Image">
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="image-wrap">
+                        <div class="image-info">
+                            <h2 class="mb-3">CORPORATE STATIONERY</h2>
                             <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
                         </div>
                         <img src="asset/images/ximg_7.jpg.pagespeed.ic.uxpbgysuJx.jpg" alt="Image">
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="image-wrap">
+                        <div class="image-info">
+                            <h2 class="mb-3">INFOGRAPHICS</h2>
+                            <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
+                        </div>
+                        <img src="asset/images/ximg_7.jpg.pagespeed.ic.uxpbgysuJx.jpg" alt="Image">
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="image-wrap">
+                        <div class="image-info">
+                            <h2 class="mb-3">DIGITAL SERVICES</h2>
+                            <a href="single.html" class="btn btn-outline-white py-2 px-4">+</a>
+                        </div>
+                        <img src="asset/images/DIS.png" alt="Image">
                     </div>
                 </div>
             </div>
@@ -146,6 +184,17 @@
         </div>
     </div>
 </div>
+<style>
+    .mb-3{
+        font-size: 40px;
+        font-weight: bold;
+    }
+    .btn-outline-white{
+        width: 200px;
+        font-weight: bold;
+        text-orientation: initial;
+    }
+</style>
 <script src="asset/js/jquery-3.3.1.min.js"></script>
 <script src="asset/js/jquery-migrate-3.0.1.min.js%2bjquery-ui.js%2bpopper.min.js.pagespeed.jc.WUDEEY8wBM.js"></script><script>eval(mod_pagespeed_$X$r3wIu6B);</script>
 <script>eval(mod_pagespeed_aFKX7lU_LN);</script>

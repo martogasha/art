@@ -27,7 +27,7 @@
                 </div>
                 <div class="col-10 col-md-8 d-none d-xl-block" data-aos="fade-down">
                     <nav class="site-navigation position-relative text-right text-lg-center" role="navigation">
-                        <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block">
+                        <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block" style="font-family: montserrat-bold;color: black">
                             <li><a href="{{url('/')}}">Home</a></li>
                             <li>
                                 <a href="{{url('gallery')}}">Explore</a>

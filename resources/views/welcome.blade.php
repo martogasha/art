@@ -39,10 +39,11 @@
 <body id="top">
 <header class="s-header">
     <div class="header-logo"><a href="{{url('/')}}"><img src="asset/images/logo.png" alt="Header Logo"></a></div>
-    <nav class="header-nav"  style="background-color: goldenrod"><a href="#0" class="header-nav__close" title="close"><span style="color:black">Close</span></a>
+    <nav class="header-nav"  style="background-color: #DFB916"><a href="#0" class="header-nav__close" title="close"><span style="color:black">Close</span></a>
         <div class="header-nav__content"><h3 style="color: black">Navigation</h3>
             <ul class="header-nav__list">
                 <li class="current"><a class="smoothscroll" href="#home" title="home">Home</a></li>
+                <li><a href="{{url('gallery')}}" title="about">Explore</a></li>
                 <li><a href="{{url('about')}}" title="about">About Us</a></li>
                 <li><a href="{{url('service')}}" title="services">Services</a></li>
                 <li><a href="{{url('client')}}" title="works">Clientele</a></li>
@@ -58,11 +59,14 @@
             </ul>
         </div>
     </nav>
-    <a class="header-menu-toggle" href="#0"> <span class="header-menu-text" style="color:goldenrod;">Menu</span> <span
+    <a class="header-menu-toggle" href="#0"> <span class="header-menu-text" style="color:#DFB916;">Menu</span> <span
             class="header-menu-icon"></span> </a></header>
 <section id="home" class="s-home target-section" data-parallax="scroll" data-image-src="images/hero-bg.jpg"
          data-natural-width=3000 data-natural-height=2000 data-position-y=center>
     <div class="shadow-overlay"></div>
+            <div class="vertical">
+                email@companydomain.com
+            </div>
     <div class="home-content">
             <div class="row home-content__main"><h3 style="color: #DFB916;font-family: montserrat-bold">Welcome to Masterpiece Graphics</h3>
             <h1 style="font-size: 40px;font-family: montserrat-bold"> We are a creative hub inclined to <br> Provide professional solutions in <br> Creative design, printing, branding <br> and digital marketing that enhance <br> your brand.
@@ -84,34 +88,35 @@
 
     </ul>
 </section>
+<style>
+    .vertical {
+        -ms-transform: rotate(-90deg);
+        -moz-transform: rotate(-90deg);
+        -webkit-transform: rotate(-90deg);
+        transform: rotate(-90deg);
+        -ms-transform-origin: right top 0;
+        -moz-transform-origin: right top 0;
+        -webkit-transform-origin: right top 0;
+        transform-origin: right top 0;
+        font-family: "Megrim", cursive;
+        right: 99%;
+        color: #DFB916;
+        padding-top: 2vw;
+        padding-right: 20vw;
+        font-size: 1.5vw;
+        white-space: nowrap;
+        cursor: vertical-text;
+        position: absolute;
+        height: auto;
+        z-index: 11;
+    }
 
+
+</style>
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="js/plugins.js"></script>
 <script src="js/main.js"></script>
-<script>
-        $('.fa-facebook').hover(function(){
-            $(this).css('backgroundColor', 'white');
-        }, function(){
-            $(this).css('backgroundColor', 'black');
-        });
-        $('.fa-instagram').hover(function(){
-            $(this).css('backgroundColor', 'white');
-        }, function(){
-            $(this).css('backgroundColor', 'black');
-        });
 
-        $('.fa-whatsapp').hover(function(){
-            $(this).css('backgroundColor', 'white');
-        }, function(){
-            $(this).css('backgroundColor', 'black');
-        });
-
-        $('.fa-twitter').hover(function(){
-            $(this).css('backgroundColor', 'white');
-        }, function(){
-            $(this).css('backgroundColor', 'black');
-        });
-</script>
 </body>
 <style>
     body {

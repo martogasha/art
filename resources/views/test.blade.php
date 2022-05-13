@@ -125,9 +125,6 @@
         data-cf-beacon='{"rayId":"6f3ef95afd63cb73","token":"cd0b4b3a733644fc843ef0b185f98241","version":"2021.12.0","si":100}'
         crossorigin="anonymous"></script>
 <script>
-$('#test').on('click',function () {
-    window.location = "{{url('/')}}";//here double curly bracket
-});
 setTimeout( function(){
     window.location = "{{url('home')}}";//here double curly bracket
 }  , 3000 );

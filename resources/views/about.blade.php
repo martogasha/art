@@ -27,7 +27,7 @@
                 </div>
                 <div class="col-10 col-md-8 d-none d-xl-block" data-aos="fade-down">
                     <nav class="site-navigation position-relative text-right text-lg-center" role="navigation">
-                        <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block">
+                        <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block" style="font-family: montserrat-bold;color: black">
                             <li><a href="{{url('/')}}">Home</a></li>
                             <li>
                                 <a href="{{url('gallery')}}">Explore</a>
@@ -68,12 +68,12 @@
             <div class="about-div">
             </div>
             <div class="about-div">
-                <h3 class="text-black h4"><b>WHO WE ARE&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</b></h3>
-                <p style="color: white">We are a creative hub inclined to provide professional solutions in creative design, printing, branding and digital<br> marketing that enhance your brand.<br>We ensure that we provide state-of-the art service to our clients by understanding their needs and creating ideas<br>and solutions that are channelled to meeting their needs.
+                <h3 class="text-black h4" style="font-family: montserrat-bold;font-size: 30px"><b>WHO WE ARE&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</b></h3>
+                <p style="color: white;font-family: montserrat-bold;font-size: 20px">We are a creative hub inclined to provide professional solutions in creative design, printing, branding and digital<br> marketing that enhance your brand.<br>We ensure that we provide state-of-the art service to our clients by understanding their needs and creating ideas<br>and solutions that are channelled to meeting their needs.
                 </p>
                 <hr style="background-color: white">
-                <h3 class="text-black h4" style="margin-right: 100px"><b>WHY US&nbsp&nbsp&nbsp</b></h3>
-                <p style="color:white;">Understanding your brands is our priority. We strive to build lasting brands that will assist in establishing a platform<br>for continued growth. Choose us for the value we provide in being more of a business partner.<br>We believe ingredients of valuable relationship are quality, time management, cost efficiency, flexibility and<br>transparency.<br>Fire up your brand with the best.</p>
+                <h3 class="text-black h4" style="margin-right: 100px;font-family: montserrat-bold;font-size: 30px"><b>WHY US&nbsp&nbsp&nbsp</b></h3>
+                <p style="color:white;font-family: montserrat-bold;font-size: 20px">Understanding your brands is our priority. We strive to build lasting brands that will assist in establishing a platform<br>for continued growth. Choose us for the value we provide in being more of a business partner.<br>We believe ingredients of valuable relationship are quality, time management, cost efficiency, flexibility and<br>transparency.<br>Fire up your brand with the best.</p>
             </div>
 
         </div>
