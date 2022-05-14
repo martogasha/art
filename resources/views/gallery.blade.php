@@ -67,7 +67,7 @@
     <div class="container-fluid" data-aos="fade" data-aos-delay="500">
         <div class="swiper-container images-carousel">
             <div class="swiper-wrapper">
-                <div class="swiper-slide" style="background-image: url(asset/images/OFF.png)">
+                <div class="swiper-slide" style="background-image: url(asset/images/DIG.png)">
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5)">
                         <div class="image-info">
                             <h2 class="mb-3">DIGITAL PRINTING</h2>
