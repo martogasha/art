@@ -101,7 +101,7 @@
                             <h2 class="mb-3">DESIGN AND LAYOUT</h2>
                             <a href="#" class="btn btn-outline-white py-2 px-4">+</a>
                         </div>
-                        <img src="asset/images/ximg_4.jpg.pagespeed.ic.C4VijvbM-5.jpg" alt="Image">
+                        <img src="asset/images/DE.png" alt="Image">
                     </div>
                 </div>
                 <div class="swiper-slide">
@@ -110,7 +110,7 @@
                             <h2 class="mb-3">OUTDOOR ADVERTISING</h2>
                             <a href="#" class="btn btn-outline-white py-2 px-4">+</a>
                         </div>
-                        <img src="asset/images/ximg_5.jpg.pagespeed.ic.0yjckZcSwo.jpg" alt="Image">
+                        <img src="asset/images/OU.png" alt="Image">
                     </div>
                 </div>
                 <div class="swiper-slide">
@@ -146,7 +146,7 @@
                             <h2 class="mb-3">CORPORATE STATIONERY</h2>
                             <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
                         </div>
-                        <img src="asset/images/ximg_7.jpg.pagespeed.ic.uxpbgysuJx.jpg" alt="Image">
+                        <img src="asset/images/Cr.png" alt="Image">
                     </div>
                 </div>
                 <div class="swiper-slide">
@@ -155,7 +155,7 @@
                             <h2 class="mb-3">INFOGRAPHICS</h2>
                             <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
                         </div>
-                        <img src="asset/images/ximg_7.jpg.pagespeed.ic.uxpbgysuJx.jpg" alt="Image">
+                        <img src="asset/images/INF.png" alt="Image">
                     </div>
                 </div>
                 <div class="swiper-slide">

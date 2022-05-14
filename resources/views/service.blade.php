@@ -79,14 +79,14 @@
                                 <div class="card-body" style="background-color: white;text-align: center;height: 700px">
                                     <img src="images/PRINT.png" alt="icon">
                                     <h5 class="card-title" style="text-align: center;font-family: montserrat-black;font-size: 30px;color:#000000">Print</h5>
-                                    <p class="card-text" style="text-align: center;font-family: montserrat-black;color: black"></p>
+                                    <p class="card-text" style="text-align: center;font-family: montserrat-black;color: black">Printing Service are ideal in major business operations. We offer an effective way to market your business through engaging print work. Our printing service are divided into: digital printing, offset printing and large format printing.<br> <b style="font-weight: bold;margin-left: 2px ">Digital printing-</b>this is the proccess of printing digitally images directly on different materials and substrates. It is a great for small run jobs.<br><b style="font-weight: bold;margin-left: 2px">Offset printing-</b> this is a printing method ideal for mass production.<br><b style="font-weight: bold;margin-left: 2px">Large format printing-</b>this method of printing sprays ink onto the choosen material to quickly produce quality prints with impecable detail and accuracy.Each printing technique is suited to a different need meaning that businesses can choose a print technique that best highlights their brand.</p>
                                 </div>
                             </div>
                             <div class="card col-xs-12 col-sm-6 col-md-4 col-lg-3">
                                 <div class="card-body" style="background-color: white;text-align: center;height: 700px">
                                     <img src="images/BRANDIN.png" alt="icon">
                                     <h5 class="card-title" style="text-align: center;font-family: montserrat-black;font-size: 30px;color: black">BRANDING</h5>
-                                    <p class="card-text" style="text-align: center;font-family: montserrat-black;color: black"></p>
+                                    <p class="card-text" style="text-align: center;font-family: montserrat-black;color: black">Branding is a process of creating a strong, positive perception of a company, its products or services in the customer's mind. it involves combining such elements as logo, design, mission statement, and a consistent theme throughout all marketing  communications.Effective branding helps companies differentiate themeselves from their competitors and build a loyal brand through stories, relationships, marketing messages and visual assets, you have the opportunity of shaping your customer's base. By carefully constructing your brand through stories relationships, marketing messages and visual assets, you have the opportunity of shaping your customer's expectation and creating a unique bond that goes beyond the buying-selling relationship.<br>Good branding is strategic, while marketing is tactical. </p>
 
                                 </div>
                             </div>
@@ -95,9 +95,9 @@
                                     <img src="images/PROMO.png" alt="icon">
                                     <h5 class="card-title" style="text-align: center;font-family: montserrat-black;font-size: 30px;color: black">Promo Items</h5>
                                     <p class="card-text" style="text-align: center;font-family: montserrat-black;color: black">Whether it's for marketing campaign, corporate event or corporate giveaway, they are perfect as giveaway to suppliers, staff and customers. They are a great opportunity to promote your business with branded items that serves as reminder to consumers every time they use the item. Our wide range of quality promotional products include</p>
-                                    <p style="text-align: left;margin-left: 10px;font-family: montserrat-black;color: black"><b><b style="color:black;font-family: montserrat-black;color: black">Apparel</b></b></p>
+                                    <p style="text-align:center;margin-left: 10px;font-family: montserrat-black;color: black"><b><b style="color:black;font-family: montserrat-black;color: black">Apparel</b></b></p>
                                     <p style="text-align: left;margin-left: 10px;font-family: montserrat-black;color: black">T-shirts, Polo Shirts Overalls, Dust coats, Reflector jackets, Uniform, Caps, Bags</p>
-                                    <p style="text-align: left;margin-left: 10px;font-family: montserrat-black;color: black"><b><b style="color:black;font-family: montserrat-black;color: black">Merchandise</b></b></p>
+                                    <p style="text-align: center;margin-left: 10px;font-family: montserrat-black;color: black"><b><b style="color:black;font-family: montserrat-black;color: black">Merchandise</b></b></p>
                                     <p style="text-align: left;margin-left: 10px;font-family: montserrat-black;color: black">Executive gift set, Water bottle, computer Accessories such as flash disks, mouse,bluetooth speakers and mousepads,corporate gift items, Trophys, wall clocks, umbrellas, key rings, Pens, Mugs and much more</p>
                                 </div>
                             </div>
@@ -133,7 +133,7 @@
                                 <div class="card-body" style="background-color: white;text-align: center;height: 700px">
                                     <img src="images/DIGITAL.png" alt="icon">
                                     <h5 class="card-title" style="text-align: center;font-family: montserrat-black;font-size: 30px;color: black">Digital Marketing</h5>
-                                    <p class="card-text" style="text-align: center;font-family: montserrat-black;color: black"></p>
+                                    <p class="card-text" style="text-align: center;font-family: montserrat-black;color: black">Its also called online marketing, refers to all marketing efforts that occurs on the internet. With how accessible the internet is today, the number of people who go online everday is still increasing. The way people shop and buy really has changed along with it - meaning offline marketing isn't as effective as it used to be.<br>Digital marketing has been integrated into almost every aspect of business, fundamentally changing how companies communicate with and deliver value to customers.<br>Digital marketing strategies helps marketers define goals, target audience, and develop a digital marketing plan that best reaches that audience. These strategies provide direction for a given campaign or program and a framework foe evaluating outcomes</p>
                                 </div>
                             </div>
                         </div>
