@@ -62,144 +62,149 @@
             </div>
         </div>
     </header>
-    <div class="site-section" data-aos="fade" style="background-color:black">
-        <div class="container-fluid">
-            <div class="row justify-content-center">
+    <div>
+        <div style="background-image: url(images/CLIEN.png)">
+        <div class="site-section" data-aos="fade" style="background-color: rgba(0, 0, 0, 0.5)">
+            <div class="container-fluid">
+                <div class="row justify-content-center">
                     <div class="row mb-5">
                         <div class="col-12 ">
                             <h2 class="site-section-heading text-center" STYLE="color: #DFB916;font-family: montserrat-bold"><b>OUR CLIENTELE</b></h2>
-                            <h5  style="color: white;font-size: 15px;font-family: montserrat-bold">We endevour to reach you at whatever level you are, from an individual, start-up, a rebranding company or an established organisation.</h5>
+                            <h5  style="color: white;font-size: 20px;font-family: montserrat-bold">We endevour to reach you at whatever level you are, from an individual, start-up, a rebranding company or an established organisation.</h5>
 
                         </div>
                     </div>
                     <div class="container">
                         <div class="row" style="padding-left: 13%">
                             <div class="col-md-3 second-column">
-                                    <div class="container show-grid">
-                                        <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: white"><img src="images/EDU.png" alt="icon"></div>
-                                            <div class="col-md-8" style="background-color: #DFB916;font-family: montserrat-bold;color: black;padding-top: 10%">Education</div>
-                                        </div>
-                                    </div>
-                                    <div class="container show-grid">
-                                        <div class="row" style="width: 300px">
-                                            <div class="col-md-3" style="background-color: #DFB916"><img src="images/REAL.png" alt="icon"></div>
-                                            <div class="col-md-8"  style="background-color: white;font-family: montserrat-bold;color: black;padding-top: 10%">Real Estate</div>
-                                        </div>
-                                    </div>
-                                    <div class="container show-grid">
-                                        <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: white"><img src="images/HEAL.png" alt="icon"></div>
-                                            <div class="col-md-8" style="background-color: #DFB916;font-family: montserrat-bold;color: black;padding-top: 10%">Health Care and Fitness</div>
-                                        </div>
-                                    </div>
-                                    <div class="container show-grid">
-                                        <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: #DFB916"><img src="images/JUS.png" alt="icon"></div>
-                                            <div class="col-md-8" style="background-color: white;font-family: montserrat-bold;color: black;padding-top: 10%">Justice and Legal Firm</div>
-                                        </div>
-                                    </div>
-                                    <div class="container show-grid">
-                                        <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: white"><img src="images/HOS.png" alt="icon"></div>
-                                            <div class="col-md-8" style="background-color: #DFB916;font-family: montserrat-bold;color: black;padding-top: 10%">Hospitality Industry</div>
-                                        </div>
+                                <div class="container show-grid">
+                                    <div class="row" style="width: 300px">
+                                        <div class="col-md-3"  style="background-color: white"><img src="images/EDU.png" alt="icon"></div>
+                                        <div class="col-md-8" style="background-color: #DFB916;font-family: montserrat-bold;color: black;padding-top: 10%">Education</div>
                                     </div>
                                 </div>
-                            <div class="col-md-3 second-column">
-                                    <div class="container show-grid">
-                                        <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: white"><img src="images/BANK.png" alt="icon"></div>
-                                            <div class="col-md-8" style="background-color: #DFB916;font-family: montserrat-bold;color: black;padding-top: 10%">Banking and Finance</div>
-                                        </div>
+                                <div class="container show-grid">
+                                    <div class="row" style="width: 300px">
+                                        <div class="col-md-3" style="background-color: #DFB916"><img src="images/REAL.png" alt="icon"></div>
+                                        <div class="col-md-8"  style="background-color: white;font-family: montserrat-bold;color: black;padding-top: 10%">Real Estate</div>
                                     </div>
-                                    <div class="container show-grid">
-                                        <div class="row" style="width: 300px">
-                                            <div class="col-md-3" style="background-color: #DFB916"><img src="images/INS.png" alt="icon"></div>
-                                            <div class="col-md-8"  style="background-color: white;font-family: montserrat-bold;color: black;padding-top: 10%">Insurance</div>
-                                        </div>
+                                </div>
+                                <div class="container show-grid">
+                                    <div class="row" style="width: 300px">
+                                        <div class="col-md-3"  style="background-color: white"><img src="images/HEAL.png" alt="icon"></div>
+                                        <div class="col-md-8" style="background-color: #DFB916;font-family: montserrat-bold;color: black;padding-top: 10%">Health Care and Fitness</div>
                                     </div>
-                                    <div class="container show-grid">
-                                        <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: white"><img src="images/LOG.png" alt="icon"></div>
-                                            <div class="col-md-8" style="background-color: #DFB916;font-family: montserrat-bold;color: black;padding-top: 10%">Logistics</div>
-                                        </div>
+                                </div>
+                                <div class="container show-grid">
+                                    <div class="row" style="width: 300px">
+                                        <div class="col-md-3"  style="background-color: #DFB916"><img src="images/JUS.png" alt="icon"></div>
+                                        <div class="col-md-8" style="background-color: white;font-family: montserrat-bold;color: black;padding-top: 10%">Justice and Legal Firm</div>
                                     </div>
-                                    <div class="container show-grid">
-                                        <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: #DFB916"><img src="images/TE.png" alt="icon"></div>
-                                            <div class="col-md-8" style="background-color: white;font-family: montserrat-bold;color: black;padding-top: 10%">Tech Companies</div>
-                                        </div>
+                                </div>
+                                <div class="container show-grid">
+                                    <div class="row" style="width: 300px">
+                                        <div class="col-md-3"  style="background-color: white"><img src="images/HOS.png" alt="icon"></div>
+                                        <div class="col-md-8" style="background-color: #DFB916;font-family: montserrat-bold;color: black;padding-top: 10%">Hospitality Industry</div>
                                     </div>
-                                    <div class="container show-grid">
-                                        <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: white"><img src="images/CON.png" alt="icon"></div>
-                                            <div class="col-md-8" style="background-color: #DFB916;font-family: montserrat-bold;color: black;padding-top: 10%">Consultancy Firms</div>
-                                        </div>
-                                    </div>
+                                </div>
                             </div>
                             <div class="col-md-3 second-column">
-                                    <div class="container show-grid">
-                                        <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: white"><img src="images/REL.png" alt="icon"></div>
-                                            <div class="col-md-8" style="background-color: #DFB916;font-family: montserrat-bold;color: black;padding-top: 10%">Religious Institutions</div>
-                                        </div>
-                                    </div>
-                                    <div class="container show-grid">
-                                        <div class="row" style="width: 300px">
-                                            <div class="col-md-3" style="background-color: #DFB916"><img src="images/NGO.png" alt="icon"></div>
-                                            <div class="col-md-8"  style="background-color: white;font-family: montserrat-bold;color: black;padding-top: 10%">NGOs</div>
-                                        </div>
-                                    </div>
-                                    <div class="container show-grid">
-                                        <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: white"><img src="images/GO.png" alt="icon"></div>
-                                            <div class="col-md-8" style="background-color: #DFB916;font-family: montserrat-bold;color: black;padding-top: 10%">Government Bodies</div>
-                                        </div>
-                                    </div>
-                                    <div class="container show-grid">
-                                        <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: #DFB916"><img src="images/IN.png" alt="icon"></div>
-                                            <div class="col-md-8" style="background-color: white;font-family: montserrat-bold;color: black;padding-top: 10%">Industrial</div>
-                                        </div>
-                                    </div>
-                                    <div class="container show-grid">
-                                        <div class="row" style="width: 300px">
-                                            <div class="col-md-3"  style="background-color: white"><img src="images/CL.png" alt="icon"></div>
-                                            <div class="col-md-8" style="background-color: #DFB916;font-family: montserrat-bold;color: black;padding-top: 10%">Cleaning Agencies</div>
-                                        </div>
+                                <div class="container show-grid">
+                                    <div class="row" style="width: 300px">
+                                        <div class="col-md-3"  style="background-color: white"><img src="images/BANK.png" alt="icon"></div>
+                                        <div class="col-md-8" style="background-color: #DFB916;font-family: montserrat-bold;color: black;padding-top: 10%">Banking and Finance</div>
                                     </div>
                                 </div>
+                                <div class="container show-grid">
+                                    <div class="row" style="width: 300px">
+                                        <div class="col-md-3" style="background-color: #DFB916"><img src="images/INS.png" alt="icon"></div>
+                                        <div class="col-md-8"  style="background-color: white;font-family: montserrat-bold;color: black;padding-top: 10%">Insurance</div>
+                                    </div>
+                                </div>
+                                <div class="container show-grid">
+                                    <div class="row" style="width: 300px">
+                                        <div class="col-md-3"  style="background-color: white"><img src="images/LOG.png" alt="icon"></div>
+                                        <div class="col-md-8" style="background-color: #DFB916;font-family: montserrat-bold;color: black;padding-top: 10%">Logistics</div>
+                                    </div>
+                                </div>
+                                <div class="container show-grid">
+                                    <div class="row" style="width: 300px">
+                                        <div class="col-md-3"  style="background-color: #DFB916"><img src="images/TE.png" alt="icon"></div>
+                                        <div class="col-md-8" style="background-color: white;font-family: montserrat-bold;color: black;padding-top: 10%">Tech Companies</div>
+                                    </div>
+                                </div>
+                                <div class="container show-grid">
+                                    <div class="row" style="width: 300px">
+                                        <div class="col-md-3"  style="background-color: white"><img src="images/CON.png" alt="icon"></div>
+                                        <div class="col-md-8" style="background-color: #DFB916;font-family: montserrat-bold;color: black;padding-top: 10%">Consultancy Firms</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 second-column">
+                                <div class="container show-grid">
+                                    <div class="row" style="width: 300px">
+                                        <div class="col-md-3"  style="background-color: white"><img src="images/REL.png" alt="icon"></div>
+                                        <div class="col-md-8" style="background-color: #DFB916;font-family: montserrat-bold;color: black;padding-top: 10%">Religious Institutions</div>
+                                    </div>
+                                </div>
+                                <div class="container show-grid">
+                                    <div class="row" style="width: 300px">
+                                        <div class="col-md-3" style="background-color: #DFB916"><img src="images/NGO.png" alt="icon"></div>
+                                        <div class="col-md-8"  style="background-color: white;font-family: montserrat-bold;color: black;padding-top: 10%">NGOs</div>
+                                    </div>
+                                </div>
+                                <div class="container show-grid">
+                                    <div class="row" style="width: 300px">
+                                        <div class="col-md-3"  style="background-color: white"><img src="images/GO.png" alt="icon"></div>
+                                        <div class="col-md-8" style="background-color: #DFB916;font-family: montserrat-bold;color: black;padding-top: 10%">Government Bodies</div>
+                                    </div>
+                                </div>
+                                <div class="container show-grid">
+                                    <div class="row" style="width: 300px">
+                                        <div class="col-md-3"  style="background-color: #DFB916"><img src="images/IN.png" alt="icon"></div>
+                                        <div class="col-md-8" style="background-color: white;font-family: montserrat-bold;color: black;padding-top: 10%">Industrial</div>
+                                    </div>
+                                </div>
+                                <div class="container show-grid">
+                                    <div class="row" style="width: 300px">
+                                        <div class="col-md-3"  style="background-color: white"><img src="images/CL.png" alt="icon"></div>
+                                        <div class="col-md-8" style="background-color: #DFB916;font-family: montserrat-bold;color: black;padding-top: 10%">Cleaning Agencies</div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
 
                     <!-- 6 columns -->
 
 
-                    </div>
-                    <style>
-                        * {
-                            box-sizing: border-box;
-                        }
-                        .show-grid {
-                            padding: 10px;
-                        }
-
-                        .show-grid .row {
-                            margin-bottom: 15px;
-                        }
-
-                        .show-grid [class^=col-] {
-                            padding-top: 10px;
-                            padding-bottom: 10px;
-                            background-color: #eee;
-                            background-color: rgba(86,61,124,.15);
-                            border: 1px solid #ddd;
-                            border: 1px solid rgba(86,61,124,.2);
-                        }
-                    </style>
                 </div>
+                <style>
+                    * {
+                        box-sizing: border-box;
+                    }
+                    .show-grid {
+                        padding: 10px;
+                    }
+
+                    .show-grid .row {
+                        margin-bottom: 15px;
+                    }
+
+                    .show-grid [class^=col-] {
+                        padding-top: 10px;
+                        padding-bottom: 10px;
+                        background-color: #eee;
+                        background-color: rgba(86,61,124,.15);
+                        border: 1px solid #ddd;
+                        border: 1px solid rgba(86,61,124,.2);
+                    }
+                </style>
             </div>
+        </div>
+        </div>
+
+    </div>
         </div>
     </div>
     <div class="footer py-4">

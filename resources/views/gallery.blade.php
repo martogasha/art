@@ -67,104 +67,93 @@
     <div class="container-fluid" data-aos="fade" data-aos-delay="500">
         <div class="swiper-container images-carousel">
             <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                    <div class="image-wrap">
+                <div class="swiper-slide" style="background-image: url(asset/images/OFF.png)">
+                    <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5)">
                         <div class="image-info">
                             <h2 class="mb-3">DIGITAL PRINTING</h2>
                             <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4">+</a>
                         </div>
-                        <img src="asset/images/DIG.png" alt="Image">
                     </div>
                 </div>
 
-                <div class="swiper-slide">
-                    <div class="image-wrap">
+                <div class="swiper-slide" style="background-image: url(images/LAR.png)">
+                    <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">Large Format Printing</h2>
                             <a href="{{url('largeFormatPrinting')}}" class="btn btn-outline-white py-2 px-4">+</a>
                         </div>
-                        <img src="asset/images/dd.jpg" alt="Image">
                     </div>
                 </div>
-                <div class="swiper-slide">
-                    <div class="image-wrap">
+                <div class="swiper-slide" style="background-image: url(asset/images/OFF.png)">
+                    <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">OFFSET PRINTING</h2>
                             <a href="#" class="btn btn-outline-white py-2 px-4">+</a>
                         </div>
-                        <img src="asset/images/OFF.png" alt="Image">
                     </div>
                 </div>
-                <div class="swiper-slide">
-                    <div class="image-wrap">
+                <div class="swiper-slide" style="background-image: url(asset/images/DE.png)">
+                    <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">DESIGN AND LAYOUT</h2>
                             <a href="#" class="btn btn-outline-white py-2 px-4">+</a>
                         </div>
-                        <img src="asset/images/DE.png" alt="Image">
                     </div>
                 </div>
-                <div class="swiper-slide">
-                    <div class="image-wrap">
+                <div class="swiper-slide" style="background-image: url(asset/images/OU.png)">
+                    <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">OUTDOOR ADVERTISING</h2>
                             <a href="#" class="btn btn-outline-white py-2 px-4">+</a>
                         </div>
-                        <img src="asset/images/OU.png" alt="Image">
                     </div>
                 </div>
-                <div class="swiper-slide">
-                    <div class="image-wrap">
+                <div class="swiper-slide" style="background-image: url(images/PUB.png)">
+                    <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">PUBLICATIONS</h2>
                             <a href="#" class="btn btn-outline-white py-2 px-4">More Photos</a>
                         </div>
-                        <img src="asset/images/ximg_6.jpg.pagespeed.ic.nnno7Z3q2B.jpg" alt="Image">
                     </div>
                 </div>
-                <div class="swiper-slide">
-                    <div class="image-wrap">
+                <div class="swiper-slide" style="background-image: url(asset/images/BR.png)">
+                    <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">BRANDING AND PROMOTION</h2>
                             <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
                         </div>
-                        <img src="asset/images/BR.png" alt="Image">
                     </div>
                 </div>
-                <div class="swiper-slide">
-                    <div class="image-wrap">
+                <div class="swiper-slide" style="background-image: url(asset/images/PAC.png)">
+                    <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">PACKAGING DESIGN</h2>
                             <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
                         </div>
-                        <img src="asset/images/PAC.png" alt="Image">
                     </div>
                 </div>
-                <div class="swiper-slide">
-                    <div class="image-wrap">
+                <div class="swiper-slide" style="background-image: url(asset/images/Cr.png)">
+                    <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">CORPORATE STATIONERY</h2>
                             <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
                         </div>
-                        <img src="asset/images/Cr.png" alt="Image">
                     </div>
                 </div>
-                <div class="swiper-slide">
-                    <div class="image-wrap">
+                <div class="swiper-slide" style="background-image: url(asset/images/INF.png)">
+                    <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">INFOGRAPHICS</h2>
                             <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
                         </div>
-                        <img src="asset/images/INF.png" alt="Image">
                     </div>
                 </div>
-                <div class="swiper-slide">
-                    <div class="image-wrap">
+                <div class="swiper-slide" style="background-image: url(asset/images/DIS.png)">
+                    <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">DIGITAL SERVICES</h2>
                             <a href="single.html" class="btn btn-outline-white py-2 px-4">+</a>
                         </div>
-                        <img src="asset/images/DIS.png" alt="Image">
                     </div>
                 </div>
             </div>
