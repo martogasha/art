@@ -68,10 +68,10 @@
         <div class="swiper-container images-carousel">
             <div class="swiper-wrapper">
                 <div class="swiper-slide" style="background-image: url(asset/images/di.jpg)">
-                    <div class="image-wrap" >
+                    <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">DIGITAL PRINTING</h2>
-                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4">+</a>
+                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px">+</i></a>
                         </div>
                     </div>
                 </div>
@@ -80,7 +80,7 @@
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">Large Format Printing</h2>
-                            <a href="{{url('largeFormatPrinting')}}" class="btn btn-outline-white py-2 px-4">+</a>
+                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px">+</i></a>
                         </div>
                     </div>
                 </div>
@@ -88,7 +88,7 @@
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">OFFSET PRINTING</h2>
-                            <a href="#" class="btn btn-outline-white py-2 px-4">+</a>
+                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px">+</i></a>
                         </div>
                     </div>
                 </div>
@@ -96,7 +96,7 @@
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">DESIGN AND LAYOUT</h2>
-                            <a href="#" class="btn btn-outline-white py-2 px-4">+</a>
+                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px">+</i></a>
                         </div>
                     </div>
                 </div>
@@ -104,7 +104,7 @@
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">OUTDOOR ADVERTISING</h2>
-                            <a href="#" class="btn btn-outline-white py-2 px-4">+</a>
+                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px">+</i></a>
                         </div>
                     </div>
                 </div>
@@ -112,7 +112,7 @@
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">PUBLICATIONS</h2>
-                            <a href="#" class="btn btn-outline-white py-2 px-4">More Photos</a>
+                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px">+</i></a>
                         </div>
                     </div>
                 </div>
@@ -120,7 +120,7 @@
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">BRANDING AND PROMOTION</h2>
-                            <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
+                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px">+</i></a>
                         </div>
                     </div>
                 </div>
@@ -128,7 +128,7 @@
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">PACKAGING DESIGN</h2>
-                            <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
+                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px">+</i></a>
                         </div>
                     </div>
                 </div>
@@ -136,15 +136,19 @@
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">CORPORATE STATIONERY</h2>
-                            <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
+                            <br>
+                            <br>
+                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px">+</i></a>
                         </div>
                     </div>
                 </div>
                 <div class="swiper-slide" style="background-image: url(asset/images/IN.png)">
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
-                            <h2 class="mb-3">INFOGRAPHICS</h2>
-                            <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
+                            <h2 class="mb-3">INFOGRAPHICS
+                                <br>
+                                <br>
+                                <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px">+</i></a>
                         </div>
                     </div>
                 </div>
@@ -152,7 +156,9 @@
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">DIGITAL SERVICES</h2>
-                            <a href="single.html" class="btn btn-outline-white py-2 px-4">+</a>
+                            <br>
+                            <br>
+                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px">+</i></a>
                         </div>
                     </div>
                 </div>
