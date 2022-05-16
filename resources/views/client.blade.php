@@ -63,7 +63,7 @@
         </div>
     </header>
     <div>
-        <div style="background-image: url(asset/images/CLIEN.png)">
+        <div style="background-image: url(asset/images/CLIE.png)">
             <div class="site-section" data-aos="fade" style="background-color: rgba(0, 0, 0, 0.5)">
             <div class="container-fluid">
                 <div class="row justify-content-center">
