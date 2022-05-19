@@ -67,7 +67,8 @@
 
         <div class="container-fluid">
             <div>
-                <img src="{{asset('asset/img/biu.jpeg')}}" style="width: 100%;height: 300px">
+                <h2>Photo Here</h2>
+                <img src="#" style="width: 100%;height: 300px;background-color: white">
             </div>
             <!--Now for the About section-->
             <div class="about-div">

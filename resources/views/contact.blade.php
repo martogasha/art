@@ -73,53 +73,39 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-lg-8 mb-5">
-                            <form action="#">
-                                <div class="row form-group">
-                                    <div class="col-md-6 mb-3 mb-md-0">
-                                        <label class="text-black" for="fname">First Name</label>
-                                        <input type="text" id="fname" class="form-control">
-                                    </div>
-                                    <div class="col-md-6">
-                                        <label class="text-black" for="lname">Last Name</label>
-                                        <input type="text" id="lname" class="form-control">
-                                    </div>
+                        <section class="contact">
+                            <div class="cont container">
+                                <div class="contact-text">
+                                    <p>Lets breake the ice..We would love to hear from you.Give us a call, a DM, a whatsapp chat, a message or send an email.</p>
                                 </div>
-                                <div class="row form-group">
-                                    <div class="col-md-12">
-                                        <label class="text-black" for="email">Email</label>
-                                        <input type="email" id="email" class="form-control">
-                                    </div>
+                                <div class="contact-text">
+                                    <p>PHONE<div class="outer">
+                                        <div class="inner"></div>
+                                    </div>EMAIL<hr>HQ</p>
                                 </div>
-                                <div class="row form-group">
-                                    <div class="col-md-12">
-                                        <label class="text-black" for="subject">Subject</label>
-                                        <input type="subject" id="subject" class="form-control">
-                                    </div>
+                                <style>
+                                    body, html { height: 90%; }
+                                    .outer {
+                                        width: 1px;
+                                        height: 100%;
+                                        margin: auto;
+                                        position: relative;
+                                        overflow: hidden;
+                                    }
+                                    .inner {
+                                        position: absolute;
+                                        width:100%;
+                                        height: 40%;
+                                        background: grey;
+                                        top: 30%;
+                                        box-shadow: 0px 0px 30px 20px grey;
+                                    }
+                                </style>
+                                <div class="contact-text">
+                                    <p>Connect with us on social media icons (fb, insta, twitter,whatsapp).</p>
                                 </div>
-                                <div class="row form-group">
-                                    <div class="col-md-12">
-                                        <label class="text-black" for="message">Message</label>
-                                        <textarea name="message" id="message" cols="30" rows="7" class="form-control" placeholder="Write your notes or questions here..."></textarea>
-                                    </div>
-                                </div>
-                                <div class="row form-group">
-                                    <div class="col-md-12">
-                                        <input type="submit" value="Send Message" class="btn btn-primary py-2 px-4 text-white">
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                        <div class="col-lg-3 ml-auto">
-                            <div class="mb-3 bg-white">
-                                <p class="mb-0 font-weight-bold">Address</p>
-                                <p class="mb-4">203 Fake St. Mountain View, San Francisco, California, USA</p>
-                                <p class="mb-0 font-weight-bold">Phone</p>
-                                <p class="mb-4"><a href="#">+1 232 3235 324</a></p>
-                                <p class="mb-0 font-weight-bold">Email Address</p>
-                                <p class="mb-0"><a href="#"><span class="__cf_email__" data-cfemail="40392f3532252d21292c00242f2d21292e6e232f2d">[email&#160;protected]</span></a></p>
                             </div>
-                        </div>
+                        </section>
                     </div>
                 </div>
             </div>
