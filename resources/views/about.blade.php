@@ -79,6 +79,41 @@
                 <h3 class="text-black h4" style="margin-right: 100px;font-family: montserrat-bold;font-size: 30px"><b>WHY US&nbsp&nbsp&nbsp</b></h3>
                 <p style="color:white;font-family: montserrat-bold;font-size: 20px">Understanding your brands is our priority. We strive to build lasting brands that will assist in establishing a platform<br>for continued growth. Choose us for the value we provide in being more of a business partner.<br>We believe ingredients of valuable relationship are quality, time management, cost efficiency, flexibility and<br>transparency.<br>Fire up your brand with the best.</p>
             </div>
+            <div class="wrapper">
+                <br>
+                <br>
+                <div class="grid">
+                    <div class="item bold">Our Mission</div>
+                    <div class="item" style="color: white">To be a one stop hub in providing fturistic solutions in the creative world. </div>
+                    <div class="item bold">Our Vision</div>
+                    <div class="item" style="color: white">To provide top-notch custom solutions to your brand that causes satisfaction, a sense of ownership and stimulate affiliation.</div>
+                    <div class="item bold">Our Philosophy</div>
+                    <div class="item" style="color: white">No Mediocrity.</div>
+                </div>
+            </div>
+            <style>
+                .wrapper {
+                    border: 1px solid #999;
+                    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+                    width: 100%;
+                    margin: 0 auto;
+                    padding: 10px;
+                    border-radius: 5px;
+                    background-color: black;
+                    font-size: 30px;
+                }
+                .grid {
+                    display: grid;
+                    grid-template-columns: 20% 70%;
+                    grid-auto-rows: min-content;
+                    grid-gap: 30px;
+                }
+
+                .bold {
+                    font-weight: 700;
+                    color: #DFB916;
+                }
+            </style>
 
         </div>
         </div>
