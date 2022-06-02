@@ -19,7 +19,7 @@
         </div>
         <div class="site-mobile-menu-body"></div>
     </div>
-    <header class="site-navbar py-3 border-bottom" role="banner">
+    <header class="site-navbar py-3 border-bottom" role="banner" style="background-color:white">
         <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-6 col-xl-2" data-aos="fade-down">
@@ -63,64 +63,216 @@
             </div>
         </div>
     </header>
-    <div class="site-section" data-aos="fade">
-        <div class="container-fluid">
-            <div class="row justify-content-center">
-                <div class="col-md-7">
-                    <div class="row mb-5">
-                        <div class="col-12 ">
-                            <h2 class="site-section-heading text-center">Contact Us</h2>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <section class="contact">
-                            <div class="cont container">
-                                <div class="contact-text">
-                                    <p>Lets breake the ice..We would love to hear from you.Give us a call, a DM, a whatsapp chat, a message or send an email.</p>
-                                </div>
-                                <div class="contact-text">
-                                    <p>PHONE<div class="outer">
-                                        <div class="inner"></div>
-                                    </div>EMAIL<hr>HQ</p>
-                                </div>
-                                <style>
-                                    body, html { height: 90%; }
-                                    .outer {
-                                        width: 1px;
-                                        height: 100%;
-                                        margin: auto;
-                                        position: relative;
-                                        overflow: hidden;
-                                    }
-                                    .inner {
-                                        position: absolute;
-                                        width:100%;
-                                        height: 40%;
-                                        background: grey;
-                                        top: 30%;
-                                        box-shadow: 0px 0px 30px 20px grey;
-                                    }
-                                </style>
-                                <div class="contact-text">
-                                    <p>Connect with us on social media icons (fb, insta, twitter,whatsapp).</p>
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                </div>
-            </div>
-        </div>
+</div>
+<div class="row mb-5" id="bbb">
+    <div class="col-12 ">
+        <br>
+        <br>
+        <h2 class="site-section-heading text-center" style="color: white;font-family: montserrat-bold"><b>CONTACT US</b></h2>
+        <br>
+        <br>
+        <h2 class="site-section-heading text-center" style="color: white;font-family: montserrat-bold;font-size: 25px">Lets breake the ice..<br>We would love to hear from you.<br>Give us a call, a DM, a whatsapp chat, a message or send an email.</b>.</h2>
     </div>
-    <div class="footer py-4">
-        <div class="container-fluid text-center">
-            <p>
+    <div class="container" id="ggg">
+        <div class="item"><b>EMAIL</b></div>
+        <div class="item"><b>PHONE</b></div>
+        <div class="item"><b>HQ</b></div>
+    </div>
 
-                Copyright &copy;<script data-cfasync="false" src="https://preview.colorlib.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script data-cfasync="false" src="https://preview.colorlib.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank">Colorlib</a>
-
-            </p>
-        </div>
+</div>
+<div class="row mb-5" style="background-color: black">
+    <div class="col-12 ">
+        <h2 class="site-section-heading text-center" style="color: white;font-family: montserrat-bold;font-size: 25px">Connect with us on</h2>
+        <h2 class="site-section-heading text-center" style="color: white;font-family: montserrat-bold;font-size: 25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a><a href="#" class="pl-0 pr-3"><span class="icon-instagram"></span></a><a href="#" class="pl-0 pr-3"><span class="icon-twitter"></span></a><a href="#" class="pl-0 pr-3"><span class="icon-whatsapp"></span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2>
+    </div>
+    <div class="container" id="gg">
     </div>
 </div>
+<style>
+    .pl-0{
+        color: white;
+    }
+    body{
+        background-color: black;
+    }
+    #ggg {
+        padding: 10px;
+        background: #DFB916;
+        display: table;
+        table-layout: fixed;
+        width: 100%;
+        height: 100px;
+        box-sizing: border-box;
+    }#gg {
+        display: table;
+        table-layout: fixed;
+        background-color: black;
+    }
+    .item {
+        /* float:left; */
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
+        color: white;
+        font-family: montserrat-bold;
+        font-size: 25px;
+    }
+    #bbb {
+        background: url(asset/img/contac.jpe    g);
+    }
+    @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    *::after,
+    *::before {
+        box-sizing: border-box;
+        padding: 0;
+        margin: 0;
+    }
+
+    :root {
+        --primary-color: #fff;
+        --grey-color: #666;
+        --dar-blue-color: hsl(223deg 57% 12%);
+        --medium-font-size: 20px;
+        --small-font-size: 16px;
+    }
+
+
+    .container {
+        max-width: 1200px;
+        width: 90%;
+        margin: auto;
+    }
+
+
+    /* -======= Contact =====- */
+
+    .contact {
+        padding-top: 100px;
+        padding-bottom: 100px;
+        background-color: var(--primary-color);
+    }
+
+    .cont {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding-top: 60px;
+    }
+
+    contact-text {
+        flex-basis: 48%;
+    }
+
+    .contact-text p {
+        font-size: 32px;
+        margin-bottom: 30px;
+        margin-right: 40px;
+    }
+
+    .contact-text h6,
+    .contact-text .address,
+    .contact-text .mail {
+        font-size: var(--medium-font-size);
+    }
+
+    .contact-text h6 {
+        color: var(--dar-blue-color);
+    }
+
+    .contact-form {
+        flex-basis: 48%;
+    }
+
+    .cont .contact-form form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .cont .contact-form form label {
+        font-size: var(--medium-font-size);
+        padding: 10px 0;
+    }
+
+    .cont .contact-form form input,
+    .cont .contact-form form textarea {
+        font-size: var(--medium-font-size);
+        padding: 10px 0;
+        resize: none;
+        margin: 6px 0;
+        border-radius: 12px;
+        outline: none;
+        border: 2px solid var(--grey-color);
+    }
+
+    .cont .contact-form form input[type="submit"] {
+        margin: 16px 0;
+        width: 26%;
+        cursor: pointer;
+        border: 2px solid var(--dar-blue-color);
+        font-size: var(--medium-font-size);
+        background-color: var(--dar-blue-color);
+        color: var(--primary-color);
+        font-weight: 500;
+        transition: 0.4s;
+    }
+
+    .cont .contact-form form input[type="submit"]:hover {
+        background-color: var(--primary-color);
+        color: var(--dar-blue-color);
+        font-weight: 600;
+    }
+
+
+    /* -======= Media Queriers =====- */
+
+    @media (max-width: 500px) {
+        .cont {
+            display: block;
+            flex-direction: column;
+        }
+        .contact {
+            padding-top: 0;
+        }
+        .cont .contact-form form input,
+        .cont .contact-form form textarea {
+            width: 100%;
+        }
+        .cont .contact-form form input[type="submit"] {
+            width: 23%;
+            font-size: var(--small-font-size);
+        }
+        .contact-text p {
+            margin-right: 0;
+        }
+    }
+
+    @media (min-width: 501px) and (max-width: 768px) {
+        .cont {
+            display: block;
+            flex-direction: column;
+        }
+        .contact {
+            padding-top: 0;
+        }
+        .cont .contact-form form input,
+        .cont .contact-form form textarea {
+            width: 100%;
+        }
+        .cont .contact-form form input[type="submit"] {
+            width: 23%;
+            font-size: var(--small-font-size);
+        }
+        .contact-text p {
+            margin-right: 0;
+        }
+    }
+</style>
 <script src="asset/js/jquery-3.3.1.min.js"></script>
 <script src="asset/js/jquery-migrate-3.0.1.min.js%2bjquery-ui.js%2bpopper.min.js.pagespeed.jc.WUDEEY8wBM.js"></script><script>eval(mod_pagespeed_$X$r3wIu6B);</script>
 <script>eval(mod_pagespeed_aFKX7lU_LN);</script>
