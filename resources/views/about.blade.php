@@ -83,12 +83,12 @@
                 <br>
                 <br>
                 <div class="grid">
-                    <div class="item bold">Our Mission</div>
-                    <div class="item" style="color: white">To be a one stop hub in providing fturistic solutions in the creative world. </div>
-                    <div class="item bold">Our Vision</div>
-                    <div class="item" style="color: white">To provide top-notch custom solutions to your brand that causes satisfaction, a sense of ownership and stimulate affiliation.</div>
-                    <div class="item bold">Our Philosophy</div>
-                    <div class="item" style="color: white">No Mediocrity.</div>
+                    <div class="item bold" style="font-family: montserrat-bold">Our Mission</div>
+                    <div class="item" style="color: white;font-family: montserrat-bold">To be a one stop hub in providing fturistic solutions in the creative world. </div>
+                    <div class="item bold" style="font-family: montserrat-bold">Our Vision</div>
+                    <div class="item" style="color: white;font-family: montserrat-bold">To provide top-notch custom solutions to your brand that causes satisfaction, a sense of ownership and stimulate affiliation.</div>
+                    <div class="item bold" style="font-family: montserrat-bold">Our Philosophy</div>
+                    <div class="item" style="color: white;font-family: montserrat-bold">No Mediocrity.</div>
                 </div>
             </div>
             <style>
