@@ -114,6 +114,7 @@
                             <h2 class="mb-3">OUTDOOR ADVERTISING</h2>
                             <br>
                             <br>
+                            <br>
                             <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
@@ -121,7 +122,8 @@
                 <div class="swiper-slide" style="background-image: url(asset/images/PUB.png)">
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
-                            <h2 class="mb-3">PUBLICATIONS</h2>\
+                            <h2 class="mb-3">PUBLICATIONS</h2>
+                            <br>
                             <br>
                             <br>
                             <br>
@@ -178,6 +180,7 @@
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">DIGITAL SERVICES</h2>
+                            <br>
                             <br>
                             <br>
                             <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
