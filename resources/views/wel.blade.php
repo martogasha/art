@@ -64,21 +64,21 @@
 <section id="home" class="s-home target-section" data-parallax="scroll" data-image-src="images/hero-bg.jpg"
          data-natural-width=3000 data-natural-height=2000 data-position-y=center>
     <div class="shadow-overlay"></div>
-            <div class="vertical" style="font-family: montserrat-bold">
-                email@companydomain.com
-            </div>
+    <div class="vertical" style="font-family: montserrat-bold">
+        email@companydomain.com
+    </div>
     <div class="home-content">
-            <div class="row home-content__main"><h3 style="color: #DFB916;font-family: montserrat-bold">Welcome to Masterpiece Graphics</h3>
+        <div class="row home-content__main"><h3 style="color: #DFB916;font-family: montserrat-bold">Welcome to Masterpiece Graphics</h3>
             <h1 style="font-size: 40px;font-family: montserrat-bold"> We are a creative hub inclined to <br> Provide professional solutions in <br> Creative design, printing, branding <br> and digital marketing that enhance <br> your brand.
             </h1>
-                <h3 style="color: #DFB916;font-size: 20px;font-family: montserrat-bold"><span style="color: white">"</span>When love and skill work together expect a masterpiece<span style="color: white">"</span></h3>
-                <p style="color: white;font-size: 20px;font-family: montserrat-bold">-John Ruskin</p>
+            <h3 style="color: #DFB916;font-size: 20px;font-family: montserrat-bold"><span style="color: white">"</span>When love and skill work together expect a masterpiece<span style="color: white">"</span></h3>
+            <p style="color: white;font-size: 20px;font-family: montserrat-bold">-John Ruskin</p>
             <a class="home-content__buttons">
                 <a href="{{url('gallery')}}"><button class="btn btn--primary" style="background-color: black;border-color: white;color: #DFB916;font-family: montserrat-bold;width: 200px">Explore</button></a>
                 <a href="{{url('about')}}"><button class="btn btn--primary" style="background-color: black;border-color: white;color: #DFB916;font-family: montserrat-bold;width: 200px">More About Us</button></a>
             </a>
-            </div>
         </div>
+    </div>
     </div>
     <ul class="home-social">
         <li><a href="#0"><i class="fa fa-facebook" aria-hidden="true"></i><span>Facebook</span></a></li>

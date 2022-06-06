@@ -40,9 +40,8 @@
 </style>
 <script>
     function randomColor() {
-        var back = ["blue","gray"];
-        var rand = back[Math.floor(Math.random() * back.length)];
-        return `rgb(${rand})`;
+        var r = '#'+Math.floor(Math.random() * 16777215).toString(16);
+        return r;
     }
 
     function squareCoordinates(x, y){
@@ -196,4 +195,7 @@
             new Pixel(x, y, getRandomDirection());
         }
     }, 100);
+    setTimeout(function(){
+        window.location.href = 'home';
+    }, 4000);
 </script>
