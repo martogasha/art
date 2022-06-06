@@ -53,7 +53,7 @@
                 }
             </style>
 
-            <h1 class="cssanimation sequence zoomInLeft"><a href="{{url('/')}}"><img src="images/logo.png" alt="Header Logo"></a></h1>
+            <h1 class="cssanimation sequence zoomInLeft"></h1>
             <!--<h1 class="cssanimation zoomInLeft random">AlejandroFerrari.com</h1>
           please uncomment if you want to see random version-->
             <main class="container" id="bleft">
