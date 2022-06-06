@@ -25,8 +25,7 @@
 
         top: 0;
 
-        border: .25em solid #a90329;
-        background: linear-gradient(to right, #a90329 0%,#a90329 6%,#6d0019 10%,#a90329 14%,#a90329 20%,#6d0019 24%,#a90329 28%,#a90329 34%,#6d0019 38%,#a90329 42%,#a90329 48%,#6d0019 52%,#a90329 56%,#a90329 62%,#6d0019 66%,#a90329 70%,#a90329 76%,#6d0019 80%,#a90329 84%,#a90329 90%,#6d0019 94%,#a90329 98%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+        background: linear-gradient(to right, black 0%,black 6%,black 10%,black 14%,black 20%,black 24%,black 28%,black 34%,black 38%,black 42%,black 48%,black  52%,black 56%,black 62%,black 66%,black 70%,black 76%,black 80%,black 84%,black 90%,black 94%,black 98%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 
         z-index: 123456;
     }
