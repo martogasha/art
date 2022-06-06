@@ -1,15 +1,29 @@
-<div class="center-div"><a href="{{url('/')}}"><img src="images/logo.png" alt="Header Logo"></a></div>
+<div>
+    <h1 class="cssanimation sequence zoomInLeft"><a href="{{url('/')}}"><img src="images/logo.png" alt="Header Logo"></a></h1>
+    <!--<h1 class="cssanimation zoomInLeft random">AlejandroFerrari.com</h1>
+  please uncomment if you want to see random version-->
+</div>
 <style>
-    .center-div
-    {
-        position: absolute;
-        margin: auto;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0;
-        width: 100px;
-        height: 100px;
-        border-radius: 3px;
+    body {overflow: hidden;}
+    div { font-family: 'Ubuntu', sans-serif; position: absolute; top: 50%; left: 50%; transform: translateX(-50%) translateY(-50%); } /* center text styling */
+    h1 { font-size: 4.5em; letter-spacing: -4px; font-weight: 700; color: #4684ee; text-align: center; } /* h1 styling */
+    @media screen and (max-width: 488px) { h1 { font-size: 2.6em; letter-spacing: -2px; } } /* control h1 font size below 768px screen */
+
+    /* animation duration and fill mode */
+    .cssanimation {
+        animation-duration: 1s;
+        animation-fill-mode: both;
+        display: inline-block;
+    }
+
+    /* zoomInLeft animation declaration & iteration counting */
+    .zoomInLeft { animation-name: zoomInLeft }
+
+    /* zoomInLeft animation keyframes */
+    @keyframes zoomInLeft {
+        from {
+            transform: scale(10) translateX(-50%);
+            opacity: 0;
+        }
     }
 </style>
