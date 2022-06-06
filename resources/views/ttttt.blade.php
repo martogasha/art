@@ -46,5 +46,5 @@
 <script>
     setTimeout(function(){
         window.location.href = 'logo';
-    }, 1900);
+    }, 1870);
 </script>
