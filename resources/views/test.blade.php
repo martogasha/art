@@ -1,17 +1,5 @@
 <!-- Curtain moving to the sides and stopping when 30% of sides is left to be seen  -->
 
-<div class="curtain curtain-left">
-    <div class="curtain-element"></div>
-    <div class="curtain-element"></div>
-    <div class="curtain-element"></div>
-    <div class="curtain-element"></div>
-    <div class="curtain-element"></div>
-    <div class="curtain-element"></div>
-    <div class="curtain-element"></div>
-    <div class="curtain-element"></div>
-    <div class="curtain-element"></div>
-    <div class="curtain-element"></div>
-</div>
 
 <div class="container">
     <div class="center">
@@ -108,18 +96,6 @@
 
 </div>
 
-<div class="curtain curtain-right">
-    <div class="curtain-element"></div>
-    <div class="curtain-element"></div>
-    <div class="curtain-element"></div>
-    <div class="curtain-element"></div>
-    <div class="curtain-element"></div>
-    <div class="curtain-element"></div>
-    <div class="curtain-element"></div>
-    <div class="curtain-element"></div>
-    <div class="curtain-element"></div>
-    <div class="curtain-element"></div>
-</div>
 <main class="container">
     <!-- first loader -->
     <div class="loader-1">
