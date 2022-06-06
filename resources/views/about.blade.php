@@ -32,7 +32,7 @@
                             <li>
                                 <a href="{{url('gallery')}}">Explore</a>
                             </li>
-                            <li class="active"><a href="{{url('about')}}">About Us</a></li>
+                            <li class="active"><a href="{{url('about')}}" style="color: #DFB916">About Us</a></li>
 
                             <li><a href="{{url('service')}}">Services</a></li>
                             <li><a href="{{url('client')}}">Clientele</a></li>

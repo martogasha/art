@@ -33,7 +33,7 @@
                                 <a href="{{url('gallery')}}">Explore</a>
                             </li>
                             <li><a href="{{url('about')}}">About Us</a></li>
-                            <li class="active"><a href="{{url('service')}}">Services</a></li>
+                            <li class="active"><a href="{{url('service')}}" style="color: #DFB916">Services</a></li>
                             <li><a href="{{url('client')}}">Clientele</a></li>
 
                             <li><a href="{{url('contact')}}">Contact</a></li>
@@ -65,13 +65,14 @@
     <div style="background-color: #DFB916">
                         <div class="col-12 ">
                             <h2 class="site-section-heading text-center" style="color: white;font-family:montserrat-bold"><b>Our Services</b></h2>
-                            <h3 style="font-family: montserrat-bold;text-align: center;color:#000000">From the first conversation to the completion of your project, we are dedicated to a relentless pursuit of perfection. We offer the following services</h3>
+                            <h3 style="font-family: montserrat-bold;text-align: center;color:#000000">From the first conversation to the completion of your project, we are dedicated to a relentless pursuit of perfection.<br> We offer the following services</h3>
                         </div>
         <div class="row">
             <div class="col-md-6 col-lg-6 col-xl-4 text-center mb-5 mb-lg-5">
                 <div class="h-100 p-4 p-lg-5 bg-light site-block-feature-7">
                     <span><img src="images/CREATIVE.png" alt="icon"></span>
                     <h3 class="text-black h4" style="font-family: montserrat-bold;font-size: 30px"><b>Creative Design</b></h3>
+                    <br>
                     <p style="font-family: montserrat-bold;color: black">Graphic design is the process of visual communication. When it comes to graphic design for brands, it's creating a visual representation that speaks to your audience. It influences everything about the way your brand is perceived visually, so you need it to be as well done as possible. We apply our creative skills to produce a comprehensive design that will deliver results that deliver success. Together, we can create design for your social media, advertising and marketing materials, publications, corporate stationery, packaging.</p>
                 </div>
             </div>
@@ -79,6 +80,7 @@
                 <div class="h-100 p-4 p-lg-5 bg-light site-block-feature-7">
                     <span><img src="images/PRINT.png" alt="icon"></span>
                     <h3 class="text-black h4" style="font-family: montserrat-bold;font-size: 30px"><b>Print</b></h3>
+                    <br>
                     <p style="font-family: montserrat-bold;color: black">Printing Service are ideal in major business operations. We offer an effective way to market your business through engaging print work. Our printing service are divided into: digital printing, offset printing and large format printing.<br> <b style="font-weight: bold;margin-left: 2px ">Digital printing-</b>this is the proccess of printing digitally images directly on different materials and substrates. It is a great for small run jobs.<br><b style="font-weight: bold;margin-left: 2px">Offset printing-</b> this is a printing method ideal for mass production.<br><b style="font-weight: bold;margin-left: 2px">Large format printing-</b>this method of printing sprays ink onto the choosen material to quickly produce quality prints with impecable detail and accuracy.Each printing technique is suited to a different need meaning that businesses can choose a print technique that best highlights their brand.</p>
                 </div>
             </div>
@@ -86,6 +88,7 @@
                 <div class="h-100 p-4 p-lg-5 bg-light site-block-feature-7">
                     <span><img src="images/BRANDIN.png" alt="icon"></span>
                     <h3 class="text-black h4" style="font-family: montserrat-bold;font-size: 30px"><b>Branding</b></h3>
+                    <br>
                     <p style="font-family: montserrat-bold;color: black">Branding is a process of creating a strong, positive perception of a company, its products or services in the customer's mind. it involves combining such elements as logo, design, mission statement, and a consistent theme throughout all marketing  communications.Effective branding helps companies differentiate themeselves from their competitors and build a loyal brand through stories, relationships, marketing messages and visual assets, you have the opportunity of shaping your customer's base. By carefully constructing your brand through stories relationships, marketing messages and visual assets, you have the opportunity of shaping your customer's expectation and creating a unique bond that goes beyond the buying-selling relationship.<br>Good branding is strategic, while marketing is tactical.</p>
                 </div>
             </div>
@@ -93,6 +96,7 @@
                 <div class="h-100 p-4 p-lg-5 bg-light site-block-feature-7">
                     <span><img src="images/PROMO.png" alt="icon"></span>
                     <h3 class="text-black h4" style="font-family: montserrat-bold;font-size: 30px"><b>Promo Items</b></h3>
+                    <br>
                     <p class="card-text" style="text-align: center;font-family: montserrat-black;color: black">Whether it's for marketing campaign, corporate event or corporate giveaway, they are perfect as giveaway to suppliers, staff and customers. They are a great opportunity to promote your business with branded items that serves as reminder to consumers every time they use the item. Our wide range of quality promotional products include</p>
                     <p style="text-align:center;margin-left: 10px;font-family: montserrat-black;color: black"><b><b style="color:black;font-family: montserrat-black;color: black">Apparel</b></b></p>
                     <p style="text-align: left;margin-left: 10px;font-family: montserrat-black;color: black">T-shirts, Polo Shirts Overalls, Dust coats, Reflector jackets, Uniform, Caps, Bags</p>
@@ -103,6 +107,7 @@
                 <div class="h-100 p-4 p-lg-5 bg-light site-block-feature-7">
                     <span><img src="images/CORPORAT.png" alt="icon"></span>
                     <h3 class="text-black h4" style="font-family: montserrat-bold;font-size: 30px"><b>Corporate Identity</b></h3>
+                    <br>
                     <p class="card-text" style="text-align: center;font-family: montserrat-black;color: black;">Corporate Brand Identity is the name given to the elements of a brand that you can see. It exists to help customers recognise a business when they see it. Your company's brand identity is what sets you apart from your competitors. If done right, it can help you reach beyond your customer base and into the wider world. A company's Identity is made up of several different elements, including:</p>
                     <ul style="list-style-type:disc;text-align: left;font-family: montserrat-black;color: black;">
                         <li>The Name</li>
@@ -117,6 +122,7 @@
                 <div class="h-100 p-4 p-lg-5 bg-light site-block-feature-7">
                     <span><img src="images/PACKAGING.png" alt="icon"></span>
                     <h3 class="text-black h4" style="font-family: montserrat-bold;font-size: 30px"><b>Packaging Design</b></h3>
+                    <br>
                     <p style="font-family: montserrat-bold;color: black">This Involves the design and creation of the product's container and how it looks to consumers who might purchase it. Your packaging could be the difference between a new customer picking your product from the shop shelf, or picking up that of your competitor's. Great packaging appeals to the eye, the brain and the emotions. It stands out on the shelves. It states all the necessary features and benefits. It is also a reflection of the company brand. Not only does it promote a product, it also serves to help and prolog the contents as well. Product features may be printed on the box or a nutritional fact label may be available for the consumer to review. </p>
                 </div>
             </div>
@@ -124,6 +130,7 @@
                 <div class="h-100 p-4 p-lg-5 bg-light site-block-feature-7">
                     <span><img src="images/SIGNAGE.png" alt="icon"></span>
                     <h3 class="text-black h4" style="font-family: montserrat-bold;font-size: 30px"><b>Signage</b></h3>
+                    <br>
                     <p style="font-family: montserrat-bold;color: black">Signage is any kind of visual display used to covey information. Business signs are often the first interaction that a potential customer has with a company, For example, external business signs or storefront signage usually represent the brand image.</p>
                 </div>
             </div>
@@ -131,6 +138,7 @@
                 <div class="h-100 p-4 p-lg-5 bg-light site-block-feature-7">
                     <span><img src="images/DIGITAL.png" alt="icon"></span>
                     <h3 class="text-black h4" style="font-family: montserrat-bold;font-size: 30px"><b>Digital Marketing</b></h3>
+                    <br>
                     <p style="font-family: montserrat-bold;color: black">Its also called online marketing, refers to all marketing efforts that occurs on the internet. With how accessible the internet is today, the number of people who go online everday is still increasing. The way people shop and buy really has changed along with it - meaning offline marketing isn't as effective as it used to be.<br>Digital marketing has been integrated into almost every aspect of business, fundamentally changing how companies communicate with and deliver value to customers.<br>Digital marketing strategies helps marketers define goals, target audience, and develop a digital marketing plan that best reaches that audience. These strategies provide direction for a given campaign or program and a framework foe evaluating outcomes.</p>
                 </div>
             </div>

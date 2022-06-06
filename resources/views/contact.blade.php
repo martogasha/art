@@ -37,7 +37,7 @@
                             <li><a href="{{url('service')}}">Services</a></li>
                             <li><a href="{{url('client')}}">Clientele</a></li>
 
-                            <li class="active"><a href="{{url('contact')}}">Contact</a></li>
+                            <li class="active"><a href="{{url('contact')}}" style="color: #DFB916">Contact</a></li>
                         </ul>
                     </nav>
                 </div>

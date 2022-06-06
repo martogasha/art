@@ -34,7 +34,7 @@
                             </li>
                             <li><a href="{{url('about')}}">About Us</a></li>
                             <li><a href="{{url('service')}}">Services</a></li>
-                            <li class="active"><a href="{{url('client')}}">Clientele</a></li>
+                            <li class="active"><a href="{{url('client')}}" style="color:#DFB916;">Clientele</a></li>
 
                             <li><a href="{{url('contact')}}">Contact</a></li>
                         </ul>
