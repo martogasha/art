@@ -43,3 +43,8 @@
     }
 
 </style>
+<script>
+    setTimeout(function(){
+        window.location.href = 'logo';
+    }, 2000);
+</script>
