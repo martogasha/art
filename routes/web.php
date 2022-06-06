@@ -16,8 +16,11 @@ use Illuminate\Support\Facades\Route;
 Route::get('home', function () {
     return view('welcome');
 });
-Route::get('/', function () {
+Route::get('/r', function () {
     return view('testing');
+});
+Route::get('/', function () {
+    return view('ttttt');
 });
 Route::get('/h', [App\Http\Controllers\IndexController::class, 'test']);
 Route::get('gallery', [App\Http\Controllers\IndexController::class, 'gallery']);
