@@ -26,8 +26,8 @@
             opacity: 0;
         }
     }
-
     body {
+        background-color: var(--backgroundColor);
         background-image:
             linear-gradient(90deg, var(--backgroundLinesColor), transparent 0px),
             linear-gradient(var(--backgroundLinesColor), transparent 0px),
@@ -36,10 +36,13 @@
         background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;
         background-position:-2px -2px, -2px -2px, -1px -1px, -1px -1px;
     }
+
 </style>
 <script>
     function randomColor() {
-        return `rgb(223,185,22)`;
+        var back = ["blue","gray"];
+        var rand = back[Math.floor(Math.random() * back.length)];
+        return `rgb(${rand})`;
     }
 
     function squareCoordinates(x, y){
@@ -74,7 +77,8 @@
             elem.style.position = "absolute";
             elem.style.width = "20px";
             elem.style.height = "20px";
-            elem.style.background = randomColor();
+            elem.style.border = "solid";
+            elem.style.borderColor =randomColor();
             elem.style.display = "block";
             elem.style.left = `${this.left}px`;
             elem.style.top = `${this.top}px`;
