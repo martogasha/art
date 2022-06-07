@@ -79,17 +79,56 @@
                 <h3 class="text-black h4" style="margin-right: 100px;font-family: montserrat-bold;font-size: 30px"><b>WHY US&nbsp&nbsp&nbsp</b></h3>
                 <p style="color:white;font-family: montserrat-bold;font-size: 20px">Understanding your brands is our priority. We strive to build lasting brands that will assist in establishing a platform<br>for continued growth. Choose us for the value we provide in being more of a business partner.<br>We believe ingredients of valuable relationship are quality, time management, cost efficiency, flexibility and<br>transparency.<br>Fire up your brand with the best.</p>
             </div>
+            <br>
             <div class="wrapper">
-                <br>
-                <br>
-                <div class="grid">
-                    <div class="item bold" style="font-family: montserrat-bold">Our Mission</div>
-                    <div class="item" style="color: white;font-family: montserrat-bold">To be a one stop hub in providing fturistic solutions in the creative world. </div>
-                    <div class="item bold" style="font-family: montserrat-bold">Our Vision</div>
-                    <div class="item" style="color: white;font-family: montserrat-bold">To provide top-notch custom solutions to your brand that causes satisfaction, a sense of ownership and stimulate affiliation.</div>
-                    <div class="item bold" style="font-family: montserrat-bold">Our Philosophy</div>
-                    <div class="item" style="color: white;font-family: montserrat-bold">No Mediocrity.</div>
+                <div class="grid" style="justify-content: center">
+                    <div class="item bold" style="font-family: montserrat-bold;text-align: center;margin-top: 50px"><h1 class="underline-smal">Our Vision</h1></div>
+                    <div class="item" style="color: white;font-family: montserrat;margin-left: 100px;margin-top: 50px"><h3 class="underline-small">To be a one-stop hub in providing fturistic solutions in the creative world. </h3></div>
+                    <div class="item bold" style="font-family: montserrat-bold;text-align: center;margin-top: 50px"><h1 class="underline-smal">Our Mission</h1></div>
+                    <div class="item" style="color: white;font-family: montserrat;margin-left: 100px;margin-top: 50px"><h3 class="underline-small">To provide top-notch custom solutions to your brand that causes satisfaction, a sense of ownership and stimulate affiliation.</h3></div>
+                    <div class="item bold" style="font-family: montserrat-bold;text-align: center;margin-top: 50px"><h1 class="underline-smal">Our Philosophy</h1></div>
+                    <div class="item" style="color: white;font-family: montserrat;margin-left: 100px;margin-top: 50px">No Mediocrity.</div>
                 </div>
+                <br>
+            </div>
+            <div class="wrapper" style="background-color: white">
+                <div class="grid" style="justify-content: center">
+                    <div class="item bold" style="font-family: montserrat-bold;text-align: center;margin-top: 150px;color: black"><h1 class="underline-sml">Our Core Values</h1></div>
+                    <div class="item" style="color: white;font-family: montserrat;margin-left: 100px;margin-top: 50px"> <div class="flex">
+                            <div>Creativity</div>
+                            <div>Attention to detail</div>
+                        </div>
+                        <br>
+                        <div class="flex">
+                            <div>Professionalism</div>
+                            <div>Commitment</div>
+                        </div>
+                        <br>
+                        <div class="flex">
+                            <div>Integrity and Transparency</div>
+                            <div>Passion for results</div>
+                        </div>
+                    </div>
+
+
+                    <style>
+
+                        .flex {
+                            display: flex;
+                            flex-wrap: wrap;
+                            row-gap: 20px;
+                            column-gap: 20px;
+                        }
+
+                        .flex > * {
+                            flex: 1 1 200px;
+                            background-color:goldenrod;
+                            padding: 10px;
+                            font-family: montserrat-bold;
+                        }
+
+                    </style>
+                <br>
             </div>
             <style>
                 .wrapper {
@@ -112,6 +151,84 @@
                 .bold {
                     font-weight: 700;
                     color: #DFB916;
+                }
+                 .underline-small{
+                     display:inline-block;
+                     position:relative;
+
+                 }
+
+                .underline-small::after{
+                    text-underline-offset: 0.5rem;
+                    content:'';
+                    height:2px;
+                    width:100%;
+                    background:darkgoldenrod;
+                    position:absolute;
+                    left:calc(10% - 10%);
+                    bottom:-40px;
+                    /*   another way you can achieve this
+                      Check this link:
+                      https://goo.gl/GgRdjz
+
+                      */
+
+                }
+                .underline-smal{
+                     display:inline-block;
+                     position:relative;
+
+                 }
+
+                .underline-smal::after{
+                    content:'';
+                    height:2px;
+                    width:20%;
+                    background:white;
+                    position:absolute;
+                    left:calc(50% - 10%);
+                    bottom:-5px;
+                    /*   another way you can achieve this
+                      Check this link:
+                      https://goo.gl/GgRdjz
+
+                      */
+
+                }
+                .underline-sml{
+                     display:inline-block;
+                     position:relative;
+
+                 }
+
+                .underline-sml::after{
+                    content:'';
+                    height:2px;
+                    width:20%;
+                    background:black;
+                    position:absolute;
+                    left:calc(50% - 10%);
+                    bottom:-5px;
+                    /*   another way you can achieve this
+                      Check this link:
+                      https://goo.gl/GgRdjz
+
+                      */
+
+                }
+                .underline-smll::after{
+                    content:'';
+                    height:2px;
+                    width:20%;
+                    background:black;
+                    position:absolute;
+                    left:calc(50% - 10%);
+                    bottom:-5px;
+                    /*   another way you can achieve this
+                      Check this link:
+                      https://goo.gl/GgRdjz
+
+                      */
                 }
             </style>
 

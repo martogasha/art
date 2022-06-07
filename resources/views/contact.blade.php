@@ -71,7 +71,7 @@
         <h2 class="site-section-heading text-center" style="color: white;font-family: montserrat-bold"><b>CONTACT US</b></h2>
         <br>
         <br>
-        <h2 class="site-section-heading text-center" style="color: white;font-family: montserrat-bold;font-size: 25px">Lets breake the ice..<br>We would love to hear from you.<br>Give us a call, a DM, a whatsapp chat, a message or send an email.</b>.</h2>
+        <h2 class="site-section-heading text-center" style="color: white;font-family: montserrat-bold;font-size: 35px">Lets breake the ice..<br>We would love to hear from you.<br>Give us a call, a DM, a whatsapp chat, a message or send an email.</b>.</h2>
     </div>
     <div class="container" id="ggg">
         <div class="item"><b>EMAIL</b></div>
@@ -82,7 +82,7 @@
 </div>
 <div class="row mb-5" style="background-color: black">
     <div class="col-12 ">
-        <h2 class="site-section-heading text-center" style="color: white;font-family: montserrat-bold;font-size: 25px">Connect with us on</h2>
+        <h2 class="site-section-heading text-center" style="color: white;font-family: montserrat-bold;font-size: 35px">Connect with us on</h2>
         <h2 class="site-section-heading text-center" style="color: white;font-family: montserrat-bold;font-size: 25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a><a href="#" class="pl-0 pr-3"><span class="icon-instagram"></span></a><a href="#" class="pl-0 pr-3"><span class="icon-twitter"></span></a><a href="#" class="pl-0 pr-3"><span class="icon-whatsapp"></span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2>
     </div>
     <div class="container" id="gg">
