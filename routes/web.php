@@ -19,6 +19,9 @@ Route::get('home', function () {
 Route::get('logo', function () {
     return view('testing');
 });
+Route::get('l', function () {
+    return view('t');
+});
 Route::get('/', function () {
     return view('ttttt');
 });

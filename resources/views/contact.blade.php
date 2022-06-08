@@ -66,12 +66,9 @@
 </div>
 <div class="row mb-5" id="bbb">
     <div class="col-12 ">
-        <br>
-        <br>
-        <h2 class="site-section-heading text-center" style="color: white;font-family: montserrat-bold"><b>CONTACT US</b></h2>
-        <br>
-        <br>
-        <h2 class="site-section-heading text-center" style="color: white;font-family: montserrat-bold;font-size: 35px">Lets breake the ice..<br>We would love to hear from you.<br>Give us a call, a DM, a whatsapp chat, a message or send an email.</b>.</h2>
+        <div>
+            <img src="asset/img/FIN.jpg" style="width: 100%">
+        </div>
     </div>
     <div class="container" id="ggg">
         <div class="item"><b>EMAIL</b></div>
