@@ -48,7 +48,7 @@
                 <li><a href="{{url('service')}}" title="services">Services</a></li>
                 <li><a href="{{url('client')}}" title="works">Clientele</a></li>
                 <li><a href="#" title="clients">Blog</a></li>
-                <li><a href="{{url('client')}}" title="contact">Contact</a></li>
+                <li><a href="{{url('contact')}}" title="contact">Contact</a></li>
             </ul>
             <p STYLE="color: black">FOLLOW US</p>
             <ul class="header-nav__social">
