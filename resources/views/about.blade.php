@@ -67,8 +67,7 @@
 
         <div class="container-fluid">
             <div>
-                <h2>Photo Here</h2>
-                <img src="#" style="width: 100%;height: 300px;background-color: white">
+                <img src="asset/images/abou.jpg" style="width: 100%">
             </div>
             <!--Now for the About section-->
             <div class="about-div">
