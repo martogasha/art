@@ -67,7 +67,7 @@
 
         <div class="container-fluid">
             <div>
-                <img src="asset/images/abou.jpg" style="width: 100%">
+                <img src="asset/images/about.jpg" style="width: 100%">
             </div>
             <!--Now for the About section-->
             <div class="about-div">
