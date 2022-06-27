@@ -5774,7 +5774,7 @@ input, textarea, select, pre, blockquote, table, p, ul, ol, dl, form, .video-con
 }
 
 .line-scale-pulse-out > div {
-    background-color: #39b54a;
+    background-color: darkgoldenrod;
     width: 4px;
     height: 35px;
     border-radius: 2px;
