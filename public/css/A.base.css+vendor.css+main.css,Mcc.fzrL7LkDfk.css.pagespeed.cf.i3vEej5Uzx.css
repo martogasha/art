@@ -5737,7 +5737,7 @@ input, textarea, select, pre, blockquote, table, p, ul, ol, dl, form, .video-con
 }
 
 .pace .pace-progress {
-    background: #39b54a;
+    background: darkgoldenrod;
     position: fixed;
     z-index: 900;
     top: 0;

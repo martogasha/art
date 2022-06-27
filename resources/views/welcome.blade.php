@@ -34,7 +34,8 @@
                     z.defer = !0, z.referrerPolicy = "origin", z.src = "https://preview.colorlib.com/cdn-cgi/zaraz/s.js?z=" + btoa(encodeURIComponent(JSON.stringify(a.zarazData))), t.parentNode.insertBefore(z, t)
                 }))
             }(w, d, 0, "script");
-        })(window, document);</script>
+        })(window, document);
+    </script>
 </head>
 <body id="top">
 <header class="s-header">

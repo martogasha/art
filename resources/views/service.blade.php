@@ -126,27 +126,51 @@
                     <p style="font-family: montserrat-bold;color: black">This Involves the design and creation of the product's container and how it looks to consumers who might purchase it. Your packaging could be the difference between a new customer picking your product from the shop shelf, or picking up that of your competitor's. Great packaging appeals to the eye, the brain and the emotions. It stands out on the shelves. It states all the necessary features and benefits. It is also a reflection of the company brand. Not only does it promote a product, it also serves to help and prolog the contents as well. Product features may be printed on the box or a nutritional fact label may be available for the consumer to review. </p>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-6 col-xl-4 text-center mb-5 mb-lg-5">
-                <div class="h-100 p-4 p-lg-5 bg-light site-block-feature-7">
-                    <span><img src="images/SIGNAGE.png" alt="icon"></span>
-                    <h3 class="text-black h4" style="font-family: montserrat-bold;font-size: 30px"><b>Signage</b></h3>
-                    <br>
-                    <p style="font-family: montserrat-bold;color: black">Signage is any kind of visual display used to covey information. Business signs are often the first interaction that a potential customer has with a company, For example, external business signs or storefront signage usually represent the brand image.</p>
+
+            <div class="flexbox-container">
+                <div class="col-md-6 col-lg-6 col-xl-4 text-center mb-5 mb-lg-5">
+                    <div class="h-100 p-4 p-lg-5 bg-light site-block-feature-7">
+                        <span><img src="images/SIGNAGE.png" alt="icon"></span>
+                        <h3 class="text-black h4" style="font-family: montserrat-bold;font-size: 30px"><b>Signage</b></h3>
+                        <br>
+                        <p style="font-family: montserrat-bold;color: black">Signage is any kind of visual display used to covey information. Business signs are often the first interaction that a potential customer has with a company, For example, external business signs or storefront signage usually represent the brand image.</p>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-6 col-xl-4 text-center mb-5 mb-lg-5">
+                    <div class="h-100 p-4 p-lg-5 bg-light site-block-feature-7">
+                        <span><img src="images/DIGITAL.png" alt="icon"></span>
+                        <h3 class="text-black h4" style="font-family: montserrat-bold;font-size: 30px"><b>Digital Marketing</b></h3>
+                        <br>
+                        <p style="font-family: montserrat-bold;color: black">Its also called online marketing, refers to all marketing efforts that occurs on the internet. With how accessible the internet is today, the number of people who go online everday is still increasing. The way people shop and buy really has changed along with it - meaning offline marketing isn't as effective as it used to be.<br>Digital marketing has been integrated into almost every aspect of business, fundamentally changing how companies communicate with and deliver value to customers.<br>Digital marketing strategies helps marketers define goals, target audience, and develop a digital marketing plan that best reaches that audience. These strategies provide direction for a given campaign or program and a framework foe evaluating outcomes.</p>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-6 col-xl-4 text-center mb-5 mb-lg-5">
-                <div class="h-100 p-4 p-lg-5 bg-light site-block-feature-7">
-                    <span><img src="images/DIGITAL.png" alt="icon"></span>
-                    <h3 class="text-black h4" style="font-family: montserrat-bold;font-size: 30px"><b>Digital Marketing</b></h3>
-                    <br>
-                    <p style="font-family: montserrat-bold;color: black">Its also called online marketing, refers to all marketing efforts that occurs on the internet. With how accessible the internet is today, the number of people who go online everday is still increasing. The way people shop and buy really has changed along with it - meaning offline marketing isn't as effective as it used to be.<br>Digital marketing has been integrated into almost every aspect of business, fundamentally changing how companies communicate with and deliver value to customers.<br>Digital marketing strategies helps marketers define goals, target audience, and develop a digital marketing plan that best reaches that audience. These strategies provide direction for a given campaign or program and a framework foe evaluating outcomes.</p>
-                </div>
-            </div>
-
-
         </div>
 
                     <style>
+
+                        .flexbox-container {
+                            display: flex;
+                            justify-content: center;
+
+                        }
+
+                        .flexbox-item {
+                            max-width: 50%;
+                            background: gray;
+
+                        }
+
+                        .fixed {
+                            flex: none;
+                            max-width: 50%;
+                        }
+
+                        .demo {
+                            width: 100%;
+                            padding: 1em;
+                            background: olive;
+                        }
                         .card-img {
                             padding-top: 100%;
                             position: relative;
