@@ -67,7 +67,7 @@
 <div class="row mb-5" id="bbb">
     <div class="col-12 ">
         <div>
-            <img src="asset/img/FIN.jpg" style="width: 100%">
+            <img src="asset/img/FINw.jpg" style="width: 100%">
         </div>
     </div>
     <div class="container" id="ggg">
