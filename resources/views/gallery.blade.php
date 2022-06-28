@@ -100,8 +100,7 @@
                 </div>
                 <div class="swiper-slide" style="background-image: url(asset/images/OFF.png)">
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
-                        <div class="image-info">
-                            <br>
+                        <div class="image-info" style="padding-top: 20px">
                             <br>
                             <h2 class="mb-3">OFFSET PRINTING</h2>
                             <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
