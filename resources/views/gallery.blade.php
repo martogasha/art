@@ -30,6 +30,18 @@
                         <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block" style="font-family: montserrat-bold;color: black"
                         >
                             <li><a href="{{url('/')}}">Home</a></li>
+                            <li class="has-children">
+                                <a href="#">Gallery</a>
+                                <ul class="dropdown">
+                                    <li><a href="#">Nature</a></li>
+                                    <li><a href="#">Portrait</a></li>
+                                    <li><a href="#">People</a></li>
+                                    <li><a href="#">Architecture</a></li>
+                                    <li><a href="#">Animals</a></li>
+                                    <li><a href="#">Sports</a></li>
+                                    <li><a href="#">Travel</a></li>
+                                </ul>
+                            </li>
                             <li class="active">
                                 <a href="{{url('gallery')}}" style="color: #DFB916">Explore</a>
                             </li>
@@ -70,10 +82,9 @@
                 <div class="swiper-slide" style="background-image: url(asset/images/di.jpg)">
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
+                            <br>
+                            <br>
                             <h2 class="mb-3">DIGITAL PRINTING</h2>
-                            <br>
-                            <br>
-                            <br>
                             <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
@@ -83,7 +94,6 @@
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">LARGE FORMAT PRINTING</h2>
-                            <br>
                             <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
@@ -91,10 +101,9 @@
                 <div class="swiper-slide" style="background-image: url(asset/images/OFF.png)">
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
+                            <br>
+                            <br>
                             <h2 class="mb-3">OFFSET PRINTING</h2>
-                            <br>
-                            <br>
-                            <br>
                             <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
@@ -103,7 +112,6 @@
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">DESIGN AND LAYOUT</h2>
-                            <br>
                             <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
@@ -111,10 +119,9 @@
                 <div class="swiper-slide" style="background-image: url(asset/images/OUI.png)">
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
+                            <br>
+                            <br>
                             <h2 class="mb-3">OUTDOOR ADVERTISING</h2>
-                            <br>
-                            <br>
-                            <br>
                             <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
@@ -122,12 +129,11 @@
                 <div class="swiper-slide" style="background-image: url(asset/images/PUB.png)">
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
+                            <br>
+                            <br>
+                            <br>
+                            <br>
                             <h2 class="mb-3">PUBLICATIONS</h2>
-                            <br>
-                            <br>
-                            <br>
-                            <br>
-                            <br>
                             <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
@@ -136,7 +142,6 @@
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">BRANDING AND PROMOTION</h2>
-                            <br>
                             <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
@@ -144,10 +149,9 @@
                 <div class="swiper-slide" style="background-image: url(asset/images/PACi.png)">
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
+                            <br>
+                            <br>
                             <h2 class="mb-3">PACKAGING DESIGN</h2>
-                            <br>
-                            <br>
-                            <br>
                             <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
@@ -155,10 +159,9 @@
                 <div class="swiper-slide" style="background-image: url(asset/images/Cri.png)">
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
+                            <br>
+                            <br>
                             <h2 class="mb-3">CORPORATE STATIONERY</h2>
-                            <br>
-                            <br>
-                            <br>
                             <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
@@ -166,9 +169,10 @@
                 <div class="swiper-slide" style="background-image: url(asset/images/IN.png)">
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
+                            <br>
+                            <br>
+                            <br>
                             <h2 class="mb-3">INFOGRAPHICS
-                                <br>
-                                <br>
                                 <br>
                                 <br>
                                 <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
@@ -179,10 +183,9 @@
                 <div class="swiper-slide" style="background-image: url(asset/images/DI.png)">
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
+                            <br>
+                            <br>
                             <h2 class="mb-3">DIGITAL SERVICES</h2>
-                            <br>
-                            <br>
-                            <br>
                             <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
