@@ -30,7 +30,7 @@
                         <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block" style="font-family: montserrat-bold;color: black">
                             <li><a href="{{url('/')}}">Home</a></li>
                             <li class="has-children">
-                                <a href="#">Gallery</a>
+                                <a href="{{}}">Gallery</a>
                                 <ul class="dropdown">
                                     <li><a href="#">Nature</a></li>
                                     <li><a href="#">Portrait</a></li>

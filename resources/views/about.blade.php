@@ -81,15 +81,30 @@
             <div>
                 <img src="asset/images/about.jpg" style="width: 100%">
             </div>
-            <!--Now for the About section-->
-            <div class="about-div">
-                <h3 class="text-black h4" style="font-family: montserrat-bold;font-size: 30px"><b>WHO WE ARE&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</b></h3>
-                <p style="color: white;font-family: montserrat-bold;font-size: 20px">We are a creative hub inclined to provide professional solutions in creative design, printing, branding and digital<br> marketing that enhance your brand.<br>We ensure that we provide state-of-the art service to our clients by understanding their needs and creating ideas<br>and solutions that are channelled to meeting their needs.
-                </p>
-                <hr style="background-color: white">
-                <h3 class="text-black h4" style="margin-right: 100px;font-family: montserrat-bold;font-size: 30px"><b>WHY US&nbsp&nbsp&nbsp</b></h3>
-                <p style="color:white;font-family: montserrat-bold;font-size: 20px">Understanding your brands is our priority. We strive to build lasting brands that will assist in establishing a platform<br>for continued growth. Choose us for the value we provide in being more of a business partner.<br>We believe ingredients of valuable relationship are quality, time management, cost efficiency, flexibility and<br>transparency.<br>Fire up your brand with the best.</p>
+            <div class="wrapper" style="background-color: #DFB916">
+                <h3><b>WHO WE ARE</b></h3>
+                <p style="font-family: montserrat-bold;color: white;text-align: center">We are a creative hub inclined to provide professional solutions in creative design, printing, branding and digital<br> marketing that enhance your brand.<br>We ensure that we provide state-of-the art service to our clients by understanding their needs and creating ideas<br>and solutions that are channelled to meeting their needs.</p>
             </div>
+            <div class="wrapper" style="background-color: #DFB916">
+                <h3><b>WHY US</b></h3>
+                <p style="font-family: montserrat-bold;color: white;text-align: center">Understanding your brands is our priority. We strive to build lasting brands that will assist in establishing a platform<br>for continued growth. Choose us for the value we provide in being more of a business partner.<br>We believe ingredients of valuable relationship are quality, time management, cost efficiency, flexibility and<br>transparency.<br>Fire up your brand with the best.</p>
+            </div>
+            <style>
+
+
+                h3 {
+                    font-size: calc(1.5rem + .5vw);
+                    text-align: center;
+                    font-family: montserrat-bold;
+                    color: black;
+                }
+
+                p {
+                    line-height: 1.7;
+                    font-size: calc(.875rem + .25vw);
+                }
+            </style>
+            <!--Now for the About section-->
             <br>
             <div class="wrapper">
                 <div class="grid" style="justify-content: center">
