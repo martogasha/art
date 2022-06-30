@@ -43,9 +43,6 @@
                             </li>
                             <li><a href="{{url('about')}}">About Us</a></li>
 
-                            <li class="active">
-                                <a href="{{url('gallery')}}">Gallery</a>
-                            </li>
                             <li><a href="{{url('service')}}">Services</a></li>
                             <li><a href="{{url('client')}}">Clientele</a></li>
 
