@@ -31,7 +31,7 @@
                         >
                             <li><a href="{{url('/')}}">Home</a></li>
                             <li class="has-children">
-                                <a href="#">Gallery</a>
+                                <a href="{{'digitalPrinting'}}">Gallery</a>
                                 <ul class="dropdown">
                                     <li><a href="#">Nature</a></li>
                                     <li><a href="#">Portrait</a></li>
