@@ -40,7 +40,8 @@
 </style>
 <script>
     function randomColor() {
-        var r = '#DFB916';
+        var myArray = ['#DFB916','#000000'];
+        var r = myArray[Math.floor(Math.random()*myArray.length)];
         return r;
     }
 
