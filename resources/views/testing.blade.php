@@ -40,14 +40,14 @@
 </style>
 <script>
     function randomColor() {
-        var r = '#'+Math.floor(Math.random() * 16777215).toString(16);
+        var r = '#DFB916';
         return r;
     }
 
     function squareCoordinates(x, y){
         // round x, y to the nearest 20
-        var x = Number.parseInt(x/20) * 20;
-        var y = Number.parseInt(y/20) * 20;
+        var x = Number.parseInt(x/10) * 20;
+        var y = Number.parseInt(y/10) * 20;
         return [x, y];
     }
 
