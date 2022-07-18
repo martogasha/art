@@ -30,10 +30,10 @@
                         <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block">
                             <li><a href="{{url('/')}}">Home</a></li>
                             <li class="has-children">
-                                <a href="{{'digitalPrinting'}}">Gallery</a>
+                                <a href="{{'gallery'}}" style="color: #DFB916">Explore</a>
                                 <ul class="dropdown">
-                                    <li><a href="#">Nature</a></li>
-                                    <li><a href="#">Portrait</a></li>
+                                    <li><a href="{{url('digitalPrinting')}}">Digital Printing</a></li>
+                                    <li><a href="{{url('largeFormatPrinting')}}">Large Format Printing</a></li>
                                     <li><a href="#">People</a></li>
                                     <li><a href="#">Architecture</a></li>
                                     <li><a href="#">Animals</a></li>
