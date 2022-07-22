@@ -82,117 +82,96 @@
                     </div>
                 </div>
             </div>
-            <div class="row" id="lightgallery">
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_1.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor doloremque hic excepturi fugit, sunt impedit fuga tempora, ad amet aliquid?</p>">
-                    <a href="#"><img src="asset/images/xnature_small_1.jpg.pagespeed.ic.Ponn9602mP.jpg" alt="IMage" class="img-fluid"></a>
+            <div class="container">
+                <div class="gallery">
+
+                    <div class="gallery-item">
+                        <img class="gallery-image" src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=500&h=500&fit=crop" alt="person writing in a notebook beside by an iPad, laptop, printed photos, spectacles, and a cup of coffee on a saucer">
+                    </div>
+
+                    <div class="gallery-item">
+                        <img class="gallery-image" src="https://images.unsplash.com/photo-1515260268569-9271009adfdb?w=500&h=500&fit=crop" alt="sunset behind San Francisco city skyline">
+                    </div>
+
+                    <div class="gallery-item">
+                        <img class="gallery-image" src="https://images.unsplash.com/photo-1506045412240-22980140a405?w=500&h=500&fit=crop" alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan">
+                    </div>
+
+                    <div class="gallery-item">
+                        <img class="gallery-image" src="https://images.unsplash.com/photo-1514041181368-bca62cceffcd?w=500&h=500&fit=crop" alt="car interior from central back seat position showing driver and blurred view through windscreen of a busy road at night">
+                    </div>
+
+                    <div class="gallery-item">
+                        <img class="gallery-image" src="https://images.unsplash.com/photo-1445810694374-0a94739e4a03?w=500&h=500&fit=crop" alt="back view of woman wearing a backpack and beanie waiting to cross the road on a busy street at night in New York City, USA">
+                    </div>
+
+                    <div class="gallery-item">
+                        <img class="gallery-image" src="https://images.unsplash.com/photo-1486334803289-1623f249dd1e?w=500&h=500&fit=crop" alt="man wearing a black jacket, white shirt, blue jeans, and brown boots, playing a white electric guitar while sitting on an amp">
+                    </div>
+
                 </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_2.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam omnis quaerat molestiae, praesentium. Ipsam, reiciendis. Aut molestiae animi earum laudantium.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_2.jpg.pagespeed.ic.noXomYysnw.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_3.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem reiciendis, dolorum illo temporibus culpa eaque dolore rerum quod voluptate doloribus.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_3.jpg.pagespeed.ic.Nitin701CM.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_4.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim perferendis quae iusto omnis praesentium labore tempore eligendi quo corporis sapiente.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_4.jpg.pagespeed.ic.3WXKbnZsS0.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_5.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe, voluptatum voluptate tempore aliquam, dolorem distinctio. In quas maiores tenetur sequi.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_5.jpg.pagespeed.ic.kbbAkKFrOc.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_6.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum cum culpa blanditiis illum, voluptatum iusto quisquam mollitia debitis quaerat maiores?</p>">
-                    <a href="#"><img src="asset/images/xnature_small_6.jpg.pagespeed.ic.2EybT1IXqh.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_7.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores similique impedit possimus, laboriosam enim at placeat nihil voluptatibus voluptate hic!</p>">
-                    <a href="#"><img src="asset/images/xnature_small_7.jpg.pagespeed.ic.PIL4lqZUsr.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_8.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam vitae sed cum mollitia itaque soluta laboriosam eaque sit ratione, aliquid.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_8.jpg.pagespeed.ic.X31KlsC3Xl.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_9.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem reiciendis debitis beatae facilis quos, enim quis nobis magnam architecto earum!</p>">
-                    <a href="#"><img src="asset/images/xnature_small_9.jpg.pagespeed.ic.LYH1RID_jm.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_9.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque officiis magnam, facilis nam eos perspiciatis eligendi pariatur numquam debitis quos!</p>">
-                    <a href="#"><img src="asset/images/xnature_small_9.jpg.pagespeed.ic.LYH1RID_jm.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_8.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis consequatur quam et, delectus, cum iste ipsa animi eligendi obcaecati nemo.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_8.jpg.pagespeed.ic.X31KlsC3Xl.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_7.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci quia illo voluptatibus numquam inventore, ab asperiores molestiae distinctio atque nihil.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_7.jpg.pagespeed.ic.PIL4lqZUsr.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_6.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt unde placeat obcaecati sapiente illum, fuga nostrum necessitatibus delectus maiores magnam.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_6.jpg.pagespeed.ic.2EybT1IXqh.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_5.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas dignissimos non consectetur. Facilis totam, explicabo nam iure! Veniam modi, molestiae.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_5.jpg.pagespeed.ic.kbbAkKFrOc.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_4.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias minus voluptatibus inventore odio. Iure amet nesciunt a, officia quo ex.</p>">
-                    <a href="#"><img src="images/xnature_small_4.jpg.pagespeed.ic.3WXKbnZsS0.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_3.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium illum consectetur dolorum consequuntur sint doloribus eveniet deleniti! Illo, quibusdam, earum.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_3.jpg.pagespeed.ic.Nitin701CM.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_2.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto ad iure, inventore asperiores, cupiditate optio dignissimos labore quidem totam. Dignissimos.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_2.jpg.pagespeed.ic.noXomYysnw.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_1.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam temporibus totam similique provident delectus quos fugiat officia earum nisi voluptatibus?</p>">
-                    <a href="#"><img src="asset/images/xnature_small_1.jpg.pagespeed.ic.Ponn9602mP.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_1.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe beatae qui aliquid nostrum unde ut officiis omnis delectus sequi deleniti!</p>">
-                    <a href="#"><img src="asset/images/xnature_small_1.jpg.pagespeed.ic.Ponn9602mP.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_2.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi iusto vero, soluta porro dicta quaerat tempore magni perferendis aspernatur cupiditate.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_2.jpg.pagespeed.ic.noXomYysnw.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_3.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, minus officiis modi ducimus reprehenderit at ea voluptatum consequuntur enim nulla.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_3.jpg.pagespeed.ic.Nitin701CM.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_4.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis eligendi hic sed, quidem illum ipsa, cum tempora quo reiciendis accusantium.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_4.jpg.pagespeed.ic.3WXKbnZsS0.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_5.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex blanditiis quaerat numquam repellendus pariatur commodi neque animi voluptatum illum dolore?</p>">
-                    <a href="#"><img src="asset/images/xnature_small_5.jpg.pagespeed.ic.kbbAkKFrOc.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_6.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio praesentium maiores, veritatis illum voluptas alias aut unde esse aliquam itaque.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_6.jpg.pagespeed.ic.2EybT1IXqh.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_7.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt fugit, non facilis dignissimos minima nostrum nesciunt adipisci, quibusdam cum reprehenderit.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_7.jpg.pagespeed.ic.PIL4lqZUsr.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_8.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos iure delectus obcaecati atque fugit enim quaerat suscipit tenetur in ratione?</p>">
-                    <a href="#"><img src="asset/images/xnature_small_8.jpg.pagespeed.ic.X31KlsC3Xl.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_9.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa neque, eos quae eaque officia, repellendus dolore tempore cumque quibusdam? Maxime?</p>">
-                    <a href="#"><img src="asset/images/xnature_small_9.jpg.pagespeed.ic.LYH1RID_jm.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_9.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, unde quis minus ex impedit necessitatibus nostrum, neque veniam repellat officiis!</p>">
-                    <a href="#"><img src="asset/images/xnature_small_9.jpg.pagespeed.ic.LYH1RID_jm.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_8.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel eveniet sequi assumenda deserunt ab, tempora commodi autem debitis iusto sed.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_8.jpg.pagespeed.ic.X31KlsC3Xl.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_7.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore, quasi, pariatur. Minima provident repellat cum, impedit, nemo exercitationem distinctio consequuntur.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_7.jpg.pagespeed.ic.PIL4lqZUsr.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_6.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus nostrum expedita consequatur rerum laboriosam tempore nisi autem animi eveniet perspiciatis.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_6.jpg.pagespeed.ic.2EybT1IXqh.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_5.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque consectetur error deserunt facilis facere, consequatur at officia quae culpa voluptatibus!</p>">
-                    <a href="#"><img src="asset/images/xnature_small_5.jpg.pagespeed.ic.kbbAkKFrOc.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_4.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti minima porro, hic dolores. Ab, doloremque facilis numquam, ipsa repellendus voluptas.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_4.jpg.pagespeed.ic.3WXKbnZsS0.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_3.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, dolor alias. Dignissimos hic voluptatibus dolorum expedita recusandae, consequatur distinctio est.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_3.jpg.pagespeed.ic.Nitin701CM.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_2.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum similique, dolore esse quaerat incidunt ullam sit neque laboriosam velit quas.</p>">
-                    <a href="#"><img src="asset/images/xnature_small_2.jpg.pagespeed.ic.noXomYysnw.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item" data-aos="fade" data-src="images/big-images/nature_big_1.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem tempora deleniti, consectetur quisquam labore vitae quod quae debitis hic ab!</p>">
-                    <a href="#"><img src="asset/images/xnature_small_1.jpg.pagespeed.ic.Ponn9602mP.jpg" alt="IMage" class="img-fluid"></a>
-                </div>
+
             </div>
-        </div>
+            <style>
+                /*
+
+    All grid code is placed in a 'supports' rule (feature query) at the bottom of the CSS (Line 77).
+
+    The 'supports' rule will only run if your browser supports CSS grid.
+
+    Flexbox is used as a fallback so that browsers which don't support grid will still recieve an identical layout.
+
+    */
+
+                @import url(https://fonts.googleapis.com/css?family=Montserrat:500);
+
+
+                .container {
+                    max-width: 100rem;
+                    margin: 0 auto;
+                    padding: 0 2rem 2rem;
+                }
+
+
+
+
+                .gallery {
+                    display: flex;
+                    flex-wrap: wrap;
+                    /* Compensate for excess margin on outer gallery flex items */
+                    margin: -1rem -1rem;
+                }
+
+                .gallery-item {
+                    /* Minimum width of 24rem and grow to fit available space */
+                    flex: 1 0 24rem;
+                    /* Margin value should be half of grid-gap value as margins on flex items don't collapse */
+                    margin: 1rem;
+                    box-shadow: 0.3rem 0.4rem 0.4rem rgba(0, 0, 0, 0.4);
+                    overflow: hidden;
+                }
+
+                /*
+
+                The following rule will only run if your browser supports CSS grid.
+
+                Remove or comment-out the code block below to see how the browser will fall-back to flexbox styling.
+
+                */
+
+                @supports (display: grid) {
+                    .gallery {
+                        grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
+                        grid-gap: 2rem;
+                    }
+
+                    .gallery,
+                    .gallery-item {
+                        margin: 0;
+                    }
+                }
+
+            </style>        </div>
     </div>asset/
     <div class="footer py-4">
         <div class="container-fluid text-center">
