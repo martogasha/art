@@ -73,19 +73,44 @@
         </div>
     </header>
 </div>
-<div class="row mb-5" id="bbb">
     <div class="col-12 ">
         <div>
             <img src="asset/img/FINw.jpg" style="width: 100%">
         </div>
     </div>
-    <div class="container" id="ggg">
-        <div class="item"><b>EMAIL</b><br>graphics.masterpiece@gmail.com</div>
-        <div class="item"><b>PHONE</b><br>+254727007178</div>
-        <div class="item"><b>HQ</b><br>Kweria road, Nairobi</div>
-    </div>
 
-</div>
+    <div class="section1" style="background-color: #DFB916">
+        <div class="top-border left"></div>
+        <div class="top-border right"></div>
+        <footer class="footer-distributed">
+
+            <div class="footer-left">
+                <h3>EMAIL</h3>
+                <p class="footer-links">
+                    <a href="#">graphics.masterpiece@gmail.com</a>
+                </p>
+
+
+            </div>
+
+            <div class="footer-center">
+                <div>
+                    <h3>PHONE</h3>
+                </div>
+                <div>
+                    <p>+254727007178</p>
+                </div>
+            </div>
+
+            <div class="footer-right">
+
+                <p class="footer-company-about">
+                <h3>HQ</h3>
+                <p style="color:white;">Kweria road, Nairobi</p>
+
+            </div>
+        </footer>
+    </div>
 <div class="row mb-5" style="background-color: black">
     <div class="col-12 ">
         <h2 class="site-section-heading text-center" style="color: white;font-family: montserrat-bold;font-size: 35px">Connect with us on</h2>
@@ -95,23 +120,152 @@
     </div>
 </div>
 <style>
+      .section1 {
+        position: relative;
+        width: 1800px;
+        max-width: 95%;
+        border: 2px solid #333;
+        border-top: none;
+        text-align: center;
+        margin: 100px auto ;
+
+    }
+    .right {
+        right: 0;
+    }
+    .left {
+        left: 0;
+    }
+
+    @media (max-width: 685px) {
+        .top-border {
+            width: 18%;
+        }
+    }
+
+    @media (max-width: 500px) {
+        .top-border {
+            display: none;
+        }
+        .section {
+            border-top: 2px solid #333;
+        }
+
+    }
+
+    .footer-distributed{
+        width: 100%;
+        text-align: left;
+        padding: 60px 80px;
+        margin-top: 80px;
+    }
+
+    .footer-distributed .footer-left,
+    .footer-distributed .footer-center,
+    .footer-distributed .footer-right{
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    /* Footer left */
+
+    .footer-distributed .footer-left{
+        width: 40%;
+    }
+
+    /* The company logo */
+
+    .footer-distributed h3{
+        color:  white;
+        font: normal 36px 'Cookie', cursive;
+        margin: 0;
+    }
+
+
+    /* Footer links */
+
+    .footer-distributed .footer-links{
+        color:  white;
+        padding: 0;
+    }
+
+    .footer-distributed .footer-links a{
+        display:inline-block;
+        line-height: 1.8;
+        text-decoration: none;
+        color:  inherit;
+    }
+
+    /* Footer Center */
+
+    .footer-distributed .footer-center{
+        width: 38%;
+    }
+
+    .footer-distributed .footer-center p{
+        display: inline-block;
+        color: white;
+        vertical-align: middle;
+        margin:0;
+    }
+
+    .footer-distributed .footer-center p span{
+        display:block;
+        font-weight: normal;
+        font-size:14px;
+        line-height:2
+    }
+
+    /* Footer Right */
+
+    .footer-distributed .footer-right{
+        width: 20%;
+    }
+
+    .footer-distributed .footer-company-about{
+        line-height: 20px;
+        color:  white;
+        font-size: 13px;
+        font-weight: normal;
+        margin: 0;
+    }
+
+    .footer-distributed .footer-company-about span{
+        display: block;
+        color:  white;
+        font-size: 14px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+
+    /* If you don't want the footer to be responsive, remove these media queries */
+
+    @media (max-width: 880px) {
+
+        .footer-distributed{
+            font: bold 14px sans-serif;
+        }
+
+        .footer-distributed .footer-left,
+        .footer-distributed .footer-center,
+        .footer-distributed .footer-right{
+            display: block;
+            width: 100%;
+            margin-bottom: 40px;
+            text-align: center;
+        }
+
+        .footer-distributed .footer-center i{
+            margin-left: 0;
+        }
+
+    }
+
     .pl-0{
         color: white;
     }
     body{
-        background-color: black;
-    }
-    #ggg {
-        padding: 10px;
-        background: #DFB916;
-        display: table;
-        table-layout: fixed;
-        width: 100%;
-        height: 100px;
-        box-sizing: border-box;
-    }#gg {
-        display: table;
-        table-layout: fixed;
         background-color: black;
     }
     .item {
