@@ -80,9 +80,9 @@
         </div>
     </div>
     <div class="container" id="ggg">
-        <div class="item"><b>EMAIL</b></div>
-        <div class="item"><b>PHONE</b></div>
-        <div class="item"><b>HQ</b></div>
+        <div class="item"><b>EMAIL</b><br>graphics.masterpiece@gmail.com</div>
+        <div class="item"><b>PHONE</b><br>+254727007178</div>
+        <div class="item"><b>HQ</b><br>Kweria road, Nairobi</div>
     </div>
 
 </div>
