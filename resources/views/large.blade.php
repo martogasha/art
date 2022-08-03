@@ -190,6 +190,30 @@
     $(document).ready(function(){
         $('#lightgallery').lightGallery();
     });
+    $('.images li img').hover(function() {
+        $(this).stop().fadeTo('fast', .5);
+        $(this).css({ 'cursor': 'pointer' });
+    }, function() {
+        $(this).stop().fadeTo('fast', 1);
+    });
+
+    $('.images li img').click(function() {
+        $('.overlay').fadeIn('fast');
+
+        var img_src = $(this).attr('src');
+
+        $('.overlay-image').html('<img src="' + img_src + '">');
+    });
+
+    $('.close-overlay').hover(function() {
+        $(this).css({ cursor: 'pointer' });
+    });
+
+    $('.close-overlay').click(function() {
+        $('.overlay').fadeOut('fast');
+    });
+
+
 </script>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
