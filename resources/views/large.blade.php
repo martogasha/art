@@ -78,7 +78,7 @@
                     <div class="row mb-5">
                         <div class="col-12 ">
                             <h2 class="site-section-heading text-center">Large Format Printing</h2>
-                            <p style="text-align: center;font-family: montserrat-bold;font-size: 20px">This Printing method is ideal for large print media such as: banners, window graphics & wraps,<br> billboards, back drop & roll-up banners, floor graphics, canvas mural prints, pvc stickers & labels,<br> frosted prints, flags and much more.</p>
+                            <p style="text-align: center;font-family: montserrat-bold;font-size:18px">This Printing method is ideal for large print media such as: banners, window graphics & wraps,<br> billboards, back drop & roll-up banners, floor graphics, canvas mural prints, pvc stickers & labels,<br> frosted prints, flags and much more.</p>
                         </div>
                     </div>
                 </div>
