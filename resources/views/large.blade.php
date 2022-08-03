@@ -78,108 +78,95 @@
                     <div class="row mb-5">
                         <div class="col-12 ">
                             <h2 class="site-section-heading text-center">Large Format Printing</h2>
+                            <p style="text-align: center;font-family: montserrat-bold;font-size: 20px">This Printing method is ideal for large print media such as: banners, window graphics & wraps,<br> billboards, back drop & roll-up banners, floor graphics, canvas mural prints, pvc stickers & labels,<br> frosted prints, flags and much more.</p>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="container">
-                <div class="gallery">
-
-                    <div class="gallery-item">
-                        <img class="gallery-image" src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=500&h=500&fit=crop" alt="person writing in a notebook beside by an iPad, laptop, printed photos, spectacles, and a cup of coffee on a saucer">
+                <div id="gallery">
+                    <div class="overlay">
+                        <img src="{{asset('asset/img/ex.png')}}" class="close-overlay">
+                        <div class="clear"></div>
+                        <div class="overlay-image"></div>
                     </div>
+                    <ul class="images">
+                        <li><img src="{{asset('asset/img/rollbanners.png')}}"></li>
+                        <li><img src="{{asset('asset/img/billboards.png')}}"></li>
+                        <li><img src="{{asset('asset/img/graphics.png')}}"></li>
+                        <li><img src="{{asset('asset/img/floorgraphics.png')}}"></li>
+                        <li><img src="{{asset('asset/img/telescopic.png')}}"></li>
+                        <li><img src="{{asset('asset/img/vehicle.png')}}"></li>
 
-                    <div class="gallery-item">
-                        <img class="gallery-image" src="https://images.unsplash.com/photo-1515260268569-9271009adfdb?w=500&h=500&fit=crop" alt="sunset behind San Francisco city skyline">
-                    </div>
-
-                    <div class="gallery-item">
-                        <img class="gallery-image" src="https://images.unsplash.com/photo-1506045412240-22980140a405?w=500&h=500&fit=crop" alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan">
-                    </div>
-
-                    <div class="gallery-item">
-                        <img class="gallery-image" src="https://images.unsplash.com/photo-1514041181368-bca62cceffcd?w=500&h=500&fit=crop" alt="car interior from central back seat position showing driver and blurred view through windscreen of a busy road at night">
-                    </div>
-
-                    <div class="gallery-item">
-                        <img class="gallery-image" src="https://images.unsplash.com/photo-1445810694374-0a94739e4a03?w=500&h=500&fit=crop" alt="back view of woman wearing a backpack and beanie waiting to cross the road on a busy street at night in New York City, USA">
-                    </div>
-
-                    <div class="gallery-item">
-                        <img class="gallery-image" src="https://images.unsplash.com/photo-1486334803289-1623f249dd1e?w=500&h=500&fit=crop" alt="man wearing a black jacket, white shirt, blue jeans, and brown boots, playing a white electric guitar while sitting on an amp">
-                    </div>
-
+                    </ul>
                 </div>
-
-            </div>
-            <style>
-                /*
-
-    All grid code is placed in a 'supports' rule (feature query) at the bottom of the CSS (Line 77).
-
-    The 'supports' rule will only run if your browser supports CSS grid.
-
-    Flexbox is used as a fallback so that browsers which don't support grid will still recieve an identical layout.
-
-    */
-
-                @import url(https://fonts.googleapis.com/css?family=Montserrat:500);
-
-
-                .container {
-                    max-width: 100rem;
-                    margin: 0 auto;
-                    padding: 0 2rem 2rem;
-                }
-
-
-
-
-                .gallery {
-                    display: flex;
-                    flex-wrap: wrap;
-                    /* Compensate for excess margin on outer gallery flex items */
-                    margin: -1rem -1rem;
-                }
-
-                .gallery-item {
-                    /* Minimum width of 24rem and grow to fit available space */
-                    flex: 1 0 24rem;
-                    /* Margin value should be half of grid-gap value as margins on flex items don't collapse */
-                    margin: 1rem;
-                    box-shadow: 0.3rem 0.4rem 0.4rem rgba(0, 0, 0, 0.4);
-                    overflow: hidden;
-                }
-
-                /*
-
-                The following rule will only run if your browser supports CSS grid.
-
-                Remove or comment-out the code block below to see how the browser will fall-back to flexbox styling.
-
-                */
-
-                @supports (display: grid) {
-                    .gallery {
-                        grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
-                        grid-gap: 2rem;
-                    }
-
-                    .gallery,
-                    .gallery-item {
+                <style>
+                    * {
                         margin: 0;
+                        padding: 0;
                     }
-                }
+                    body {
+                        width: 100%;
+                    }
+                    #gallery {
+                        margin: auto;
+                        padding: 20px 0 0 0;
+                        width: 1024px;
+                    }
+                    .overlay {
+                        width: 100%;
+                        height: 100%;
+                        background: rgba(0, 0, 0, .75);
+                        text-align: center;
+                        position: fixed;
+                        top: 0;
+                        left: 0;
+                        display: none;
+                        z-index: 999;
+                    }
+                    .close-overlay {
+                        margin: 20px 20px 0 0;
+                        width: 24px;
+                        opacity: .5;
+                        float: right;
+                    }
+                    .images {
+                        list-style: none;
+                        text-align: center;
+                    }
+                    .images li {
+                        margin: 0 16px 16px 0;
+                        width: 300px;
+                        height: 300px;
+                        overflow: hidden;
+                        display: inline-block;
+                        position: relative;
+                        background: url('http://www.freeiconspng.com/uploads/plus-sign-icon-31.png') center center / 48px no-repeat;
+                        object-fit: cover;
+                    }
+                    .images li:nth-child(4n) {
+                        margin-right: 0;
+                    }
+                    .images li img {
+                        width: 240px;
+                        height: 240px;
+                        object-fit: cover;
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                    }
+                    .clear {
+                        clear: both;
+                    }
+                </style>
+            </div>
+        </div>
+        <div class="footer py-4">
+            <div class="container-fluid text-center">
+                <p>
 
-            </style>        </div>
-    </div>asset/
-    <div class="footer py-4">
-        <div class="container-fluid text-center">
-            <p>
+                    Copyright &copy;<script data-cfasync="false" src="https://preview.colorlib.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank">Colorlib</a>
 
-                Copyright &copy;<script data-cfasync="false" src="https://preview.colorlib.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank">Colorlib</a>
-
-            </p>
+                </p>
+            </div>
         </div>
     </div>
 </div>

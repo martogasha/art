@@ -73,12 +73,11 @@
         </div>
     </header>
 </div>
-    <div class="col-12 ">
+    <div class="col-12">
         <div>
             <img src="asset/img/FINw.jpg" style="width: 100%">
         </div>
     </div>
-
     <div class="section1" style="background-color: #DFB916">
         <div class="top-border left"></div>
         <div class="top-border right"></div>
@@ -187,6 +186,7 @@
     .footer-distributed .footer-links{
         color:  white;
         padding: 0;
+        font-family: montserrat-bold;
     }
 
     .footer-distributed .footer-links a{
@@ -207,6 +207,8 @@
         color: white;
         vertical-align: middle;
         margin:0;
+        font-family: montserrat-bold;
+
     }
 
     .footer-distributed .footer-center p span{
@@ -228,6 +230,8 @@
         font-size: 13px;
         font-weight: normal;
         margin: 0;
+        font-family: montserrat-bold;
+
     }
 
     .footer-distributed .footer-company-about span{
@@ -236,6 +240,8 @@
         font-size: 14px;
         font-weight: bold;
         margin-bottom: 20px;
+        font-family: montserrat-bold;
+
     }
 
 
@@ -277,161 +283,8 @@
         font-family: montserrat-bold;
         font-size: 25px;
     }
-    #bbb {
-        background: url(asset/img/contac.jpeg);
-    }
-    @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
-    * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-    }
-
-    *::after,
-    *::before {
-        box-sizing: border-box;
-        padding: 0;
-        margin: 0;
-    }
-
-    :root {
-        --primary-color: #fff;
-        --grey-color: #666;
-        --dar-blue-color: hsl(223deg 57% 12%);
-        --medium-font-size: 20px;
-        --small-font-size: 16px;
-    }
 
 
-    .container {
-        max-width: 1200px;
-        width: 90%;
-        margin: auto;
-    }
-
-
-    /* -======= Contact =====- */
-
-    .contact {
-        padding-top: 100px;
-        padding-bottom: 100px;
-        background-color: var(--primary-color);
-    }
-
-    .cont {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        padding-top: 60px;
-    }
-
-    contact-text {
-        flex-basis: 48%;
-    }
-
-    .contact-text p {
-        font-size: 32px;
-        margin-bottom: 30px;
-        margin-right: 40px;
-    }
-
-    .contact-text h6,
-    .contact-text .address,
-    .contact-text .mail {
-        font-size: var(--medium-font-size);
-    }
-
-    .contact-text h6 {
-        color: var(--dar-blue-color);
-    }
-
-    .contact-form {
-        flex-basis: 48%;
-    }
-
-    .cont .contact-form form {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .cont .contact-form form label {
-        font-size: var(--medium-font-size);
-        padding: 10px 0;
-    }
-
-    .cont .contact-form form input,
-    .cont .contact-form form textarea {
-        font-size: var(--medium-font-size);
-        padding: 10px 0;
-        resize: none;
-        margin: 6px 0;
-        border-radius: 12px;
-        outline: none;
-        border: 2px solid var(--grey-color);
-    }
-
-    .cont .contact-form form input[type="submit"] {
-        margin: 16px 0;
-        width: 26%;
-        cursor: pointer;
-        border: 2px solid var(--dar-blue-color);
-        font-size: var(--medium-font-size);
-        background-color: var(--dar-blue-color);
-        color: var(--primary-color);
-        font-weight: 500;
-        transition: 0.4s;
-    }
-
-    .cont .contact-form form input[type="submit"]:hover {
-        background-color: var(--primary-color);
-        color: var(--dar-blue-color);
-        font-weight: 600;
-    }
-
-
-    /* -======= Media Queriers =====- */
-
-    @media (max-width: 500px) {
-        .cont {
-            display: block;
-            flex-direction: column;
-        }
-        .contact {
-            padding-top: 0;
-        }
-        .cont .contact-form form input,
-        .cont .contact-form form textarea {
-            width: 100%;
-        }
-        .cont .contact-form form input[type="submit"] {
-            width: 23%;
-            font-size: var(--small-font-size);
-        }
-        .contact-text p {
-            margin-right: 0;
-        }
-    }
-
-    @media (min-width: 501px) and (max-width: 768px) {
-        .cont {
-            display: block;
-            flex-direction: column;
-        }
-        .contact {
-            padding-top: 0;
-        }
-        .cont .contact-form form input,
-        .cont .contact-form form textarea {
-            width: 100%;
-        }
-        .cont .contact-form form input[type="submit"] {
-            width: 23%;
-            font-size: var(--small-font-size);
-        }
-        .contact-text p {
-            margin-right: 0;
-        }
-    }
 </style>
 <script src="asset/js/jquery-3.3.1.min.js"></script>
 <script src="asset/js/jquery-migrate-3.0.1.min.js%2bjquery-ui.js%2bpopper.min.js.pagespeed.jc.WUDEEY8wBM.js"></script><script>eval(mod_pagespeed_$X$r3wIu6B);</script>
