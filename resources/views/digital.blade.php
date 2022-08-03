@@ -79,85 +79,100 @@
                     <div class="row mb-5">
                         <div class="col-12 ">
                             <h2 class="site-section-heading text-center">Digital Printing</h2>
-                            <p style="text-align: center;font-family: montserrat-bold;font-size: 20px">This Printing method is ideal for large print media such as: banners, window graphics & wraps,<br> billboards, back drop & roll-up banners, floor graphics, canvas mural prints, pvc stickers & labels,<br> frosted prints, flags and much more.</p>
                         </div>
                     </div>
                 </div>
-            <div id="gallery">
-                <div class="overlay">
-                    <img src="{{asset('asset/img/ex.png')}}" class="close-overlay">
-                    <div class="clear"></div>
-                    <div class="overlay-image"></div>
-                </div>
-                <ul class="images">
-                    <li><img src="{{asset('asset/img/rollbanners.png')}}"></li>
-                    <li><img src="{{asset('asset/img/billboards.png')}}"></li>
-                    <li><img src="{{asset('asset/img/graphics.png')}}"></li>
-                    <li><img src="{{asset('asset/img/floorgraphics.png')}}"></li>
-                    <li><img src="{{asset('asset/img/telescopic.png')}}"></li>
-                    <li><img src="{{asset('asset/img/vehicle.png')}}"></li>
-
-                </ul>
             </div>
-            <style>
-                * {
+            <div class="container">
+                <div class="gallery">
+
+                    <div class="gallery-item">
+                        <img class="gallery-image" src="{{asset('asset/img/rrr.png')}}" alt="person writing in a notebook beside by an iPad, laptop, printed photos, spectacles, and a cup of coffee on a saucer">
+                    </div>
+
+                    <div class="gallery-item">
+                        <img class="gallery-image" src="{{asset('asset/img/bbb.png')}}" alt="sunset behind San Francisco city skyline">
+                    </div>
+
+                    <div class="gallery-item">
+                        <img class="gallery-image" src="{{asset('asset/img/ggg.png')}}" alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan">
+                    </div>
+
+                    <div class="gallery-item">
+                        <img class="gallery-image" src="{{asset('asset/img/fff.png')}}" alt="car interior from central back seat position showing driver and blurred view through windscreen of a busy road at night">
+                    </div>
+
+                    <div class="gallery-item">
+                        <img class="gallery-image" src="{{asset('asset/img/ttt.png')}}" alt="back view of woman wearing a backpack and beanie waiting to cross the road on a busy street at night in New York City, USA">
+                    </div>
+
+                    <div class="gallery-item">
+                        <img class="gallery-image" src="{{asset('asset/img/vvv.png')}}" alt="man wearing a black jacket, white shirt, blue jeans, and brown boots, playing a white electric guitar while sitting on an amp">
+                    </div>
+
+                </div>
+
+            </div>
+        <style>
+            /*
+
+All grid code is placed in a 'supports' rule (feature query) at the bottom of the CSS (Line 77).
+
+The 'supports' rule will only run if your browser supports CSS grid.
+
+Flexbox is used as a fallback so that browsers which don't support grid will still recieve an identical layout.
+
+*/
+
+            @import url(https://fonts.googleapis.com/css?family=Montserrat:500);
+
+
+            .container {
+                max-width: 100rem;
+                margin: 0 auto;
+                padding: 0 2rem 2rem;
+            }
+
+
+
+
+            .gallery {
+                display: flex;
+                flex-wrap: wrap;
+                /* Compensate for excess margin on outer gallery flex items */
+                margin: -1rem -1rem;
+            }
+
+            .gallery-item {
+                /* Minimum width of 24rem and grow to fit available space */
+                flex: 1 0 24rem;
+                /* Margin value should be half of grid-gap value as margins on flex items don't collapse */
+                margin: 1rem;
+                box-shadow: 0.3rem 0.4rem 0.4rem rgba(0, 0, 0, 0.4);
+                overflow: hidden;
+            }
+
+            /*
+
+            The following rule will only run if your browser supports CSS grid.
+
+            Remove or comment-out the code block below to see how the browser will fall-back to flexbox styling.
+
+            */
+
+            @supports (display: grid) {
+                .gallery {
+                    grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
+                    grid-gap: 2rem;
+                }
+
+                .gallery,
+                .gallery-item {
                     margin: 0;
-                    padding: 0;
                 }
-                body {
-                    width: 100%;
-                }
-                #gallery {
-                    margin: auto;
-                    padding: 20px 0 0 0;
-                    width: 1024px;
-                }
-                .overlay {
-                    width: 100%;
-                    height: 100%;
-                    background: rgba(0, 0, 0, .75);
-                    text-align: center;
-                    position: fixed;
-                    top: 0;
-                    left: 0;
-                    display: none;
-                    z-index: 999;
-                }
-                .close-overlay {
-                    margin: 20px 20px 0 0;
-                    width: 24px;
-                    opacity: .5;
-                    float: right;
-                }
-                .images {
-                    list-style: none;
-                    text-align: center;
-                }
-                .images li {
-                    margin: 0 16px 16px 0;
-                    width: 300px;
-                    height: 300px;
-                    overflow: hidden;
-                    display: inline-block;
-                    position: relative;
-                    background: url('http://www.freeiconspng.com/uploads/plus-sign-icon-31.png') center center / 48px no-repeat;
-                    object-fit: cover;
-                }
-                .images li:nth-child(4n) {
-                    margin-right: 0;
-                }
-                .images li img {
-                    width: 240px;
-                    height: 240px;
-                    object-fit: cover;
-                    position: absolute;
-                    top: 0;
-                    left: 0;
-                }
-                .clear {
-                    clear: both;
-                }
-            </style>
+            }
+
+        </style>
         </div>
     </div>
     <div class="footer py-4">
@@ -187,30 +202,9 @@
 <script>eval(mod_pagespeed_GxcGermlZ8);</script>
 <script>eval(mod_pagespeed_XjgCeytBrU);</script>
 <script>
-    $('.images li img').hover(function() {
-        $(this).stop().fadeTo('fast', .5);
-        $(this).css({ 'cursor': 'pointer' });
-    }, function() {
-        $(this).stop().fadeTo('fast', 1);
+    $(document).ready(function(){
+        $('#lightgallery').lightGallery();
     });
-
-    $('.images li img').click(function() {
-        $('.overlay').fadeIn('fast');
-
-        var img_src = $(this).attr('src');
-
-        $('.overlay-image').html('<img src="' + img_src + '">');
-    });
-
-    $('.close-overlay').hover(function() {
-        $(this).css({ cursor: 'pointer' });
-    });
-
-    $('.close-overlay').click(function() {
-        $('.overlay').fadeOut('fast');
-    });
-
-
 </script>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
