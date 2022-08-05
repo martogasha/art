@@ -3,7 +3,7 @@
 
 <!-- Mirrored from preview.colorlib.com/theme/photon/single.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 26 Apr 2022 07:55:33 GMT -->
 <head>
-    <title>Digital Printing - Website</title>
+    <title>Offset Printing - Website</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300i,400,700" rel="stylesheet">
@@ -79,8 +79,8 @@
                 <div class="col-md-7">
                     <div class="row mb-5">
                         <div class="col-12 ">
-                            <h2 class="site-section-heading text-center">Digital Printing</h2>
-                            <p style="text-align: center;font-family: montserrat-bold;font-size:18px">It's an ideal option for small run jobs such as: business cards, fliers, posters, brochures, menus,<br> letterheads, complimentary slips, bookmarks, tickets & gift vouchers, certificates, profiles and much more.<br> We offer digital printing for DL,A7,A6,A5,A3,A2 & B5,B2 size artworks.</p>
+                            <h2 class="site-section-heading text-center">Offset Printing</h2>
+                            <p style="text-align: center;font-family: montserrat-bold;font-size:18px">Ideal for mass production printing for a wide variety of products like:<br>publications- books, magazines, catalogues, newsletters, reports also brochures, posters, fliers,<br>notebooks & notepads, receipt books, boxes, gift bags, calendars, company folders.</p>
 
                         </div>
                     </div>
@@ -90,7 +90,7 @@
                 <div class="gallery">
 
                     <div class="gallery-item">
-                        <img class="gallery-image" src="{{asset('asset/img/dfff.png')}}" alt="person writing in a notebook beside by an iPad, laptop, printed photos, spectacles, and a cup of coffee on a saucer">
+                        <img class="gallery-image" src="{{asset('asset/img/onnn.png')}}" alt="person writing in a notebook beside by an iPad, laptop, printed photos, spectacles, and a cup of coffee on a saucer">
                     </div>
 
                     <div class="gallery-item">
@@ -98,84 +98,84 @@
                     </div>
 
                     <div class="gallery-item">
-                        <img class="gallery-image" src="{{asset('asset/img/dppp.png')}}" alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan">
+                        <img class="gallery-image" src="{{asset('asset/img/oc.png')}}" alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan">
                     </div>
 
                     <div class="gallery-item">
-                        <img class="gallery-image" src="{{asset('asset/img/dlll.png')}}" alt="car interior from central back seat position showing driver and blurred view through windscreen of a busy road at night">
+                        <img class="gallery-image" src="{{asset('asset/img/oggg.png')}}" alt="car interior from central back seat position showing driver and blurred view through windscreen of a busy road at night">
                     </div>
 
                     <div class="gallery-item">
-                        <img class="gallery-image" src="{{asset('asset/img/dccc.png')}}" alt="back view of woman wearing a backpack and beanie waiting to cross the road on a busy street at night in New York City, USA">
+                        <img class="gallery-image" src="{{asset('asset/img/occc.png')}}" alt="back view of woman wearing a backpack and beanie waiting to cross the road on a busy street at night in New York City, USA">
                     </div>
 
                     <div class="gallery-item">
-                        <img class="gallery-image" src="{{asset('asset/img/db.png')}}" alt="man wearing a black jacket, white shirt, blue jeans, and brown boots, playing a white electric guitar while sitting on an amp">
+                        <img class="gallery-image" src="{{asset('asset/img/orrr.png')}}" alt="man wearing a black jacket, white shirt, blue jeans, and brown boots, playing a white electric guitar while sitting on an amp">
                     </div>
 
                 </div>
 
             </div>
-        <style>
-            /*
+            <style>
+                /*
 
-All grid code is placed in a 'supports' rule (feature query) at the bottom of the CSS (Line 77).
+    All grid code is placed in a 'supports' rule (feature query) at the bottom of the CSS (Line 77).
 
-The 'supports' rule will only run if your browser supports CSS grid.
+    The 'supports' rule will only run if your browser supports CSS grid.
 
-Flexbox is used as a fallback so that browsers which don't support grid will still recieve an identical layout.
+    Flexbox is used as a fallback so that browsers which don't support grid will still recieve an identical layout.
 
-*/
+    */
 
-            @import url(https://fonts.googleapis.com/css?family=Montserrat:500);
-
-
-            .container {
-                max-width: 100rem;
-                margin: 0 auto;
-                padding: 0 2rem 2rem;
-            }
+                @import url(https://fonts.googleapis.com/css?family=Montserrat:500);
 
 
+                .container {
+                    max-width: 100rem;
+                    margin: 0 auto;
+                    padding: 0 2rem 2rem;
+                }
 
 
-            .gallery {
-                display: flex;
-                flex-wrap: wrap;
-                /* Compensate for excess margin on outer gallery flex items */
-                margin: -1rem -1rem;
-            }
 
-            .gallery-item {
-                /* Minimum width of 24rem and grow to fit available space */
-                flex: 1 0 24rem;
-                /* Margin value should be half of grid-gap value as margins on flex items don't collapse */
-                margin: 1rem;
-                box-shadow: 0.3rem 0.4rem 0.4rem rgba(0, 0, 0, 0.4);
-                overflow: hidden;
-            }
 
-            /*
-
-            The following rule will only run if your browser supports CSS grid.
-
-            Remove or comment-out the code block below to see how the browser will fall-back to flexbox styling.
-
-            */
-
-            @supports (display: grid) {
                 .gallery {
-                    grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
-                    grid-gap: 2rem;
+                    display: flex;
+                    flex-wrap: wrap;
+                    /* Compensate for excess margin on outer gallery flex items */
+                    margin: -1rem -1rem;
                 }
 
-                .gallery,
                 .gallery-item {
-                    margin: 0;
+                    /* Minimum width of 24rem and grow to fit available space */
+                    flex: 1 0 24rem;
+                    /* Margin value should be half of grid-gap value as margins on flex items don't collapse */
+                    margin: 1rem;
+                    box-shadow: 0.3rem 0.4rem 0.4rem rgba(0, 0, 0, 0.4);
+                    overflow: hidden;
                 }
-            }
 
-        </style>
+                /*
+
+                The following rule will only run if your browser supports CSS grid.
+
+                Remove or comment-out the code block below to see how the browser will fall-back to flexbox styling.
+
+                */
+
+                @supports (display: grid) {
+                    .gallery {
+                        grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
+                        grid-gap: 2rem;
+                    }
+
+                    .gallery,
+                    .gallery-item {
+                        margin: 0;
+                    }
+                }
+
+            </style>
         </div>
     </div>
     <div class="footer py-4">

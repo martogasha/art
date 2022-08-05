@@ -3,7 +3,7 @@
 
 <!-- Mirrored from preview.colorlib.com/theme/photon/single.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 26 Apr 2022 07:55:33 GMT -->
 <head>
-    <title>Photon &mdash; Colorlib Website Template</title>
+    <title>Large Format Printing - Website</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300i,400,700" rel="stylesheet">
@@ -28,13 +28,13 @@
                 <div class="col-10 col-md-8 d-none d-xl-block" data-aos="fade-down">
                     <nav class="site-navigation position-relative text-right text-lg-center" role="navigation">
                         <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block">
-                            <li><a href="{{url('/')}}">Home</a></li>
+                            <li><a href="{{url('home')}}">Home</a></li>
                             <li class="has-children">
                                 <a href="{{'gallery'}}" style="color: #DFB916">Explore</a>
                                 <ul class="dropdown">
                                     <li><a href="{{url('digitalPrinting')}}">Digital Printing</a></li>
                                     <li><a href="{{url('largeFormatPrinting')}}">Large Format Printing</a></li>
-                                    <li><a href="#">People</a></li>
+                                    <li><a href="{{url('offsetPrinting')}}">Offset Printing</a></li>
                                     <li><a href="#">Architecture</a></li>
                                     <li><a href="#">Animals</a></li>
                                     <li><a href="#">Sports</a></li>
@@ -44,6 +44,7 @@
                             <li><a href="{{url('about')}}">About Us</a></li>
                             <li><a href="{{url('service')}}">Services</a></li>
                             <li><a href="{{url('client')}}">Clientele</a></li>
+                            <li><a href="#">Blog</a></li>
 
                             <li><a href="{{url('contact')}}">Contact</a></li>
                         </ul>
@@ -82,80 +83,95 @@
                         </div>
                     </div>
                 </div>
-                <div id="gallery">
-                    <div class="overlay">
-                        <img src="{{asset('asset/img/ex.png')}}" class="close-overlay">
-                        <div class="clear"></div>
-                        <div class="overlay-image"></div>
-                    </div>
-                    <ul class="images">
-                        <li><img src="{{asset('asset/img/rollbanners.png')}}"></li>
-                        <li><img src="{{asset('asset/img/billboards.png')}}"></li>
-                        <li><img src="{{asset('asset/img/graphics.png')}}"></li>
-                        <li><img src="{{asset('asset/img/floorgraphics.png')}}"></li>
-                        <li><img src="{{asset('asset/img/telescopic.png')}}"></li>
-                        <li><img src="{{asset('asset/img/vehicle.png')}}"></li>
+                <div class="container">
+                    <div class="gallery">
 
-                    </ul>
+                        <div class="gallery-item">
+                            <img class="gallery-image" src="{{asset('asset/img/rrr.png')}}" alt="person writing in a notebook beside by an iPad, laptop, printed photos, spectacles, and a cup of coffee on a saucer">
+                        </div>
+
+                        <div class="gallery-item">
+                            <img class="gallery-image" src="{{asset('asset/img/bbb.png')}}" alt="sunset behind San Francisco city skyline">
+                        </div>
+
+                        <div class="gallery-item">
+                            <img class="gallery-image" src="{{asset('asset/img/ggg.png')}}" alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan">
+                        </div>
+
+                        <div class="gallery-item">
+                            <img class="gallery-image" src="{{asset('asset/img/fff.png')}}" alt="car interior from central back seat position showing driver and blurred view through windscreen of a busy road at night">
+                        </div>
+
+                        <div class="gallery-item">
+                            <img class="gallery-image" src="{{asset('asset/img/ttt.png')}}" alt="back view of woman wearing a backpack and beanie waiting to cross the road on a busy street at night in New York City, USA">
+                        </div>
+
+                        <div class="gallery-item">
+                            <img class="gallery-image" src="{{asset('asset/img/vvv.png')}}" alt="man wearing a black jacket, white shirt, blue jeans, and brown boots, playing a white electric guitar while sitting on an amp">
+                        </div>
+
+                    </div>
+
                 </div>
                 <style>
-                    * {
-                        margin: 0;
-                        padding: 0;
+                    /*
+
+        All grid code is placed in a 'supports' rule (feature query) at the bottom of the CSS (Line 77).
+
+        The 'supports' rule will only run if your browser supports CSS grid.
+
+        Flexbox is used as a fallback so that browsers which don't support grid will still recieve an identical layout.
+
+        */
+
+                    @import url(https://fonts.googleapis.com/css?family=Montserrat:500);
+
+
+                    .container {
+                        max-width: 100rem;
+                        margin: 0 auto;
+                        padding: 0 2rem 2rem;
                     }
-                    body {
-                        width: 100%;
+
+
+
+
+                    .gallery {
+                        display: flex;
+                        flex-wrap: wrap;
+                        /* Compensate for excess margin on outer gallery flex items */
+                        margin: -1rem -1rem;
                     }
-                    #gallery {
-                        margin: auto;
-                        padding: 20px 0 0 0;
-                        width: 1024px;
-                    }
-                    .overlay {
-                        width: 100%;
-                        height: 100%;
-                        background: rgba(0, 0, 0, .75);
-                        text-align: center;
-                        position: fixed;
-                        top: 0;
-                        left: 0;
-                        display: none;
-                        z-index: 999;
-                    }
-                    .close-overlay {
-                        margin: 20px 20px 0 0;
-                        width: 24px;
-                        opacity: .5;
-                        float: right;
-                    }
-                    .images {
-                        list-style: none;
-                        text-align: center;
-                    }
-                    .images li {
-                        margin: 0 16px 16px 0;
-                        width: 300px;
-                        height: 300px;
+
+                    .gallery-item {
+                        /* Minimum width of 24rem and grow to fit available space */
+                        flex: 1 0 24rem;
+                        /* Margin value should be half of grid-gap value as margins on flex items don't collapse */
+                        margin: 1rem;
+                        box-shadow: 0.3rem 0.4rem 0.4rem rgba(0, 0, 0, 0.4);
                         overflow: hidden;
-                        display: inline-block;
-                        position: relative;
-                        background: url('http://www.freeiconspng.com/uploads/plus-sign-icon-31.png') center center / 48px no-repeat;
-                        object-fit: cover;
                     }
-                    .images li:nth-child(4n) {
-                        margin-right: 0;
+
+                    /*
+
+                    The following rule will only run if your browser supports CSS grid.
+
+                    Remove or comment-out the code block below to see how the browser will fall-back to flexbox styling.
+
+                    */
+
+                    @supports (display: grid) {
+                        .gallery {
+                            grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
+                            grid-gap: 2rem;
+                        }
+
+                        .gallery,
+                        .gallery-item {
+                            margin: 0;
+                        }
                     }
-                    .images li img {
-                        width: 240px;
-                        height: 240px;
-                        object-fit: cover;
-                        position: absolute;
-                        top: 0;
-                        left: 0;
-                    }
-                    .clear {
-                        clear: both;
-                    }
+
                 </style>
             </div>
         </div>

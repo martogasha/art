@@ -18,6 +18,9 @@ class IndexController extends Controller
     public function large(){
         return view('large');
     }
+    public function offsetPrinting(){
+        return view('offset');
+    }
     public function services(){
         return view('service');
     }

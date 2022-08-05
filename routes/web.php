@@ -29,6 +29,7 @@ Route::get('/h', [App\Http\Controllers\IndexController::class, 'test']);
 Route::get('gallery', [App\Http\Controllers\IndexController::class, 'gallery']);
 Route::get('digitalPrinting', [App\Http\Controllers\IndexController::class, 'digital']);
 Route::get('largeFormatPrinting', [App\Http\Controllers\IndexController::class, 'large']);
+Route::get('offsetPrinting', [App\Http\Controllers\IndexController::class, 'offsetPrinting']);
 Route::get('service', [App\Http\Controllers\IndexController::class, 'services']);
 Route::get('about', [App\Http\Controllers\IndexController::class, 'aboutUs']);
 Route::get('contact', [App\Http\Controllers\IndexController::class, 'contact']);

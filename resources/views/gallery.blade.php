@@ -28,7 +28,7 @@
                 <div class="col-10 col-md-8 d-none d-xl-block" data-aos="fade-down">
                     <nav class="site-navigation position-relative text-right text-lg-center" role="navigation">
                         <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block" style="font-family: montserrat-bold;color: black">
-                            <li><a href="{{url('/')}}">Home</a></li>
+                            <li><a href="{{url('home')}}">Home</a></li>
                             <li class="has-children">
                                 <a href="{{'gallery'}}" style="color: #DFB916">Explore</a>
                                 <ul class="dropdown">
@@ -45,6 +45,7 @@
 
                             <li><a href="{{url('service')}}">Services</a></li>
                             <li><a href="{{url('client')}}">Clientele</a></li>
+                            <li><a href="#">Blog</a></li>
 
                             <li><a href="{{url('contact')}}">Contact</a></li>
                         </ul>
@@ -90,7 +91,7 @@
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">LARGE FORMAT PRINTING</h2>
-                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
+                            <a href="{{url('largeFormatPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
                 </div>
@@ -99,7 +100,7 @@
                         <div class="image-info" style="padding-top: 20px">
                             <br>
                             <h2 class="mb-3">OFFSET PRINTING</h2>
-                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
+                            <a href="{{url('offsetPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
                 </div>
