@@ -39,7 +39,7 @@
 </head>
 <body id="top">
 <header class="s-header">
-    <div class="header-logo"><a href="{{url('/')}}"><img src="asset/images/logo.png" alt="Header Logo"></a></div>
+    <div class="header-logo"><a href="{{url('/')}}"><img src="asset/images/lgg.png" alt="Header Logo"></a></div>
     <nav class="header-nav"  style="background-color: #DFB916"><a href="#0" class="header-nav__close" title="close"><span style="color:black">Close</span></a>
         <div class="header-nav__content"><h3 style="color: black">Navigation</h3>
             <ul class="header-nav__list">
