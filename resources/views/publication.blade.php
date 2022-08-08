@@ -3,7 +3,7 @@
 
 <!-- Mirrored from preview.colorlib.com/theme/photon/single.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 26 Apr 2022 07:55:33 GMT -->
 <head>
-    <title>Large Format Printing - Website</title>
+    <title>Publication - Website</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300i,400,700" rel="stylesheet">
@@ -48,6 +48,7 @@
                                 </ul>
                             </li>
                             <li><a href="{{url('about')}}">About Us</a></li>
+
                             <li><a href="{{url('service')}}">Services</a></li>
                             <li><a href="{{url('client')}}">Clientele</a></li>
                             <li><a href="#">Blog</a></li>
@@ -84,111 +85,112 @@
                 <div class="col-md-7">
                     <div class="row mb-5">
                         <div class="col-12 ">
-                            <h2 class="site-section-heading text-center">Large Format Printing</h2>
-                            <p style="text-align: center;font-family: montserrat-bold;font-size:18px">This Printing method is ideal for large print media such as: banners, window graphics & wraps,<br> billboards, back drop & roll-up banners, floor graphics, canvas mural prints, pvc stickers & labels,<br> frosted prints, flags and much more.</p>
+                            <h2 class="site-section-heading text-center">Publication</h2>
+                            <p style="text-align: center;font-family: montserrat-bold;font-size:16.8px">Publications are usually printed on paper like magazines and books, while online publications are delivered via the internet.<br>They include academic books, catalogues, periodic magazines, monographs, journals- trade journals, research and scholarly journals.</p>
+
                         </div>
                     </div>
                 </div>
-                <div class="container">
-                    <div class="gallery">
+            </div>
+            <div class="container">
+                <div class="gallery">
 
-                        <div class="gallery-item">
-                            <img class="gallery-image" src="{{asset('asset/img/rrr.png')}}" alt="person writing in a notebook beside by an iPad, laptop, printed photos, spectacles, and a cup of coffee on a saucer">
-                        </div>
+                    <div class="gallery-item">
+                        <img class="gallery-image" src="{{asset('asset/img/p5.png')}}" alt="person writing in a notebook beside by an iPad, laptop, printed photos, spectacles, and a cup of coffee on a saucer">
+                    </div>
 
-                        <div class="gallery-item">
-                            <img class="gallery-image" src="{{asset('asset/img/bbb.png')}}" alt="sunset behind San Francisco city skyline">
-                        </div>
+                    <div class="gallery-item">
+                        <img class="gallery-image" src="{{asset('asset/img/p2.png')}}" alt="sunset behind San Francisco city skyline">
+                    </div>
 
-                        <div class="gallery-item">
-                            <img class="gallery-image" src="{{asset('asset/img/ggg.png')}}" alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan">
-                        </div>
+                    <div class="gallery-item">
+                        <img class="gallery-image" src="{{asset('asset/img/p3.png')}}" alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan">
+                    </div>
 
-                        <div class="gallery-item">
-                            <img class="gallery-image" src="{{asset('asset/img/fff.png')}}" alt="car interior from central back seat position showing driver and blurred view through windscreen of a busy road at night">
-                        </div>
+                    <div class="gallery-item">
+                        <img class="gallery-image" src="{{asset('asset/img/p1.png')}}" alt="car interior from central back seat position showing driver and blurred view through windscreen of a busy road at night">
+                    </div>
 
-                        <div class="gallery-item">
-                            <img class="gallery-image" src="{{asset('asset/img/ttt.png')}}" alt="back view of woman wearing a backpack and beanie waiting to cross the road on a busy street at night in New York City, USA">
-                        </div>
+                    <div class="gallery-item">
+                        <img class="gallery-image" src="{{asset('asset/img/p4.png')}}" alt="back view of woman wearing a backpack and beanie waiting to cross the road on a busy street at night in New York City, USA">
+                    </div>
 
-                        <div class="gallery-item">
-                            <img class="gallery-image" src="{{asset('asset/img/vvv.png')}}" alt="man wearing a black jacket, white shirt, blue jeans, and brown boots, playing a white electric guitar while sitting on an amp">
-                        </div>
-
+                    <div class="gallery-item">
+                        <img class="gallery-image" src="{{asset('asset/img/p.png')}}" alt="man wearing a black jacket, white shirt, blue jeans, and brown boots, playing a white electric guitar while sitting on an amp">
                     </div>
 
                 </div>
-                <style>
-                    /*
 
-        All grid code is placed in a 'supports' rule (feature query) at the bottom of the CSS (Line 77).
+            </div>
+            <style>
+                /*
 
-        The 'supports' rule will only run if your browser supports CSS grid.
+    All grid code is placed in a 'supports' rule (feature query) at the bottom of the CSS (Line 77).
 
-        Flexbox is used as a fallback so that browsers which don't support grid will still recieve an identical layout.
+    The 'supports' rule will only run if your browser supports CSS grid.
 
-        */
+    Flexbox is used as a fallback so that browsers which don't support grid will still recieve an identical layout.
 
-                    @import url(https://fonts.googleapis.com/css?family=Montserrat:500);
+    */
 
-
-                    .container {
-                        max-width: 100rem;
-                        margin: 0 auto;
-                        padding: 0 2rem 2rem;
-                    }
+                @import url(https://fonts.googleapis.com/css?family=Montserrat:500);
 
 
+                .container {
+                    max-width: 100rem;
+                    margin: 0 auto;
+                    padding: 0 2rem 2rem;
+                }
 
 
+
+
+                .gallery {
+                    display: flex;
+                    flex-wrap: wrap;
+                    /* Compensate for excess margin on outer gallery flex items */
+                    margin: -1rem -1rem;
+                }
+
+                .gallery-item {
+                    /* Minimum width of 24rem and grow to fit available space */
+                    flex: 1 0 24rem;
+                    /* Margin value should be half of grid-gap value as margins on flex items don't collapse */
+                    margin: 1rem;
+                    box-shadow: 0.3rem 0.4rem 0.4rem rgba(0, 0, 0, 0.4);
+                    overflow: hidden;
+                }
+
+                /*
+
+                The following rule will only run if your browser supports CSS grid.
+
+                Remove or comment-out the code block below to see how the browser will fall-back to flexbox styling.
+
+                */
+
+                @supports (display: grid) {
                     .gallery {
-                        display: flex;
-                        flex-wrap: wrap;
-                        /* Compensate for excess margin on outer gallery flex items */
-                        margin: -1rem -1rem;
+                        grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
+                        grid-gap: 2rem;
                     }
 
+                    .gallery,
                     .gallery-item {
-                        /* Minimum width of 24rem and grow to fit available space */
-                        flex: 1 0 24rem;
-                        /* Margin value should be half of grid-gap value as margins on flex items don't collapse */
-                        margin: 1rem;
-                        box-shadow: 0.3rem 0.4rem 0.4rem rgba(0, 0, 0, 0.4);
-                        overflow: hidden;
+                        margin: 0;
                     }
+                }
 
-                    /*
-
-                    The following rule will only run if your browser supports CSS grid.
-
-                    Remove or comment-out the code block below to see how the browser will fall-back to flexbox styling.
-
-                    */
-
-                    @supports (display: grid) {
-                        .gallery {
-                            grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
-                            grid-gap: 2rem;
-                        }
-
-                        .gallery,
-                        .gallery-item {
-                            margin: 0;
-                        }
-                    }
-
-                </style>
-            </div>
+            </style>
         </div>
-        <div class="footer py-4">
-            <div class="container-fluid text-center">
-                <p>
+    </div>
+    <div class="footer py-4">
+        <div class="container-fluid text-center">
+            <p>
 
-                    Copyright &copy;<script data-cfasync="false" src="https://preview.colorlib.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank">Colorlib</a>
+                Copyright &copy;<script data-cfasync="false" src="https://preview.colorlib.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank">Colorlib</a>
 
-                </p>
-            </div>
+            </p>
         </div>
     </div>
 </div>
@@ -212,30 +214,6 @@
     $(document).ready(function(){
         $('#lightgallery').lightGallery();
     });
-    $('.images li img').hover(function() {
-        $(this).stop().fadeTo('fast', .5);
-        $(this).css({ 'cursor': 'pointer' });
-    }, function() {
-        $(this).stop().fadeTo('fast', 1);
-    });
-
-    $('.images li img').click(function() {
-        $('.overlay').fadeIn('fast');
-
-        var img_src = $(this).attr('src');
-
-        $('.overlay-image').html('<img src="' + img_src + '">');
-    });
-
-    $('.close-overlay').hover(function() {
-        $(this).css({ cursor: 'pointer' });
-    });
-
-    $('.close-overlay').click(function() {
-        $('.overlay').fadeOut('fast');
-    });
-
-
 </script>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>

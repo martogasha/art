@@ -34,11 +34,15 @@
                                 <ul class="dropdown">
                                     <li><a href="{{url('digitalPrinting')}}">Digital Printing</a></li>
                                     <li><a href="{{url('largeFormatPrinting')}}">Large Format Printing</a></li>
-                                    <li><a href="#">People</a></li>
-                                    <li><a href="#">Architecture</a></li>
-                                    <li><a href="#">Animals</a></li>
-                                    <li><a href="#">Sports</a></li>
-                                    <li><a href="#">Travel</a></li>
+                                    <li><a href="{{url('offsetPrinting')}}">Offset Printing</a></li>
+                                    <li><a href="{{url('designLayout')}}">Design and Layout</a></li>
+                                    <li><a href="{{url('outdoor')}}">Outdoor Advertising</a></li>
+                                    <li><a href="{{url('Publication')}}">Publication</a></li>
+                                    <li><a href="{{url('brandingPromotion')}}">Branding and Promotion</a></li>
+                                    <li><a href="{{url('Packaging')}}">Packaging Design</a></li>
+                                    <li><a href="{{url('corporate')}}">Corporate Stationary</a></li>
+                                    <li><a href="{{url('infographics')}}">Infographics</a></li>
+                                    <li><a href="{{url('onlineAdvertising')}}">Online Advertising</a></li>
                                 </ul>
                             </li>
                             <li><a href="{{url('about')}}">About Us</a></li>
@@ -108,7 +112,7 @@
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">DESIGN AND LAYOUT</h2>
-                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
+                            <a href="{{url('designLayout')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
                 </div>
@@ -118,7 +122,7 @@
                             <br>
                             <br>
                             <h2 class="mb-3">OUTDOOR ADVERTISING</h2>
-                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
+                            <a href="{{url('outdoor')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
                 </div>
@@ -130,7 +134,7 @@
                             <br>
                             <br>
                             <h2 class="mb-3">PUBLICATIONS</h2>
-                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
+                            <a href="{{url('Publication')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
                 </div>
@@ -138,7 +142,7 @@
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <h2 class="mb-3">BRANDING AND PROMOTION</h2>
-                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
+                            <a href="{{url('brandingPromotion')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
                 </div>
@@ -148,7 +152,7 @@
                             <br>
                             <br>
                             <h2 class="mb-3">PACKAGING DESIGN</h2>
-                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
+                            <a href="{{url('Packaging')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
                 </div>
@@ -158,7 +162,7 @@
                             <br>
                             <br>
                             <h2 class="mb-3">CORPORATE STATIONERY</h2>
-                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
+                            <a href="{{url('corporate')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
                 </div>
@@ -171,7 +175,7 @@
                             <h2 class="mb-3">INFOGRAPHICS
                                 <br>
                                 <br>
-                                <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
+                                <a href="{{url('infographics')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                             </h2>
                         </div>
                     </div>
@@ -181,8 +185,8 @@
                         <div class="image-info">
                             <br>
                             <br>
-                            <h2 class="mb-3">DIGITAL SERVICES</h2>
-                            <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
+                            <h2 class="mb-3">ONLINE ADVERTISING</h2>
+                            <a href="{{url('onlineAdvertising')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
                 </div>

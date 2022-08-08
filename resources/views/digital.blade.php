@@ -23,7 +23,7 @@
         <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-6 col-xl-2" data-aos="fade-down">
-                    <h1 class="mb-0"><a href="{{url('/')}}"><img src="asset/images/logo.png" alt="Header Logo"></a></h1>
+                    <h1 class="mb-0"><a href="{{url('/')}}"><img src="asset/images/lgg.png" alt="Header Logo"></a></h1>
                 </div>
                 <div class="col-10 col-md-8 d-none d-xl-block" data-aos="fade-down">
                     <nav class="site-navigation position-relative text-right text-lg-center" role="navigation">
@@ -35,10 +35,15 @@
                                     <li><a href="{{url('digitalPrinting')}}">Digital Printing</a></li>
                                     <li><a href="{{url('largeFormatPrinting')}}">Large Format Printing</a></li>
                                     <li><a href="{{url('offsetPrinting')}}">Offset Printing</a></li>
-                                    <li><a href="#">Architecture</a></li>
-                                    <li><a href="#">Animals</a></li>
-                                    <li><a href="#">Sports</a></li>
-                                    <li><a href="#">Travel</a></li>
+                                    <li><a href="{{url('designLayout')}}">Design and Layout</a></li>
+                                    <li><a href="{{url('brandingPromotion')}}">Branding and Promotion</a></li>
+                                    <li><a href="{{url('outdoor')}}">Outdoor Advertising</a></li>
+                                    <li><a href="{{url('Publication')}}">Publication</a></li>
+                                    <li><a href="{{url('Packaging')}}">Packaging Design</a></li>
+                                    <li><a href="{{url('corporate')}}">Corporate Stationary</a></li>
+                                    <li><a href="{{url('infographics')}}">Infographics</a></li>
+                                    <li><a href="{{url('onlineAdvertising')}}">Online Advertising</a></li>
+
                                 </ul>
                             </li>
                             <li><a href="{{url('about')}}">About Us</a></li>
@@ -94,7 +99,7 @@
                     </div>
 
                     <div class="gallery-item">
-                        <img class="gallery-image" src="{{asset('asset/img/obbb.png')}}" alt="sunset behind San Francisco city skyline">
+                        <img class="gallery-image" src="{{asset('asset/img/eee.png')}}" alt="sunset behind San Francisco city skyline">
                     </div>
 
                     <div class="gallery-item">

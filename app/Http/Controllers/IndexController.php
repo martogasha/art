@@ -21,6 +21,30 @@ class IndexController extends Controller
     public function offsetPrinting(){
         return view('offset');
     }
+    public function designLayout(){
+        return view('designLayout');
+    }
+    public function outdoor(){
+        return view('outdoor');
+    }
+    public function publication(){
+        return view('publication');
+    }
+    public function brandingPromotion(){
+        return view('brandingPromotion');
+    }
+    public function Packaging(){
+        return view('packaging');
+    }
+    public function corporate(){
+        return view('corporate');
+    }
+    public function infographics(){
+        return view('infographics');
+    }
+    public function onlineAdvertising(){
+        return view('onlineAdvert');
+    }
     public function services(){
         return view('service');
     }
