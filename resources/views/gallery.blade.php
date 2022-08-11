@@ -180,7 +180,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="swiper-slide" style="background-image: url(asset/images/DI.png)">
+                <div class="swiper-slide" style="background-image: url(asset/images/dff.png)">
                     <div class="image-wrap" style="background-color: rgba(0, 0, 0, 0.5);">
                         <div class="image-info">
                             <br>
