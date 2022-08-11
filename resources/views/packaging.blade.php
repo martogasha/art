@@ -40,7 +40,7 @@
                                     <li><a href="{{url('Publication')}}">Publication</a></li>
                                     <li><a href="{{url('brandingPromotion')}}">Branding and Promotion</a></li>
                                     <li><a href="{{url('Packaging')}}">Packaging Design</a></li>
-                                    <li><a href="{{url('corporate')}}">Corporate Stationary</a></li>
+                                    <li><a href="{{url('corporate')}}">Corporate Stationery</a></li>
                                     <li><a href="{{url('infographics')}}">Infographics</a></li>
                                     <li><a href="{{url('onlineAdvertising')}}">Online Advertising</a></li>
 
@@ -85,7 +85,7 @@
                     <div class="row mb-5">
                         <div class="col-12 ">
                             <h2 class="site-section-heading text-center">Packaging Design</h2>
-                            <p style="text-align: center;font-family: montserrat-bold;font-size:16.8px">Thia involves the design and creation of a product's container and how it looks to consumers who might purchase it.<br>Your packaging is an element of your marketing strategy. Product features may be printed on the box or a nutritional fact label may be available for review.<br>A good packagin design needs to: Appeal to a well-defined buyer persona, Promote your product's unique selling point. Communicate your brand's identity.<br>Your packaging could be the difference between a new customer picking your product from the shop shelf and win them, or picking up that of your competitor's and lose them.<br>Consumers judge your product by its packaging before they ever get to find out what it can do, so you need to make it great.</p>
+                            <p style="text-align: center;font-family: montserrat-bold;font-size:16.8px">Thia involves the design and creation of a product's container and how it looks to consumers who might purchase it.<br>Your packaging is an element of your marketing strategy. Product features may be printed on the box or a nutritional fact label may be available for review.A good packagin design needs to: Appeal to a well-defined buyer persona, Promote your product's unique selling point. Communicate your brand's identity. Your packaging could be the difference between a new customer picking your product from the shop shelf and win them, or picking up that of your competitor's and lose them. Consumers judge your product by its packaging before they ever get to find out what it can do, so you need to make it great.</p>
 
                         </div>
                     </div>

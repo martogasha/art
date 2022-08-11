@@ -3,7 +3,7 @@
 
 <!-- Mirrored from preview.colorlib.com/theme/photon/single.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 26 Apr 2022 07:55:33 GMT -->
 <head>
-    <title>Corporate Stationary - Website</title>
+    <title>Corporate Stationery - Website</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300i,400,700" rel="stylesheet">
@@ -40,7 +40,7 @@
                                     <li><a href="{{url('Publication')}}">Publication</a></li>
                                     <li><a href="{{url('brandingPromotion')}}">Branding and Promotion</a></li>
                                     <li><a href="{{url('Packaging')}}">Packaging Design</a></li>
-                                    <li><a href="{{url('corporate')}}">Corporate Stationary</a></li>
+                                    <li><a href="{{url('corporate')}}">Corporate Stationery</a></li>
                                     <li><a href="{{url('infographics')}}">Infographics</a></li>
                                     <li><a href="{{url('onlineAdvertising')}}">Online Advertising</a></li>
 
@@ -84,7 +84,7 @@
                 <div class="col-md-7">
                     <div class="row mb-5">
                         <div class="col-12 ">
-                            <h2 class="site-section-heading text-center">Corporate Stationary</h2>
+                            <h2 class="site-section-heading text-center">Corporate Stationery</h2>
                             <p style="text-align: center;font-family: montserrat-bold;font-size:16.8px">It includes all printed documents that bear your business name, logo, slogan, and other details.<br>Every bit of paper used for communication with associates and customers is considered business stationery.<br>When designing custom stationery for your company, the first thing you need to do is define your brand. Certain colours and fonts can be used to convey power or creativity.<br>Make sure every single piece of printed communication reflects your chosen theme.<br>Business stationery and marketing materials in coordinated looks makes it easy to identify your brand in a saturated market.<br>It includes business cards, letterheads, branded envelopes, complimentary slips, notepads, pens, invoices, shipping labels, brochures, calendars, and presentation folders.</p>
 
                         </div>

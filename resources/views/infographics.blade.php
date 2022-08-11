@@ -40,7 +40,7 @@
                                     <li><a href="{{url('Publication')}}">Publication</a></li>
                                     <li><a href="{{url('brandingPromotion')}}">Branding and Promotion</a></li>
                                     <li><a href="{{url('Packaging')}}">Packaging Design</a></li>
-                                    <li><a href="{{url('corporate')}}">Corporate Stationary</a></li>
+                                    <li><a href="{{url('corporate')}}">Corporate Stationery</a></li>
                                     <li><a href="{{url('infographics')}}">Infographics</a></li>
                                     <li><a href="{{url('onlineAdvertising')}}">Online Advertising</a></li>
 
@@ -85,7 +85,7 @@
                     <div class="row mb-5">
                         <div class="col-12 ">
                             <h2 class="site-section-heading text-center">Infographics</h2>
-                            <p style="text-align: center;font-family: montserrat-bold;font-size:16.8px">An infographics is a collection of imagery data visualization like pie charts and bar graphs, and minimal text that gives an easy-to-understand overview of a topic.<br>Infographics use striking, engaging visuals to communicate information quickly and clearly.<br>Use infographics can be adopted by various professionals:<br>-Marketing consultants can use infographics to explain processes to their clients.<br>-Human Resources specialists need to communicate a lot of dry information to teams and have them pay attention.<br>HR can use infographics to maje information more digestable and attention-grabbing.<br>-Real estate agents know that a big part of their job is communicating processes to client. A process infographic can help alleviate some<br>of the stress and mystery around the property-buying process.<br>We design infographics that are ideal for-illustrating data, simplifying a complex subject, drawing a comparison, creating awareness and summarising longer content.</p>
+                            <p style="text-align: center;font-family: montserrat-bold;font-size:16.8px">An infographics is a collection of imagery data visualization like pie charts and bar graphs, and minimal text that gives an easy-to-understand overview of a topic.Infographics use striking, engaging visuals to communicate information quickly and clearly.<br>Use infographics can be adopted by various professionals:<br>-Marketing consultants can use infographics to explain processes to their clients.<br>-Human Resources specialists need to communicate a lot of dry information to teams and have them pay attention.<br>HR can use infographics to maje information more digestable and attention-grabbing.<br>-Real estate agents know that a big part of their job is communicating processes to client. A process infographic can help alleviate some of the stress and mystery around the property-buying process.<br>We design infographics that are ideal for-illustrating data, simplifying a complex subject, drawing a comparison, creating awareness and summarising longer content.</p>
 
                         </div>
                     </div>

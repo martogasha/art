@@ -40,7 +40,7 @@
                                     <li><a href="{{url('Publication')}}">Publication</a></li>
                                     <li><a href="{{url('brandingPromotion')}}">Branding and Promotion</a></li>
                                     <li><a href="{{url('Packaging')}}">Packaging Design</a></li>
-                                    <li><a href="{{url('corporate')}}">Corporate Stationary</a></li>
+                                    <li><a href="{{url('corporate')}}">Corporate Stationery</a></li>
                                     <li><a href="{{url('infographics')}}">Infographics</a></li>
                                     <li><a href="{{url('onlineAdvertising')}}">Online Advertising</a></li>
 

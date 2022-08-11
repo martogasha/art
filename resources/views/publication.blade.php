@@ -40,7 +40,7 @@
                                     <li><a href="{{url('Publication')}}">Publication</a></li>
                                     <li><a href="{{url('brandingPromotion')}}">Branding and Promotion</a></li>
                                     <li><a href="{{url('Packaging')}}">Packaging Design</a></li>
-                                    <li><a href="{{url('corporate')}}">Corporate Stationary</a></li>
+                                    <li><a href="{{url('corporate')}}">Corporate Stationery</a></li>
                                     <li><a href="{{url('infographics')}}">Infographics</a></li>
                                     <li><a href="{{url('onlineAdvertising')}}">Online Advertising</a></li>
 
@@ -86,7 +86,7 @@
                     <div class="row mb-5">
                         <div class="col-12 ">
                             <h2 class="site-section-heading text-center">Publication</h2>
-                            <p style="text-align: center;font-family: montserrat-bold;font-size:16.8px">Publications are usually printed on paper like magazines and books, while online publications are delivered via the internet.<br>They include academic books, catalogues, periodic magazines, monographs, journals- trade journals, research and scholarly journals.</p>
+                            <p style="text-align: center;font-family: montserrat-bold;font-size:16px">Publications are usually printed on paper like magazines and books, while online publications are delivered via the internet.<br>They include academic books, catalogues, periodic magazines, monographs, journals- trade journals, research and scholarly journals.</p>
 
                         </div>
                     </div>

@@ -40,7 +40,7 @@
                                     <li><a href="{{url('Publication')}}">Publication</a></li>
                                     <li><a href="{{url('brandingPromotion')}}">Branding and Promotion</a></li>
                                     <li><a href="{{url('Packaging')}}">Packaging Design</a></li>
-                                    <li><a href="{{url('corporate')}}">Corporate Stationary</a></li>
+                                    <li><a href="{{url('corporate')}}">Corporate Stationery</a></li>
                                     <li><a href="{{url('infographics')}}">Infographics</a></li>
                                     <li><a href="{{url('onlineAdvertising')}}">Online Advertising</a></li>
 
@@ -85,8 +85,8 @@
                 <div class="col-md-7">
                     <div class="row mb-5">
                         <div class="col-12 ">
-                            <h2 class="site-section-heading text-center">BRANDING AND PROMOTION</h2>
-                            <p style="text-align: center;font-family: montserrat-bold;font-size:16.8px">Promotional products are braded items with a company loago, slogan, or motto that are used in marketing, sales and advertising<br>They are generaly distributed by companies to their audience, employees and clients in trade shows and give aways.<br>The impontance increase brand awareness, facilitate connection with employees, they keep their your audience engaged and loyal<br>We use various methods and use most ideal to brand promo items to give you the intended value and rich your target audience<br>Our promo items range from apparels hoodies, dust coats, overalls, polo tshirts, jackets, mugs and drinkware-waterbottles, flasks and thermal mugs,<br>Tech products: -mouse and mouse pads, flash disks, harddisks, powerbanks and speakers, laptop bags and bag packs<br>also pens, notebooks and diaries, umbrella, keyholders, wristbands, badges, gift bags and trophies.</p>
+                            <h2 class="site-section-heading text-center">BRANDING AND PROMO</h2>
+                            <p style="text-align: center;font-family: montserrat-bold;font-size:16.8px">Promotional products are braded items with a company loago, slogan, or motto that are used in marketing, sales and advertising<br>They are generaly distributed by companies to their audience, employees and clients in trade shows and give aways.<br>The impontance increase brand awareness, facilitate connection with employees, they keep their your audience engaged and loyal<br>We use various methods and use most ideal to brand promo items to give you the intended value and rich your target audience<br>Our promo items range from apparels-hoodies, dust coats, overalls, polo tshirts, jackets, mugs and drinkware-waterbottles, flasks and thermal mugs,Tech products: -mouse and mouse pads, flash disks, harddisks, powerbanks and speakers, laptop bags and bag packs<br>also pens, notebooks and diaries, umbrella, keyholders, wristbands, badges, gift bags and trophies.</p>
 
                         </div>
                     </div>

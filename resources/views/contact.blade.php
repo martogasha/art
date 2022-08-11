@@ -40,7 +40,7 @@
                                     <li><a href="{{url('Publication')}}">Publication</a></li>
                                     <li><a href="{{url('brandingPromotion')}}">Branding and Promotion</a></li>
                                     <li><a href="{{url('Packaging')}}">Packaging Design</a></li>
-                                    <li><a href="{{url('corporate')}}">Corporate Stationary</a></li>
+                                    <li><a href="{{url('corporate')}}">Corporate Stationery</a></li>
                                     <li><a href="{{url('infographics')}}">Infographics</a></li>
                                     <li><a href="{{url('onlineAdvertising')}}">Online Advertising</a></li>
                                 </ul>
@@ -89,7 +89,7 @@
         <footer class="footer-distributed">
 
             <div class="footer-left">
-                <h3>EMAIL</h3>
+                <img src="asset/img/email.png" alt="Header Logo">
                 <p class="footer-links">
                     <a href="#">graphics.masterpiece@gmail.com</a>
                 </p>
@@ -99,7 +99,7 @@
 
             <div class="footer-center">
                 <div>
-                    <h3>PHONE</h3>
+                    <img src="asset/img/phone.png" alt="Header Logo">
                 </div>
                 <div>
                     <p>+254727007178</p>
@@ -109,7 +109,7 @@
             <div class="footer-right">
 
                 <p class="footer-company-about">
-                <h3>HQ</h3>
+              <img src="asset/img/loc.png" alt="Header Logo">
                 <p style="color:white;">Kweria road, Nairobi</p>
 
             </div>

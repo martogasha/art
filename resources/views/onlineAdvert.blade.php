@@ -40,7 +40,7 @@
                                     <li><a href="{{url('Publication')}}">Publication</a></li>
                                     <li><a href="{{url('brandingPromotion')}}">Branding and Promotion</a></li>
                                     <li><a href="{{url('Packaging')}}">Packaging Design</a></li>
-                                    <li><a href="{{url('corporate')}}">Corporate Stationary</a></li>
+                                    <li><a href="{{url('corporate')}}">Corporate Stationery</a></li>
                                     <li><a href="{{url('infographics')}}">Infographics</a></li>
                                     <li><a href="{{url('onlineAdvertising')}}">Online Advertising</a></li>
 
@@ -85,7 +85,7 @@
                     <div class="row mb-5">
                         <div class="col-12 ">
                             <h2 class="site-section-heading text-center">Online Advertising</h2>
-                            <p style="text-align: center;font-family: montserrat-bold;font-size:16.8px">This is promoting your product and services with the help of the internet.<br>It could appear in web browser, search engine, on social media, on mobile devices, and even in email.<br>Online advertising cab be achieved through: search engine marketing (SEM), Search engine optimisation (SEO), social media marketing, email marketing,<br>affiliate marketing, content marketing and display advertising that uses web banners and banner ads.<br>In the modern world of internet, online presence is essential for your business.</p>
+                            <p style="text-align: center;font-family: montserrat-bold;font-size:16.8px">This is promoting your product and services with the help of the internet.<br>It could appear in web browser, search engine, on social media, on mobile devices, and even in email.<br>Online advertising cab be achieved through: search engine marketing (SEM), Search engine optimisation (SEO), social media marketing, email marketing,affiliate marketing, content marketing and display advertising that uses web banners and banner ads.<br>In the modern world of internet, online presence is essential for your business.</p>
 
                         </div>
                     </div>
