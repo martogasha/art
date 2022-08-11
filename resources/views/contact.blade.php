@@ -89,7 +89,9 @@
         <footer class="footer-distributed">
 
             <div class="footer-left">
+                <div style="padding-left: 40px">
                 <img src="asset/img/email.png" alt="Header Logo">
+                </div>
                 <p class="footer-links">
                     <a href="#">graphics.masterpiece@gmail.com</a>
                 </p>
@@ -98,7 +100,7 @@
             </div>
 
             <div class="footer-center">
-                <div>
+                <div style="padding-left: 20px">
                     <img src="asset/img/phone.png" alt="Header Logo">
                 </div>
                 <div>
@@ -108,8 +110,9 @@
 
             <div class="footer-right">
 
-                <p class="footer-company-about">
+                <div style="padding-left: 20px">
               <img src="asset/img/loc.png" alt="Header Logo">
+                </div>
                 <p style="color:white;">Kweria road, Nairobi</p>
 
             </div>

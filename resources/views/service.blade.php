@@ -112,9 +112,9 @@
                     <br>
                     <p class="card-text" style="text-align: center;font-family: montserrat-black;color: black">Whether it's for marketing campaign, corporate event or corporate giveaway, they are perfect as giveaway to suppliers, staff and customers. They are a great opportunity to promote your business with branded items that serves as reminder to consumers every time they use the item. Our wide range of quality promotional products include</p>
                     <p style="text-align:center;margin-left: 10px;font-family: montserrat-black;color: black"><b><b style="color:black;font-family: montserrat-black;color: black">Apparel</b></b></p>
-                    <p style="text-align: left;margin-left: 10px;font-family: montserrat-black;color: black">T-shirts, Polo Shirts Overalls, Dust coats, Reflector jackets, Uniform, Caps, Bags</p>
+                    <p style="text-align: center;margin-left: 10px;font-family: montserrat-black;color: black">T-shirts, Polo Shirts Overalls, Dust coats, Reflector jackets, Uniform, Caps, Bags</p>
                     <p style="text-align: center;margin-left: 10px;font-family: montserrat-black;color: black"><b><b style="color:black;font-family: montserrat-black;color: black">Merchandise</b></b></p>
-                    <p style="text-align: left;margin-left: 10px;font-family: montserrat-black;color: black">Executive gift set, Water bottle, computer Accessories such as flash disks, mouse,bluetooth speakers and mousepads,corporate gift items, Trophys, wall clocks, umbrellas, key rings, Pens, Mugs and much more</p>                </div>
+                    <p style="text-align: center;margin-left: 10px;font-family: montserrat-black;color: black">Executive gift set, Water bottle, computer Accessories such as flash disks, mouse,bluetooth speakers and mousepads,corporate gift items, Trophys, wall clocks, umbrellas, key rings, Pens, Mugs and much more</p>                </div>
             </div>
             <div class="col-md-6 col-lg-6 col-xl-4 text-center mb-5 mb-lg-5">
                 <div class="h-100 p-4 p-lg-5 bg-light site-block-feature-7">
