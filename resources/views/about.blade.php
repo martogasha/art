@@ -92,7 +92,6 @@
                 <h3 style="text-align: center;font-family: montserrat-bold;color: black"><b>WHY US</b></h3>
                 <p style="font-family: montserrat-bold;color: white;text-align: center;font-size: 20px">Understanding your brands is our priority. We strive to build lasting brands that will assist in establishing a platform<br>for continued growth. Choose us for the value we provide in being more of a business partner.<br>We believe ingredients of valuable relationship are quality, time management, cost efficiency, flexibility and<br>transparency.<br>Fire up your brand with the best.</p>
             </div>
-            <br>
             <div class="wrapper">
                 <div class="grid" style="justify-content: center">
                     <div class="item bold" style="font-family: montserrat-bold;text-align: center;margin-top: 50px"><h1 class="underline-smal">Our Vision</h1></div>
