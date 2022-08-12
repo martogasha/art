@@ -89,7 +89,7 @@
         <footer class="footer-distributed">
 
             <div class="footer-left">
-                <div style="padding-left: 40px">
+                <div style="padding-left: 50px;padding-right: 40px">
                 <img src="asset/img/email.png" alt="Header Logo">
                 </div>
                 <p class="footer-links">
@@ -100,7 +100,7 @@
             </div>
 
             <div class="footer-center">
-                <div style="padding-left: 20px">
+                <div style="padding-left: 10px">
                     <img src="asset/img/phone.png" alt="Header Logo">
                 </div>
                 <div>
@@ -110,7 +110,7 @@
 
             <div class="footer-right">
 
-                <div style="padding-left: 20px">
+                <div style="padding-left: 20px;padding-right: 10px">
               <img src="asset/img/loc.png" alt="Header Logo">
                 </div>
                 <p style="color:white;">Kweria road, Nairobi</p>
