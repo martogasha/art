@@ -53,8 +53,8 @@
             </ul>
             <p STYLE="color: black">FOLLOW US</p>
             <ul class="header-nav__social">
-                <li><a href="#"><i class="fa fa-facebook" style="color: black;border-color: black"></i></a></li>
-                <li><a href="#"><i class="fa fa-instagram" style="color: black;border-color: black"></i></a></li>
+                <li><a href="https://www.facebook.com/Masterpiece-Graphics-192319244693954" target="_blank"><i class="fa fa-facebook" style="color: black;border-color: black"></i></a></li>
+                <li><a href="https://www.instagram.com/masterpiece_graphics/?hl=en" target="_blank"><i class="fa fa-instagram" style="color: black;border-color: black"></i></a></li>
                 <li><a href="#"><i class="fa fa-whatsapp" style="color: black;border-color: black"></i></a></li>
                 <li><a href="#"><i class="fa fa-twitter" style="color: black;border-color: black"></i></a></li>
             </ul>
@@ -65,8 +65,8 @@
 <section id="home" class="s-home target-section" data-parallax="scroll" data-image-src="images/hero-bg.jpg"
          data-natural-width=3000 data-natural-height=2000 data-position-y=center>
     <div class="shadow-overlay"></div>
-            <div class="vertical" style="font-family: montserrat-bold">
-                email@companydomain.com
+            <div class="vertical" style="font-family: montserrat-light">
+                Download Our Profile
             </div>
     <div class="home-content">
             <div class="row home-content__main"><h3 style="color: #DFB916;font-family: montserrat-regular;font-size: 20px">Welcome to Masterpiece Graphics</h3>

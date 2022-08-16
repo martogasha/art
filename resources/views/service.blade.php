@@ -57,13 +57,13 @@
                     <div class="d-none d-xl-inline-block">
                         <ul class="site-menu js-clone-nav ml-auto list-unstyled d-flex text-right mb-0" data-class="social">
                             <li>
-                                <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+                                <a href="https://www.facebook.com/Masterpiece-Graphics-192319244693954" target="_blank" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/masterpiece_graphics/?hl=en" target="_blank" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
                             </li>
                             <li>
                                 <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
-                            </li>
-                            <li>
-                                <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
                             </li>
                             <li>
                                 <a href="#" class="pl-3 pr-3"><span class="icon-youtube-play"></span></a>
@@ -161,7 +161,9 @@
         </div>
 
                     <style>
-
+                        .html{
+                            font-family: montserrat-black;
+                        }
                         .flexbox-container {
                             display: flex;
                             justify-content: center;

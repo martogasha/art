@@ -61,13 +61,13 @@
                     <div class="d-none d-xl-inline-block">
                         <ul class="site-menu js-clone-nav ml-auto list-unstyled d-flex text-right mb-0" data-class="social">
                             <li>
-                                <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+                                <a href="https://www.facebook.com/Masterpiece-Graphics-192319244693954" target="_blank" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/masterpiece_graphics/?hl=en" target="_blank" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
                             </li>
                             <li>
                                 <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
-                            </li>
-                            <li>
-                                <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
                             </li>
                             <li>
                                 <a href="#" class="pl-3 pr-3"><span class="icon-youtube-play"></span></a>
@@ -86,7 +86,7 @@
                     <div class="row mb-5">
                         <div class="col-12 ">
                             <h2 class="site-section-heading text-center">Branding & Promo</h2>
-                            <p style="text-align: center;font-family: montserrat-bold;font-size:16.8px">Promotional products are braded items with a company loago,slogan,or motto that are used in marketing,sales and advertising.<br>They are generaly distributed by companies to their audience,employees and clients in trade shows and give aways.<br>The impontance increase brand awareness,facilitate connection with employees,they keep their your audience engaged and loyal.<br>We use various methods and use most ideal to brand promo items to give you the intended value and rich your target audience.<br>Our promo items include apparels- hoodies,dust coats,overalls,polo tshirts,jackets,mugs and drinkware-waterbottles,flasks and thermal mugs,<br>Tech products- mouse and mouse pads, flash disks,harddisks,powerbanks and speakers,laptop bags and backpacks also pens,notebooks and diaries, umbrella, keyholders, wristbands, badges, gift bags and trophies.</p>
+                            <p style="text-align: center;font-family: montserrat-bold;font-size:16.8px">Promotional products are braded items with a company loago,slogan,or motto that are used in marketing,sales and advertising.<br>They are generaly distributed by companies to their audience,employees and clients in trade shows and give aways.<br>The impontance increase brand awareness,facilitate connection with employees,they keep their your audience engaged and loyal.<br>We use various methods and use most ideal to brand promo items to give you the intended value and rich your target audience.<br>Our promo items include:<br> Apparels- hoodies,dust coats,overalls,polo tshirts,jackets,mugs and drinkware-waterbottles,flasks and thermal mugs,<br>Tech products- mouse and mouse pads, flash disks,harddisks,powerbanks and speakers,laptop bags and backpacks<br> also pens,notebooks and diaries, umbrella, keyholders, wristbands, badges, gift bags and trophies.</p>
 
                         </div>
                     </div>
