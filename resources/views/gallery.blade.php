@@ -85,7 +85,7 @@
                         <div class="image-info">
                             <br>
                             <br>
-                            <h2 class="mb-3">DIGITAL PRINTING</h2>
+                            <h2 class="mb-3" style="font-family: montserrat-extrabold">DIGITAL PRINTING</h2>
                             <a href="{{url('digitalPrinting')}}" class="btn btn-outline-white py-2 px-4"><i style="font-size: 30px;color: gold">+</i></a>
                         </div>
                     </div>
