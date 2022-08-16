@@ -65,9 +65,11 @@
 <section id="home" class="s-home target-section" data-parallax="scroll" data-image-src="images/hero-bg.jpg"
          data-natural-width=3000 data-natural-height=2000 data-position-y=center>
     <div class="shadow-overlay"></div>
+    <a href="{{url('preview')}}">
             <div class="vertical" style="font-family: montserrat-light">
                 Download Our Profile
             </div>
+    </a>
     <div class="home-content">
             <div class="row home-content__main"><h3 style="color: #DFB916;font-family: montserrat-regular;font-size: 20px">Welcome to Masterpiece Graphics</h3>
             <h1 style="font-size: 40px;font-family: montserrat-bold"> We are a creative hub inclined to <br> providing professional solutions in <br> creative design, printing, branding <br> and digital marketing that enhance <br> your brand.
