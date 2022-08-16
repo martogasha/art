@@ -94,6 +94,8 @@
                 </div>
                 <p class="footer-links">
                     <a href="#">graphics.masterpiece@gmail.com</a>
+                    <br>
+                    <a href="#">hello@masterpiecegraphics.com</a>
                 </p>
 
 
