@@ -121,7 +121,12 @@
 <div class="row mb-5" style="background-color: black">
     <div class="col-12 ">
         <h2 class="site-section-heading text-center" style="color: white;font-family: montserrat-bold;font-size: 35px">Connect with us on</h2>
-        <h2 class="site-section-heading text-center" style="color: white;font-family: montserrat-bold;font-size: 25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a><a href="#" class="pl-0 pr-3"><span class="icon-instagram"></span></a><a href="#" class="pl-0 pr-3"><span class="icon-twitter"></span></a><a href="#" class="pl-0 pr-3"><span class="icon-whatsapp"></span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2>
+        <h2 class="site-section-heading text-center" style="color: white;font-family: montserrat-bold;font-size: 25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://www.facebook.com/Masterpiece-Graphics-192319244693954" target="_blank" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+            <a href="https://www.instagram.com/masterpiece_graphics/?hl=en" target="_blank" class="pl-0 pr-3"><span class="icon-instagram"></span></a>
+            <a href="#" class="pl-0 pr-3"><span class="icon-twitter"></span></a>
+            <a href="#" class="pl-0 pr-3"><span class="icon-whatsapp"></span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </h2>
     </div>
     <div class="container" id="gg">
     </div>
