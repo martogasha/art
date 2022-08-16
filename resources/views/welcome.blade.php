@@ -65,7 +65,7 @@
 <section id="home" class="s-home target-section" data-parallax="scroll" data-image-src="images/hero-bg.jpg"
          data-natural-width=3000 data-natural-height=2000 data-position-y=center>
     <div class="shadow-overlay"></div>
-    <a href="{{url('preview')}}" target="_blank" class="pswp__button">
+    <a href="{{url('preview')}}" target="_blank" class="home-content__buttons">
             <div class="vertical" style="font-family: montserrat-light;cursor: pointer">
                 Download Our Profile
             </div>
