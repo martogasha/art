@@ -82,8 +82,8 @@
         </div>
     </div>
     <ul class="home-social">
-        <li><a href="https://www.facebook.com/Masterpiece-Graphics-192319244693954"><i class="fa fa-facebook" aria-hidden="true"></i><span>Facebook</span></a></li>
-        <li><a href="https://www.instagram.com/masterpiece_graphics/?hl=en"><i class="fa fa-instagram" aria-hidden="true"></i><span>Instagram</span></a></li>
+        <li><a href="https://www.facebook.com/Masterpiece-Graphics-192319244693954" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i><span>Facebook</span></a></li>
+        <li><a href="https://www.instagram.com/masterpiece_graphics/?hl=en" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i><span>Instagram</span></a></li>
         <li><a href="#0"><i class="fa fa-whatsapp" aria-hidden="true"></i><span>Whatsapp</span></a></li>
         <li><a href="#0"><i class="fa fa-twitter" aria-hidden="true"></i><span>Twiiter</span></a></li>
 
