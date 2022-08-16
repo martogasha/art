@@ -66,7 +66,7 @@
          data-natural-width=3000 data-natural-height=2000 data-position-y=center>
     <div class="shadow-overlay"></div>
     <a href="{{url('preview')}}" target="_blank" class="pswp__button">
-            <div class="vertical" style="font-family: montserrat-light;cursor: default">
+            <div class="vertical" style="font-family: montserrat-light;cursor: pointer">
                 Download Our Profile
             </div>
     </a>
