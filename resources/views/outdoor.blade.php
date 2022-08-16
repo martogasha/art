@@ -85,7 +85,7 @@
                     <div class="row mb-5">
                         <div class="col-12 ">
                             <h2 class="site-section-heading text-center">Outdoor Advertising</h2>
-                            <p style="text-align: center;font-family: montserrat-bold;font-size:18px">It is any advertising done outdoors or in public locations that promote your business's products and services.<br>Outdoor advertising can be found on billboards, bus terminus, public benches, interiors and exteriors of buses, taxis and business vehicles,street pole advertising, shopping malls, airports, digital billboards and signages.</p>
+                            <p style="text-align: center;font-family: montserrat-bold;font-size:18px">It is any advertising done outdoors or in public locations that promote your business's products and services.<br>Outdoor advertising can be found on billboards, bus terminus, public benches, interiors and exteriors of buses,<br> taxis and business vehicles,street pole advertising, shopping malls, airports, digital billboards and signages.</p>
 
                         </div>
                     </div>
