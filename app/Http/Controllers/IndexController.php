@@ -58,7 +58,7 @@ class IndexController extends Controller
         return view('client');
     }
     public function preview(){
-        $pathToFile ="images/MG.pdf";
+        $pathToFile ="images/prof.pdf";
         return response()->file($pathToFile);
 
     }
