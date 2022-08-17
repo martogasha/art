@@ -8,6 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300i,400,700" rel="stylesheet">
     <link rel="stylesheet" href="asset/A.fonts%2c%2c_icomoon%2c%2c_style.css%2bcss%2c%2c_bootstrap.min.css%2bcss%2c%2c_magnific-popup.css%2bcss%2c%2c_jquery-ui.css%2bcss%2c%2c_owl.carousel.min.css%2bcss%2c%2c_owl.theme.default.min.css%2bcss%2c%2c_lightgallery.min.css%2bcss%2c%2c_bootstrap-d" />
+    <link rel="shortcut icon" href="images/fggg.png" type="image/x-icon">
+    <link rel="icon" href="images/fggg.png" type="image/x-icon">
     <script nonce="e12c5814-40d3-4af0-b2af-172a5fee1965">(function(w,d){!function(a,e,t,r){a.zarazData=a.zarazData||{},a.zarazData.executed=[],a.zaraz={deferred:[]},a.zaraz.q=[],a.zaraz._f=function(e){return function(){var t=Array.prototype.slice.call(arguments);a.zaraz.q.push({m:e,a:t})}};for(const e of["track","set","ecommerce","debug"])a.zaraz[e]=a.zaraz._f(e);a.addEventListener("DOMContentLoaded",(()=>{var t=e.getElementsByTagName(r)[0],z=e.createElement(r),n=e.getElementsByTagName("title")[0];for(n&&(a.zarazData.t=e.getElementsByTagName("title")[0].text),a.zarazData.w=a.screen.width,a.zarazData.h=a.screen.height,a.zarazData.j=a.innerHeight,a.zarazData.e=a.innerWidth,a.zarazData.l=a.location.href,a.zarazData.r=e.referrer,a.zarazData.k=a.screen.colorDepth,a.zarazData.n=e.characterSet,a.zarazData.o=(new Date).getTimezoneOffset(),a.zarazData.q=[];a.zaraz.q.length;){const e=a.zaraz.q.shift();a.zarazData.q.push(e)}z.defer=!0,z.referrerPolicy="origin",z.src="https://preview.colorlib.com/cdn-cgi/zaraz/s.js?z="+btoa(encodeURIComponent(JSON.stringify(a.zarazData))),t.parentNode.insertBefore(z,t)}))}(w,d,0,"script");})(window,document);</script></head>
 <body>
 <div class="site-wrap">
@@ -61,7 +63,7 @@
                                 <a href="https://www.facebook.com/Masterpiece-Graphics-192319244693954" target="_blank" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
                             </li>
                             <li>
-                                <a href="https://www.instagram.com/masterpiece_graphics/?hl=en" target="_blank" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+                                    <a href="https://www.instagram.com/masterpiece_graphics/?hl=en" target="_blank" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
                             </li>
                             <li>
                                 <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
@@ -251,7 +253,7 @@
         <div class="container-fluid text-center">
             <p>
 
-                Copyright &copy;<script data-cfasync="false" src="https://preview.colorlib.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank">Colorlib</a>
+                Copyright &copy;<script data-cfasync="false" src="https://preview.colorlib.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved
 
             </p>
         </div>

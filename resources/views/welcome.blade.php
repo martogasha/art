@@ -13,8 +13,8 @@
     <script src="js/modernizr.js%2bpace.min.js.pagespeed.jc.jYJkEWrgym.js"></script>
     <script>eval(mod_pagespeed_ustQdyNA22);</script>
     <script>eval(mod_pagespeed_CRiDk_PmFZ);</script>
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="images/fggg.png" type="image/x-icon">
+    <link rel="icon" href="images/fggg.png" type="image/x-icon">
     <script nonce="00e69868-b566-4904-914c-171134b245a4">(function (w, d) {
             !function (a, e, t, r) {
                 a.zarazData = a.zarazData || {}, a.zarazData.executed = [], a.zaraz = {deferred: []}, a.zaraz.q = [], a.zaraz._f = function (e) {
