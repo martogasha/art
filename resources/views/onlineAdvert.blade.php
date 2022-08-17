@@ -95,27 +95,27 @@
                 <div class="gallery">
 
                     <div class="gallery-item">
-                        <img class="gallery-image" src="{{asset('asset/img/oo4.png')}}" alt="person writing in a notebook beside by an iPad, laptop, printed photos, spectacles, and a cup of coffee on a saucer">
+                        <img class="gallery-image" src="{{asset('asset/img/oo4.png')}}" alt="person writing in a notebook beside by an iPad, laptop, printed photos, spectacles, and a cup of coffee on a saucer" style="width:100%;height: 100%">
                     </div>
 
                     <div class="gallery-item">
-                        <img class="gallery-image" src="{{asset('asset/img/oo1.png')}}" alt="sunset behind San Francisco city skyline">
+                        <img class="gallery-image" src="{{asset('asset/img/oo1.png')}}" alt="sunset behind San Francisco city skyline" style="width:100%;height: 100%">
                     </div>
 
                     <div class="gallery-item">
-                        <img class="gallery-image" src="{{asset('asset/img/o.png')}}" alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan">
+                        <img class="gallery-image" src="{{asset('asset/img/o.png')}}" alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan" style="width:100%;height: 100%">
                     </div>
 
                     <div class="gallery-item">
-                        <img class="gallery-image" src="{{asset('asset/img/o3.png')}}" alt="car interior from central back seat position showing driver and blurred view through windscreen of a busy road at night">
+                        <img class="gallery-image" src="{{asset('asset/img/o3.png')}}" alt="car interior from central back seat position showing driver and blurred view through windscreen of a busy road at night" style="width:100%;height: 100%">
                     </div>
 
                     <div class="gallery-item">
-                        <img class="gallery-image" src="{{asset('asset/img/oo5.png')}}" alt="back view of woman wearing a backpack and beanie waiting to cross the road on a busy street at night in New York City, USA">
+                        <img class="gallery-image" src="{{asset('asset/img/oo5.png')}}" alt="back view of woman wearing a backpack and beanie waiting to cross the road on a busy street at night in New York City, USA" style="width:100%;height: 100%">
                     </div>
 
                     <div class="gallery-item">
-                        <img class="gallery-image" src="{{asset('asset/img/oo2.png')}}" alt="man wearing a black jacket, white shirt, blue jeans, and brown boots, playing a white electric guitar while sitting on an amp">
+                        <img class="gallery-image" src="{{asset('asset/img/oo2.png')}}" alt="man wearing a black jacket, white shirt, blue jeans, and brown boots, playing a white electric guitar while sitting on an amp" style="width:100%;height: 100%">
                     </div>
 
                 </div>

@@ -95,7 +95,7 @@
                 <p class="footer-links">
                     <a href="#">graphics.masterpiece@gmail.com</a>
                     <br>
-                    <a href="#">hello@masterpiecegraphics.com</a>
+                    <a href="#">hello@masterpiece-graphics.com</a>
                 </p>
 
 
@@ -112,10 +112,15 @@
 
             <div class="footer-right">
 
-                <div style="padding-left: 20px;padding-right: 10px">
+                <div style="padding-left: 20px;padding-right: 10px;text-align: center">
               <img src="asset/img/loc.png" alt="Header Logo">
+                    <div>
+                        <p style="color:white">Kweria road,<br> Nairobi P.O BOX 47345-00100<br> Nairobi, Kenya</p>
+                    </div>
+
                 </div>
-                <p style="color:white;">Kweria road, Nairobi</p>
+
+
 
             </div>
         </footer>
