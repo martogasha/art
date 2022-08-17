@@ -3,7 +3,7 @@
 
 <!-- Mirrored from preview.colorlib.com/theme/photon/single.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 26 Apr 2022 07:55:33 GMT -->
 <head>
-    <title>Publication - Website</title>
+    <title>PUBLICATION - Masterpiece Graphics</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300i,400,700" rel="stylesheet">
@@ -32,7 +32,7 @@
                         <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block">
                             <li><a href="{{url('home')}}">Home</a></li>
                             <li class="has-children">
-                                <a href="{{'gallery'}}" style="color: #DFB916">Explore</a>
+                                <a href="{{'explore'}}" style="color: #DFB916">Explore</a>
                                 <ul class="dropdown">
                                     <li><a href="{{url('digitalPrinting')}}">Digital Printing</a></li>
                                     <li><a href="{{url('largeFormatPrinting')}}">Large Format Printing</a></li>

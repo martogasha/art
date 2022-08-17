@@ -26,7 +26,7 @@ Route::get('/', function () {
     return view('ttttt');
 });
 Route::get('/h', [App\Http\Controllers\IndexController::class, 'test']);
-Route::get('gallery', [App\Http\Controllers\IndexController::class, 'gallery']);
+Route::get('explore', [App\Http\Controllers\IndexController::class, 'gallery']);
 Route::get('digitalPrinting', [App\Http\Controllers\IndexController::class, 'digital']);
 Route::get('largeFormatPrinting', [App\Http\Controllers\IndexController::class, 'large']);
 Route::get('offsetPrinting', [App\Http\Controllers\IndexController::class, 'offsetPrinting']);

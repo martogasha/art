@@ -5,7 +5,7 @@
 <!-- Mirrored from preview.colorlib.com/theme/glint/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Apr 2022 06:40:43 GMT -->
 <head>
     <meta charset="utf-8">
-    <title>Glint</title>
+    <title>HOME - Masterpiece Graphics</title>
     <meta name="description" content="">
     <meta name="author" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -44,7 +44,7 @@
         <div class="header-nav__content"><h3 style="color: black">Navigation</h3>
             <ul class="header-nav__list">
                 <li class="current"><a class="smoothscroll" href="#home" title="home">Home</a></li>
-                <li><a href="{{url('gallery')}}" title="about">Explore</a></li>
+                <li><a href="{{url('explore')}}" title="about">Explore</a></li>
                 <li><a href="{{url('about')}}" title="about">About Us</a></li>
                 <li><a href="{{url('service')}}" title="services">Services</a></li>
                 <li><a href="{{url('client')}}" title="works">Clientele</a></li>
@@ -77,7 +77,7 @@
                 <h3 style="color: #DFB916;font-size: 20px;font-family: montserrat-bold"><span style="color: white;font-family: montserrat-semibold">"</span>When love and skill work together expect a masterpiece<span style="color: white">"</span></h3>
                 <p style="color: white;font-size:20px;font-family: montserrat-light">-John Ruskin</p>
             <a class="home-content__buttons">
-                <a href="{{url('gallery')}}"><button class="btn btn--primary" style="background-color: black;border-color: white;color: #DFB916;font-family: montserrat-bold;width: 200px">Explore</button></a>
+                <a href="{{url('explore')}}"><button class="btn btn--primary" style="background-color: black;border-color: white;color: #DFB916;font-family: montserrat-bold;width: 200px">Explore</button></a>
                 <a href="{{url('about')}}"><button class="btn btn--primary" style="background-color: black;border-color: white;color: #DFB916;font-family: montserrat-bold;width: 200px">More About Us</button></a>
             </a>
             </div>
